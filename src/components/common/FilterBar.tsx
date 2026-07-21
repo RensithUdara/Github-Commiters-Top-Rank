@@ -18,6 +18,7 @@ interface FilterBarProps {
   mode: Mode;
   sortBy: SortOption;
   isFetching: boolean;
+  embedded?: boolean;
   // eslint-disable-next-line @typescript-eslint/no-explicit-any
   refetch: () => Promise<any>;
 }
@@ -27,6 +28,7 @@ export const FilterBar = ({
   refetch,
   sortBy,
   isFetching,
+  embedded = false,
 }: FilterBarProps) => {
   const [searchParams, setSearchParams] = useSearchParams();
   const urlSearch = searchParams.get("search") || "";
@@ -78,7 +80,13 @@ export const FilterBar = ({
   };
 
   return (
-    <div className="surface color-surface mb-10 rounded-lg p-3">
+    <div
+      className={
+        embedded
+          ? "rounded-lg"
+          : "surface color-surface mb-10 rounded-lg p-3"
+      }
+    >
       <div className="flex flex-row items-center justify-between gap-3 md:flex-col">
         <div className="flex w-full items-center gap-3 sm:gap-2">
           <ToggleGroup

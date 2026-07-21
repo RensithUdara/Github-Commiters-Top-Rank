@@ -293,8 +293,8 @@ const Country = () => {
         </div>
       </section>
 
-      <div className="mx-auto flex w-full flex-col gap-3">
-        <div className="surface flex items-center gap-3 rounded-lg p-3">
+      <div className="surface mx-auto mb-10 flex w-full flex-col gap-3 rounded-lg p-3">
+        <div className="flex items-center gap-3">
           <Link
             to="/"
             className="flex h-11 w-11 shrink-0 items-center justify-center rounded-md border border-gray-200 bg-white text-gray-500 transition-all hover:border-teal-300 hover:text-teal-700 dark:border-white/10 dark:bg-gray-950/50 dark:hover:text-teal-300"
@@ -327,6 +327,7 @@ const Country = () => {
           sortBy={sortBy}
           isFetching={isFetching}
           refetch={refetch}
+          embedded
         />
       </div>
 
