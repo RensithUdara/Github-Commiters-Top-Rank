@@ -1,0 +1,2048 @@
+{
+  "country": {
+    "slug": "japan",
+    "name": "Japan"
+  },
+  "generatedAt": "2026-07-21T15:46:38.743Z",
+  "users": [
+    {
+      "rank": 1,
+      "username": "bannzai",
+      "realname": "bannzai",
+      "profile": "https://github.com/bannzai",
+      "commits": 36198,
+      "avatar": "https://avatars.githubusercontent.com/u/10897361?u=3b3e9003f8edebbd8d68d1856eab20e38392112b&v=4&s=40"
+    },
+    {
+      "rank": 2,
+      "username": "MagicalTux",
+      "realname": "Mark Karpelès",
+      "profile": "https://github.com/MagicalTux",
+      "commits": 31409,
+      "avatar": "https://avatars.githubusercontent.com/u/333658?v=4&s=40"
+    },
+    {
+      "rank": 3,
+      "username": "rsasaki0109",
+      "realname": "Ryohei Sasaki",
+      "profile": "https://github.com/rsasaki0109",
+      "commits": 22651,
+      "avatar": "https://avatars.githubusercontent.com/u/18298605?v=4&s=40"
+    },
+    {
+      "rank": 4,
+      "username": "yuiseki",
+      "realname": "yuiseki",
+      "profile": "https://github.com/yuiseki",
+      "commits": 17186,
+      "avatar": "https://avatars.githubusercontent.com/u/25507?u=6aaa2ca06dc942e7e9afe7ee95d603318f6e4d3b&v=4&s=40"
+    },
+    {
+      "rank": 5,
+      "username": "mizchi",
+      "realname": "Kotaro Chikuba",
+      "profile": "https://github.com/mizchi",
+      "commits": 15748,
+      "avatar": "https://avatars.githubusercontent.com/u/73962?v=4&s=40"
+    },
+    {
+      "rank": 6,
+      "username": "j5ik2o",
+      "realname": "Junichi Kato",
+      "profile": "https://github.com/j5ik2o",
+      "commits": 12957,
+      "avatar": "https://avatars.githubusercontent.com/u/461711?v=4&s=40"
+    },
+    {
+      "rank": 7,
+      "username": "Takazudo",
+      "realname": "Takeshi Takatsudo",
+      "profile": "https://github.com/Takazudo",
+      "commits": 11944,
+      "avatar": "https://avatars.githubusercontent.com/u/128233?u=60e08cc51f2db069ffb01a0060e194142b4fbf24&v=4&s=40"
+    },
+    {
+      "rank": 8,
+      "username": "tokuhirom",
+      "realname": "Tokuhiro Matsuno",
+      "profile": "https://github.com/tokuhirom",
+      "commits": 11880,
+      "avatar": "https://avatars.githubusercontent.com/u/21084?v=4&s=40"
+    },
+    {
+      "rank": 9,
+      "username": "syoyo",
+      "realname": "Syoyo Fujita",
+      "profile": "https://github.com/syoyo",
+      "commits": 9409,
+      "avatar": "https://avatars.githubusercontent.com/u/18676?u=e13fc43f3f2dcfa1cd608a79434d363adfa76c72&v=4&s=40"
+    },
+    {
+      "rank": 10,
+      "username": "ncaq",
+      "profile": "https://github.com/ncaq",
+      "commits": 9374,
+      "avatar": "https://avatars.githubusercontent.com/u/2913112?u=113dd9e5a16d29137da6309c21edc67e91e59ade&v=4&s=40"
+    },
+    {
+      "rank": 11,
+      "username": "fumiya-kume",
+      "realname": "kuu(Fumiya Kume",
+      "profile": "https://github.com/fumiya-kume",
+      "commits": 8881,
+      "avatar": "https://avatars.githubusercontent.com/u/16269075?u=8a197b254136520ec017c54d76e2f203287a61cf&v=4&s=40"
+    },
+    {
+      "rank": 12,
+      "username": "yaneurao",
+      "realname": "yaneurao",
+      "profile": "https://github.com/yaneurao",
+      "commits": 8732,
+      "avatar": "https://avatars.githubusercontent.com/u/6571106?v=4&s=40"
+    },
+    {
+      "rank": 13,
+      "username": "unhappychoice",
+      "realname": "Yuji Ueki",
+      "profile": "https://github.com/unhappychoice",
+      "commits": 8542,
+      "avatar": "https://avatars.githubusercontent.com/u/5608948?u=6ca2fca8320cb6be5b802f6c5a6359933754ab2e&v=4&s=40"
+    },
+    {
+      "rank": 14,
+      "username": "manman4",
+      "realname": "manman4",
+      "profile": "https://github.com/manman4",
+      "commits": 8463,
+      "avatar": "https://avatars.githubusercontent.com/u/7023566?u=23a789fef96ddbb09ae8b07da9c69216672177c7&v=4&s=40"
+    },
+    {
+      "rank": 15,
+      "username": "sile",
+      "realname": "Takeru Ohta",
+      "profile": "https://github.com/sile",
+      "commits": 8451,
+      "avatar": "https://avatars.githubusercontent.com/u/181413?u=ff87b15dfc1bed8391aac79368466e6b4964a49d&v=4&s=40"
+    },
+    {
+      "rank": 16,
+      "username": "tekezo",
+      "realname": "Takayama Fumihiko",
+      "profile": "https://github.com/tekezo",
+      "commits": 8310,
+      "avatar": "https://avatars.githubusercontent.com/u/659178?v=4&s=40"
+    },
+    {
+      "rank": 17,
+      "username": "atusy",
+      "profile": "https://github.com/atusy",
+      "commits": 8070,
+      "avatar": "https://avatars.githubusercontent.com/u/30277794?u=04af2c7daa8d62aa104be62896021983644b1658&v=4&s=40"
+    },
+    {
+      "rank": 18,
+      "username": "yanorei32",
+      "realname": "Ray Yano | あねてあ",
+      "profile": "https://github.com/yanorei32",
+      "commits": 8013,
+      "avatar": "https://avatars.githubusercontent.com/u/11992915?u=1913e81d958485a14e7131fb6828659298240175&v=4&s=40"
+    },
+    {
+      "rank": 19,
+      "username": "miyako",
+      "realname": "Keisuke Miyako",
+      "profile": "https://github.com/miyako",
+      "commits": 7046,
+      "avatar": "https://avatars.githubusercontent.com/u/1725068?u=d2de046a146dd39e27629b23617cee60cf094524&v=4&s=40"
+    },
+    {
+      "rank": 20,
+      "username": "mizzy",
+      "realname": "Gosuke Miyashita",
+      "profile": "https://github.com/mizzy",
+      "commits": 7006,
+      "avatar": "https://avatars.githubusercontent.com/u/3620?u=2ea1559c315494106739adcc2f685055777a48dc&v=4&s=40"
+    },
+    {
+      "rank": 21,
+      "username": "lhl",
+      "realname": "Leonard",
+      "profile": "https://github.com/lhl",
+      "commits": 6745,
+      "avatar": "https://avatars.githubusercontent.com/u/2581?v=4&s=40"
+    },
+    {
+      "rank": 22,
+      "username": "taiki-e",
+      "realname": "Taiki Endo",
+      "profile": "https://github.com/taiki-e",
+      "commits": 6737,
+      "avatar": "https://avatars.githubusercontent.com/u/43724913?v=4&s=40"
+    },
+    {
+      "rank": 23,
+      "username": "shogo82148",
+      "realname": "ICHINOSE Shogo",
+      "profile": "https://github.com/shogo82148",
+      "commits": 6504,
+      "avatar": "https://avatars.githubusercontent.com/u/1157344?v=4&s=40"
+    },
+    {
+      "rank": 24,
+      "username": "ko1",
+      "realname": "Koichi Sasada",
+      "profile": "https://github.com/ko1",
+      "commits": 6314,
+      "avatar": "https://avatars.githubusercontent.com/u/9558?u=dd2bd00cb924a95505280d5e6c6d9c4494cc8e66&v=4&s=40"
+    },
+    {
+      "rank": 25,
+      "username": "ryota-murakami",
+      "realname": "Ryota Murakami",
+      "profile": "https://github.com/ryota-murakami",
+      "commits": 6256,
+      "avatar": "https://avatars.githubusercontent.com/u/5501268?u=599389e03340734325726ca3f8f423c021d47d7f&v=4&s=40"
+    },
+    {
+      "rank": 26,
+      "username": "koriym",
+      "realname": "Akihito Koriyama",
+      "profile": "https://github.com/koriym",
+      "commits": 6183,
+      "avatar": "https://avatars.githubusercontent.com/u/529021?u=2a4508c430e9f163eba4f64f0c181aa8e0083c5d&v=4&s=40"
+    },
+    {
+      "rank": 27,
+      "username": "sue445",
+      "realname": "Go Sueyoshi",
+      "profile": "https://github.com/sue445",
+      "commits": 6091,
+      "avatar": "https://avatars.githubusercontent.com/u/608755?v=4&s=40"
+    },
+    {
+      "rank": 28,
+      "username": "kojix2",
+      "profile": "https://github.com/kojix2",
+      "commits": 6063,
+      "avatar": "https://avatars.githubusercontent.com/u/5798442?u=f23bf98aa1cd2d3e5115cf26102b1dfea6a72a2c&v=4&s=40"
+    },
+    {
+      "rank": 29,
+      "username": "k1LoW",
+      "realname": "Ken’ichiro Oyama",
+      "profile": "https://github.com/k1LoW",
+      "commits": 6062,
+      "avatar": "https://avatars.githubusercontent.com/u/57114?u=5522499f6546a5c8307460a18653178b6b454780&v=4&s=40"
+    },
+    {
+      "rank": 30,
+      "username": "ubugeeei",
+      "realname": "ubugeeei",
+      "profile": "https://github.com/ubugeeei",
+      "commits": 5966,
+      "avatar": "https://avatars.githubusercontent.com/u/71201308?u=44f9771e6bc51934d392e86a4644c32c615cdec8&v=4&s=40"
+    },
+    {
+      "rank": 31,
+      "username": "zonuexe",
+      "realname": "USAMI Kenta",
+      "profile": "https://github.com/zonuexe",
+      "commits": 5817,
+      "avatar": "https://avatars.githubusercontent.com/u/822086?u=fd85204aa0605b17a73757ec3c1f644af436f496&v=4&s=40"
+    },
+    {
+      "rank": 32,
+      "username": "conao3",
+      "realname": "Naoya Yamashita",
+      "profile": "https://github.com/conao3",
+      "commits": 5815,
+      "avatar": "https://avatars.githubusercontent.com/u/4703128?v=4&s=40"
+    },
+    {
+      "rank": 33,
+      "username": "hsbt",
+      "realname": "Hiroshi SHIBATA",
+      "profile": "https://github.com/hsbt",
+      "commits": 5757,
+      "avatar": "https://avatars.githubusercontent.com/u/12301?u=ff463d5b4856759aeb902725ad89b4392442077d&v=4&s=40"
+    },
+    {
+      "rank": 34,
+      "username": "shinaoka",
+      "realname": "Hiroshi Shinaoka",
+      "profile": "https://github.com/shinaoka",
+      "commits": 5697,
+      "avatar": "https://avatars.githubusercontent.com/u/15949860?u=4fe3c5f42613950a24a6ef8d9d7e52e12cadfef8&v=4&s=40"
+    },
+    {
+      "rank": 35,
+      "username": "yuki-kimoto",
+      "realname": "Yuki Kimoto",
+      "profile": "https://github.com/yuki-kimoto",
+      "commits": 5685,
+      "avatar": "https://avatars.githubusercontent.com/u/81858?v=4&s=40"
+    },
+    {
+      "rank": 36,
+      "username": "matz",
+      "realname": "Yukihiro \"Matz\" Matsumoto",
+      "profile": "https://github.com/matz",
+      "commits": 5607,
+      "avatar": "https://avatars.githubusercontent.com/u/30733?u=77a590bb5dddfc7e7ee0d1d058b05e0fb709653f&v=4&s=40"
+    },
+    {
+      "rank": 37,
+      "username": "guitarrapc",
+      "realname": "Ikiru Yoshizaki",
+      "profile": "https://github.com/guitarrapc",
+      "commits": 5601,
+      "avatar": "https://avatars.githubusercontent.com/u/3856350?u=7cc6d1b96e3acad8f5ddedaa9f18d46f2d11823c&v=4&s=40"
+    },
+    {
+      "rank": 38,
+      "username": "wajahat-ali-mir-dev",
+      "realname": "Wajahat Ali Mir",
+      "profile": "https://github.com/wajahat-ali-mir-dev",
+      "commits": 5551,
+      "avatar": "https://avatars.githubusercontent.com/u/156110102?u=c407c0684339b08ac2d9c5bc14cd4bc8658c1ec6&v=4&s=40"
+    },
+    {
+      "rank": 39,
+      "username": "azu",
+      "realname": "azu",
+      "profile": "https://github.com/azu",
+      "commits": 5536,
+      "avatar": "https://avatars.githubusercontent.com/u/19714?u=c04e98ee399fac20feb795994a4e779bf64ad531&v=4&s=40"
+    },
+    {
+      "rank": 40,
+      "username": "xuwei-k",
+      "realname": "kenji yoshida",
+      "profile": "https://github.com/xuwei-k",
+      "commits": 5408,
+      "avatar": "https://avatars.githubusercontent.com/u/389787?u=22e5eca939aaa26cb191c9ec03b328945f97c8ac&v=4&s=40"
+    },
+    {
+      "rank": 41,
+      "username": "1amageek",
+      "realname": "1amageek",
+      "profile": "https://github.com/1amageek",
+      "commits": 5375,
+      "avatar": "https://avatars.githubusercontent.com/u/11146538?u=b0a959c97bd58d4658723815ddf99ff010c0f0d3&v=4&s=40"
+    },
+    {
+      "rank": 42,
+      "username": "hakatashi",
+      "realname": "Koki Takahashi",
+      "profile": "https://github.com/hakatashi",
+      "commits": 5282,
+      "avatar": "https://avatars.githubusercontent.com/u/3126484?u=deb53d253c262c76a4ada397013ca522e5b04193&v=4&s=40"
+    },
+    {
+      "rank": 43,
+      "username": "katahiromz",
+      "realname": "Katayama Hirofumi MZ",
+      "profile": "https://github.com/katahiromz",
+      "commits": 5168,
+      "avatar": "https://avatars.githubusercontent.com/u/2107452?u=4f7c2ea6873d5e826a1b6750378ea71fbd3be4ea&v=4&s=40"
+    },
+    {
+      "rank": 44,
+      "username": "lestrrat",
+      "realname": "lestrrat",
+      "profile": "https://github.com/lestrrat",
+      "commits": 4743,
+      "avatar": "https://avatars.githubusercontent.com/u/49281?u=fbea0ee7ed496f0e69d7e521244357616b234a38&v=4&s=40"
+    },
+    {
+      "rank": 45,
+      "username": "YumNumm",
+      "realname": "Ryotaro Onoue",
+      "profile": "https://github.com/YumNumm",
+      "commits": 4559,
+      "avatar": "https://avatars.githubusercontent.com/u/73390859?u=0973e1d114ec2094bd6b881440dce25526ef89a3&v=4&s=40"
+    },
+    {
+      "rank": 46,
+      "username": "sksat",
+      "realname": "sksat",
+      "profile": "https://github.com/sksat",
+      "commits": 4528,
+      "avatar": "https://avatars.githubusercontent.com/u/23310673?u=c929101feac27e9f97bada8774d3002b2bea34d1&v=4&s=40"
+    },
+    {
+      "rank": 47,
+      "username": "winebarrel",
+      "realname": "Genki Sugawara",
+      "profile": "https://github.com/winebarrel",
+      "commits": 4527,
+      "avatar": "https://avatars.githubusercontent.com/u/117768?u=170e742c9da64b18fbdb676bfb644bb994695a28&v=4&s=40"
+    },
+    {
+      "rank": 48,
+      "username": "sxzz",
+      "realname": "Kevin Deng",
+      "profile": "https://github.com/sxzz",
+      "commits": 4523,
+      "avatar": "https://avatars.githubusercontent.com/u/6481596?v=4&s=40"
+    },
+    {
+      "rank": 49,
+      "username": "shinh",
+      "realname": "Shinichiro Hamaji",
+      "profile": "https://github.com/shinh",
+      "commits": 4489,
+      "avatar": "https://avatars.githubusercontent.com/u/29770?u=261b69496ba5cc481d45d7eb0da470b1c824bcb5&v=4&s=40"
+    },
+    {
+      "rank": 50,
+      "username": "bootjp",
+      "realname": "Yoshiaki Ueda (bootjp",
+      "profile": "https://github.com/bootjp",
+      "commits": 4482,
+      "avatar": "https://avatars.githubusercontent.com/u/1306365?u=350a0e02a77474d21042d42bfa0e8291436e4663&v=4&s=40"
+    },
+    {
+      "rank": 51,
+      "username": "mumoshu",
+      "realname": "Yusuke Kuoka",
+      "profile": "https://github.com/mumoshu",
+      "commits": 4461,
+      "avatar": "https://avatars.githubusercontent.com/u/22009?u=30f70bd7721631824bb62c807acd62f66412c94b&v=4&s=40"
+    },
+    {
+      "rank": 52,
+      "username": "halogenandtoast",
+      "realname": "Matthew Mongeau",
+      "profile": "https://github.com/halogenandtoast",
+      "commits": 4355,
+      "avatar": "https://avatars.githubusercontent.com/u/201288?u=9bd817c75d234cbdf2563c2e4fffe0319d82da91&v=4&s=40"
+    },
+    {
+      "rank": 53,
+      "username": "EdamAme-x",
+      "realname": "EdamAmex",
+      "profile": "https://github.com/EdamAme-x",
+      "commits": 4348,
+      "avatar": "https://avatars.githubusercontent.com/u/121654029?u=48cb2be34a3ca63341a6277f3e749deae3d3fc53&v=4&s=40"
+    },
+    {
+      "rank": 54,
+      "username": "LumaKernel",
+      "realname": "Luma",
+      "profile": "https://github.com/LumaKernel",
+      "commits": 4336,
+      "avatar": "https://avatars.githubusercontent.com/u/29811106?u=5bc07bd9b62a1e08786c794366fb38def0252dde&v=4&s=40"
+    },
+    {
+      "rank": 55,
+      "username": "houko",
+      "realname": "Evan",
+      "profile": "https://github.com/houko",
+      "commits": 4274,
+      "avatar": "https://avatars.githubusercontent.com/u/12625278?u=325ef18b20f3ee89802ee0bb38226edf20376f23&v=4&s=40"
+    },
+    {
+      "rank": 56,
+      "username": "mattn",
+      "realname": "mattn",
+      "profile": "https://github.com/mattn",
+      "commits": 4233,
+      "avatar": "https://avatars.githubusercontent.com/u/10111?u=4fb5caa72429300200740387758d9905611ab377&v=4&s=40"
+    },
+    {
+      "rank": 57,
+      "username": "ursm",
+      "realname": "Keita Urashima",
+      "profile": "https://github.com/ursm",
+      "commits": 4211,
+      "avatar": "https://avatars.githubusercontent.com/u/7548?u=b18fff6ecabf8f97c258b80a1e58167257f5c97d&v=4&s=40"
+    },
+    {
+      "rank": 58,
+      "username": "europanite",
+      "realname": "europanite",
+      "profile": "https://github.com/europanite",
+      "commits": 4124,
+      "avatar": "https://avatars.githubusercontent.com/u/229413101?u=a5a736f33310a1c7f43580395965bb8d759c3d56&v=4&s=40"
+    },
+    {
+      "rank": 59,
+      "username": "nazozokc",
+      "realname": "nazozokc",
+      "profile": "https://github.com/nazozokc",
+      "commits": 3877,
+      "avatar": "https://avatars.githubusercontent.com/u/247927350?u=10f8a0c25343e6887177f0cfc341168778a3fcfc&v=4&s=40"
+    },
+    {
+      "rank": 60,
+      "username": "2bbb",
+      "realname": "2bit",
+      "profile": "https://github.com/2bbb",
+      "commits": 3708,
+      "avatar": "https://avatars.githubusercontent.com/u/200899?u=0c78cf0058492085398d8a9774ca34a326bb85fd&v=4&s=40"
+    },
+    {
+      "rank": 61,
+      "username": "otnc",
+      "realname": "otoneko.",
+      "profile": "https://github.com/otnc",
+      "commits": 3707,
+      "avatar": "https://avatars.githubusercontent.com/u/116952822?u=10ce621157aa21b803d88ef73707127f3d3918aa&v=4&s=40"
+    },
+    {
+      "rank": 62,
+      "username": "toastkidjp",
+      "realname": "Toast kid",
+      "profile": "https://github.com/toastkidjp",
+      "commits": 3685,
+      "avatar": "https://avatars.githubusercontent.com/u/15980475?u=4de19096b98ca76ea4ddc2cd80664bdabb05f2ee&v=4&s=40"
+    },
+    {
+      "rank": 63,
+      "username": "amatsuda",
+      "realname": "Akira Matsuda",
+      "profile": "https://github.com/amatsuda",
+      "commits": 3683,
+      "avatar": "https://avatars.githubusercontent.com/u/11493?v=4&s=40"
+    },
+    {
+      "rank": 64,
+      "username": "bobbens",
+      "realname": "Edgar Simo-Serra",
+      "profile": "https://github.com/bobbens",
+      "commits": 3680,
+      "avatar": "https://avatars.githubusercontent.com/u/54677?v=4&s=40"
+    },
+    {
+      "rank": 65,
+      "username": "yasulab",
+      "realname": "Yohei Yasukawa",
+      "profile": "https://github.com/yasulab",
+      "commits": 3667,
+      "avatar": "https://avatars.githubusercontent.com/u/155807?u=0a39836834c1975e765900bff39dcdaa96ad658b&v=4&s=40"
+    },
+    {
+      "rank": 66,
+      "username": "cybergarage",
+      "realname": "Satoshi Konno",
+      "profile": "https://github.com/cybergarage",
+      "commits": 3654,
+      "avatar": "https://avatars.githubusercontent.com/u/586639?u=08b52ccf20d6eba0346b79e55ec2963dab8caa7f&v=4&s=40"
+    },
+    {
+      "rank": 67,
+      "username": "hymkor",
+      "realname": "HAYAMA Kaoru",
+      "profile": "https://github.com/hymkor",
+      "commits": 3638,
+      "avatar": "https://avatars.githubusercontent.com/u/3752189?u=ea799fc495e6b0c62ef860bc5a955f8c8baa09df&v=4&s=40"
+    },
+    {
+      "rank": 68,
+      "username": "MH4GF",
+      "realname": "Hirotaka Miyagi",
+      "profile": "https://github.com/MH4GF",
+      "commits": 3619,
+      "avatar": "https://avatars.githubusercontent.com/u/31152321?u=e2c383c466a36a552f5d984fa3b6ed99275267f9&v=4&s=40"
+    },
+    {
+      "rank": 69,
+      "username": "sapphi-red",
+      "realname": "翠",
+      "profile": "https://github.com/sapphi-red",
+      "commits": 3473,
+      "avatar": "https://avatars.githubusercontent.com/u/49056869?u=ec70859392ec0140d60446f7815ad2bf857904fd&v=4&s=40"
+    },
+    {
+      "rank": 70,
+      "username": "dalance",
+      "realname": "Naoya Hatta",
+      "profile": "https://github.com/dalance",
+      "commits": 3355,
+      "avatar": "https://avatars.githubusercontent.com/u/4331004?u=63b5cf60e0bba8087ed9b13f73551c00268b9932&v=4&s=40"
+    },
+    {
+      "rank": 71,
+      "username": "ytakano",
+      "realname": "ytakano",
+      "profile": "https://github.com/ytakano",
+      "commits": 3335,
+      "avatar": "https://avatars.githubusercontent.com/u/29608?u=a38933e945f4d0604e938f1f52aaabf40cf72e36&v=4&s=40"
+    },
+    {
+      "rank": 72,
+      "username": "ianlewis",
+      "realname": "Ian Lewis",
+      "profile": "https://github.com/ianlewis",
+      "commits": 3328,
+      "avatar": "https://avatars.githubusercontent.com/u/49289?u=da9a5d96971b2b1eed24672c0b9c81306f2887a5&v=4&s=40"
+    },
+    {
+      "rank": 73,
+      "username": "yamadashy",
+      "realname": "Kazuki Yamada",
+      "profile": "https://github.com/yamadashy",
+      "commits": 3318,
+      "avatar": "https://avatars.githubusercontent.com/u/5019072?u=260263b46edf71d9b94c9ab1a1d449f849854c3b&v=4&s=40"
+    },
+    {
+      "rank": 74,
+      "username": "yug1224",
+      "realname": "Yuji Yamaguchi",
+      "profile": "https://github.com/yug1224",
+      "commits": 3310,
+      "avatar": "https://avatars.githubusercontent.com/u/3946829?u=7d4256426fe4d7d1970456238bc8596a416fca65&v=4&s=40"
+    },
+    {
+      "rank": 75,
+      "username": "jiangzhuo",
+      "realname": "Jiangzhuo",
+      "profile": "https://github.com/jiangzhuo",
+      "commits": 3310,
+      "avatar": "https://avatars.githubusercontent.com/u/1468716?v=4&s=40"
+    },
+    {
+      "rank": 76,
+      "username": "harupy",
+      "realname": "Harutaka Kawamura",
+      "profile": "https://github.com/harupy",
+      "commits": 3303,
+      "avatar": "https://avatars.githubusercontent.com/u/17039389?u=796226152becf82c4d7fd5cc49a24e58a73ce66f&v=4&s=40"
+    },
+    {
+      "rank": 77,
+      "username": "PINTO0309",
+      "realname": "Katsuya Hyodo",
+      "profile": "https://github.com/PINTO0309",
+      "commits": 3301,
+      "avatar": "https://avatars.githubusercontent.com/u/33194443?u=0019c57c227bbce13800d18c3b29c3465adbcefa&v=4&s=40"
+    },
+    {
+      "rank": 78,
+      "username": "fujiwara",
+      "realname": "FUJIWARA Shunichiro",
+      "profile": "https://github.com/fujiwara",
+      "commits": 3283,
+      "avatar": "https://avatars.githubusercontent.com/u/67804?u=9d2b54481d1e7061fe68bb3ddcfb67ecdcbf5f08&v=4&s=40"
+    },
+    {
+      "rank": 79,
+      "username": "suzuki-shunsuke",
+      "realname": "Shunsuke Suzuki",
+      "profile": "https://github.com/suzuki-shunsuke",
+      "commits": 3274,
+      "avatar": "https://avatars.githubusercontent.com/u/13323303?u=afedf0091bfd70a6a79c55f6aca781c94cb862f7&v=4&s=40"
+    },
+    {
+      "rank": 80,
+      "username": "tk0miya",
+      "realname": "Takeshi KOMIYA",
+      "profile": "https://github.com/tk0miya",
+      "commits": 3248,
+      "avatar": "https://avatars.githubusercontent.com/u/748828?u=c5ca40b7274d4563c862550add47ec5dabcecdfa&v=4&s=40"
+    },
+    {
+      "rank": 81,
+      "username": "koki-develop",
+      "realname": "Koki Sato",
+      "profile": "https://github.com/koki-develop",
+      "commits": 3200,
+      "avatar": "https://avatars.githubusercontent.com/u/47014617?u=7cc4e78a9af7f24483893f30f1bdcf85ebdffa24&v=4&s=40"
+    },
+    {
+      "rank": 82,
+      "username": "NishiOwO",
+      "realname": "Nishi",
+      "profile": "https://github.com/NishiOwO",
+      "commits": 3164,
+      "avatar": "https://avatars.githubusercontent.com/u/89888985?u=f458331fdfcd7a01d91adfd4ae0847db208a1de2&v=4&s=40"
+    },
+    {
+      "rank": 83,
+      "username": "takahashim",
+      "realname": "Masayoshi Takahashi",
+      "profile": "https://github.com/takahashim",
+      "commits": 3164,
+      "avatar": "https://avatars.githubusercontent.com/u/10401?u=dd3cd5f57abd274265bd3d8bcdac4001adbe5818&v=4&s=40"
+    },
+    {
+      "rank": 84,
+      "username": "wkentaro",
+      "realname": "Kentaro Wada",
+      "profile": "https://github.com/wkentaro",
+      "commits": 3157,
+      "avatar": "https://avatars.githubusercontent.com/u/4310419?u=672b9081970c6e15628587237c9ecc5c31dbb9b9&v=4&s=40"
+    },
+    {
+      "rank": 85,
+      "username": "sevenc-nanashi",
+      "realname": "Nanashi.",
+      "profile": "https://github.com/sevenc-nanashi",
+      "commits": 3061,
+      "avatar": "https://avatars.githubusercontent.com/u/59691627?u=4e8fd190379072a48af58df0a9d34500eb704623&v=4&s=40"
+    },
+    {
+      "rank": 86,
+      "username": "kurone-kito",
+      "realname": "Kuroné Kito (黒音キト",
+      "profile": "https://github.com/kurone-kito",
+      "commits": 3051,
+      "avatar": "https://avatars.githubusercontent.com/u/44661432?v=4&s=40"
+    },
+    {
+      "rank": 87,
+      "username": "m-mizutani",
+      "realname": "Masayoshi Mizutani",
+      "profile": "https://github.com/m-mizutani",
+      "commits": 3034,
+      "avatar": "https://avatars.githubusercontent.com/u/605953?v=4&s=40"
+    },
+    {
+      "rank": 88,
+      "username": "komagata",
+      "realname": "Masaki Komagata",
+      "profile": "https://github.com/komagata",
+      "commits": 3026,
+      "avatar": "https://avatars.githubusercontent.com/u/16577?u=2eca4174a6846dd4898d7413e5f36b3b70aaf9c2&v=4&s=40"
+    },
+    {
+      "rank": 89,
+      "username": "himkt",
+      "realname": "himkt",
+      "profile": "https://github.com/himkt",
+      "commits": 2924,
+      "avatar": "https://avatars.githubusercontent.com/u/5164000?u=60e253a734bc0c07472d15068fcbe77d19657942&v=4&s=40"
+    },
+    {
+      "rank": 90,
+      "username": "hoochanlon",
+      "realname": "123456",
+      "profile": "https://github.com/hoochanlon",
+      "commits": 2917,
+      "avatar": "https://avatars.githubusercontent.com/u/35732922?u=df2348b6932fc75f844f0a10dfaeb8df995ca889&v=4&s=40"
+    },
+    {
+      "rank": 91,
+      "username": "seriaati",
+      "realname": "seria",
+      "profile": "https://github.com/seriaati",
+      "commits": 2911,
+      "avatar": "https://avatars.githubusercontent.com/u/61446626?u=a8613a3f20b957fd46a6c5b13295bc4d96a82a39&v=4&s=40"
+    },
+    {
+      "rank": 92,
+      "username": "making",
+      "realname": "Toshiaki Maki",
+      "profile": "https://github.com/making",
+      "commits": 2888,
+      "avatar": "https://avatars.githubusercontent.com/u/106908?u=8d3f89b7b618dc628e90fc04b96e55cf47b965f0&v=4&s=40"
+    },
+    {
+      "rank": 93,
+      "username": "hakuturu583",
+      "realname": "Masaya Kataoka",
+      "profile": "https://github.com/hakuturu583",
+      "commits": 2872,
+      "avatar": "https://avatars.githubusercontent.com/u/10348912?u=584813eeed663a03131bbfe195e747c4a259dd16&v=4&s=40"
+    },
+    {
+      "rank": 94,
+      "username": "mashharuki",
+      "realname": "Haruki Kondo",
+      "profile": "https://github.com/mashharuki",
+      "commits": 2861,
+      "avatar": "https://avatars.githubusercontent.com/u/44923695?u=9828792491ab4d725d112c20b7f73c8990dc7616&v=4&s=40"
+    },
+    {
+      "rank": 95,
+      "username": "myuon",
+      "realname": "myuon",
+      "profile": "https://github.com/myuon",
+      "commits": 2854,
+      "avatar": "https://avatars.githubusercontent.com/u/1870091?v=4&s=40"
+    },
+    {
+      "rank": 96,
+      "username": "coji",
+      "realname": "Coji Mizoguchi",
+      "profile": "https://github.com/coji",
+      "commits": 2843,
+      "avatar": "https://avatars.githubusercontent.com/u/9904?u=2d412633aa297394ac84801073071ca213266b65&v=4&s=40"
+    },
+    {
+      "rank": 97,
+      "username": "satoharuto961-dev",
+      "realname": "Sato Haruto",
+      "profile": "https://github.com/satoharuto961-dev",
+      "commits": 2831,
+      "avatar": "https://avatars.githubusercontent.com/u/285210468?u=4638adb6ee0d774ff434cecf513cd5a51e0a4c6d&v=4&s=40"
+    },
+    {
+      "rank": 98,
+      "username": "nehemiaharchives",
+      "realname": "Hokuto Joel Ide",
+      "profile": "https://github.com/nehemiaharchives",
+      "commits": 2791,
+      "avatar": "https://avatars.githubusercontent.com/u/40375518?v=4&s=40"
+    },
+    {
+      "rank": 99,
+      "username": "gfx",
+      "realname": "FUJI Goro",
+      "profile": "https://github.com/gfx",
+      "commits": 2739,
+      "avatar": "https://avatars.githubusercontent.com/u/101800?u=8ab706dbc79a2b98170b990ec29cae90d5c178db&v=4&s=40"
+    },
+    {
+      "rank": 100,
+      "username": "whoisdjam",
+      "realname": "Binary",
+      "profile": "https://github.com/whoisdjam",
+      "commits": 2701,
+      "avatar": "https://avatars.githubusercontent.com/u/101379148?v=4&s=40"
+    },
+    {
+      "rank": 101,
+      "username": "keijiro",
+      "realname": "Keijiro Takahashi",
+      "profile": "https://github.com/keijiro",
+      "commits": 2695,
+      "avatar": "https://avatars.githubusercontent.com/u/343936?u=b6fa096837340c2b4783bbf3b3ec88f8387d1849&v=4&s=40"
+    },
+    {
+      "rank": 102,
+      "username": "1024jp",
+      "realname": "1024jp",
+      "profile": "https://github.com/1024jp",
+      "commits": 2695,
+      "avatar": "https://avatars.githubusercontent.com/u/1165044?v=4&s=40"
+    },
+    {
+      "rank": 103,
+      "username": "lambdalisue",
+      "realname": "Λlisue",
+      "profile": "https://github.com/lambdalisue",
+      "commits": 2685,
+      "avatar": "https://avatars.githubusercontent.com/u/546312?v=4&s=40"
+    },
+    {
+      "rank": 104,
+      "username": "tkoyama010",
+      "realname": "Tetsuo Koyama",
+      "profile": "https://github.com/tkoyama010",
+      "commits": 2661,
+      "avatar": "https://avatars.githubusercontent.com/u/7513610?u=c7d2c3fe0cee2190a122769934d374d7793fdfa9&v=4&s=40"
+    },
+    {
+      "rank": 105,
+      "username": "yohasebe",
+      "realname": "Yoichiro Hasebe",
+      "profile": "https://github.com/yohasebe",
+      "commits": 2642,
+      "avatar": "https://avatars.githubusercontent.com/u/18207?u=7d9e11e07fc4f3da9e3d57057e35415d99979416&v=4&s=40"
+    },
+    {
+      "rank": 106,
+      "username": "kazupon",
+      "realname": "kazuya kawaguchi",
+      "profile": "https://github.com/kazupon",
+      "commits": 2621,
+      "avatar": "https://avatars.githubusercontent.com/u/72989?u=da19c1508357407cae0b7b11166b072c95c29786&v=4&s=40"
+    },
+    {
+      "rank": 107,
+      "username": "mackysoft",
+      "realname": "Makihiro",
+      "profile": "https://github.com/mackysoft",
+      "commits": 2611,
+      "avatar": "https://avatars.githubusercontent.com/u/13536348?u=08279ee73227e41d5aca700a56400aef07435405&v=4&s=40"
+    },
+    {
+      "rank": 108,
+      "username": "shimbaco",
+      "realname": "Shimba, Koji",
+      "profile": "https://github.com/shimbaco",
+      "commits": 2598,
+      "avatar": "https://avatars.githubusercontent.com/u/56767?u=91cfc5e5d1583c9b2b07d56ca7898bbff926d123&v=4&s=40"
+    },
+    {
+      "rank": 109,
+      "username": "kmizu",
+      "realname": "Kota Mizushima",
+      "profile": "https://github.com/kmizu",
+      "commits": 2571,
+      "avatar": "https://avatars.githubusercontent.com/u/97326?v=4&s=40"
+    },
+    {
+      "rank": 110,
+      "username": "aiya000",
+      "realname": "aiya000",
+      "profile": "https://github.com/aiya000",
+      "commits": 2558,
+      "avatar": "https://avatars.githubusercontent.com/u/4897842?u=654d5108993f263b761d233d93fb79bb78b41e32&v=4&s=40"
+    },
+    {
+      "rank": 111,
+      "username": "SlashNephy",
+      "profile": "https://github.com/SlashNephy",
+      "commits": 2547,
+      "avatar": "https://avatars.githubusercontent.com/u/7302150?u=7dd6d822a2a735aeb7f3d27257cf83a05c134133&v=4&s=40"
+    },
+    {
+      "rank": 112,
+      "username": "bee-san",
+      "realname": "Autumn (Bee",
+      "profile": "https://github.com/bee-san",
+      "commits": 2422,
+      "avatar": "https://avatars.githubusercontent.com/u/10378052?u=ef40bde2b96fe1f2cda5372bbe86682a9c98c619&v=4&s=40"
+    },
+    {
+      "rank": 113,
+      "username": "akiomik",
+      "realname": "Akiomi KAMAKURA",
+      "profile": "https://github.com/akiomik",
+      "commits": 2414,
+      "avatar": "https://avatars.githubusercontent.com/u/1457682?u=383423eb974aba5cbc0e481384ca5d1695811342&v=4&s=40"
+    },
+    {
+      "rank": 114,
+      "username": "Jannchie",
+      "realname": "Jianqi Pan",
+      "profile": "https://github.com/Jannchie",
+      "commits": 2404,
+      "avatar": "https://avatars.githubusercontent.com/u/29743310?u=8e0d49b98c35738afadc04e70c7f3918d6ad8cdb&v=4&s=40"
+    },
+    {
+      "rank": 115,
+      "username": "atsushieno",
+      "realname": "Atsushi Eno",
+      "profile": "https://github.com/atsushieno",
+      "commits": 2376,
+      "avatar": "https://avatars.githubusercontent.com/u/53929?u=5b814aebc706c6b7fb367d34e6280c17191a831a&v=4&s=40"
+    },
+    {
+      "rank": 116,
+      "username": "t-hamano",
+      "realname": "Aki Hamano",
+      "profile": "https://github.com/t-hamano",
+      "commits": 2375,
+      "avatar": "https://avatars.githubusercontent.com/u/54422211?u=e3759208504f67b7bc3d7c29c36f2427346f4c59&v=4&s=40"
+    },
+    {
+      "rank": 117,
+      "username": "ksoichiro",
+      "realname": "Soichiro Kashima",
+      "profile": "https://github.com/ksoichiro",
+      "commits": 2369,
+      "avatar": "https://avatars.githubusercontent.com/u/801987?v=4&s=40"
+    },
+    {
+      "rank": 118,
+      "username": "linyows",
+      "realname": "Tomohisa Oda",
+      "profile": "https://github.com/linyows",
+      "commits": 2328,
+      "avatar": "https://avatars.githubusercontent.com/u/72049?u=956b4e2c1a19e8dbe7d2111e801749f43cd79698&v=4&s=40"
+    },
+    {
+      "rank": 119,
+      "username": "toyoshim",
+      "realname": "Takashi Toyoshima",
+      "profile": "https://github.com/toyoshim",
+      "commits": 2317,
+      "avatar": "https://avatars.githubusercontent.com/u/577684?u=fa7085a695186615f036cec99858ac4672cec5b7&v=4&s=40"
+    },
+    {
+      "rank": 120,
+      "username": "sigma7863",
+      "realname": "Sigma",
+      "profile": "https://github.com/sigma7863",
+      "commits": 2251,
+      "avatar": "https://avatars.githubusercontent.com/u/168486811?u=472b84229dd917071aec7f11ad5f204d456a1c6b&v=4&s=40"
+    },
+    {
+      "rank": 121,
+      "username": "yshrsmz",
+      "realname": "Yasuhiro SHIMIZU",
+      "profile": "https://github.com/yshrsmz",
+      "commits": 2246,
+      "avatar": "https://avatars.githubusercontent.com/u/654889?v=4&s=40"
+    },
+    {
+      "rank": 122,
+      "username": "terasakisatoshi",
+      "realname": "Satoshi Terasaki",
+      "profile": "https://github.com/terasakisatoshi",
+      "commits": 2235,
+      "avatar": "https://avatars.githubusercontent.com/u/16760547?u=24c7c259e3d42a3b2ead4f026a019305232157bd&v=4&s=40"
+    },
+    {
+      "rank": 123,
+      "username": "hi-ogawa",
+      "realname": "Hiroshi Ogawa",
+      "profile": "https://github.com/hi-ogawa",
+      "commits": 2234,
+      "avatar": "https://avatars.githubusercontent.com/u/4232207?u=2a0209fe447c92640dba5d94419074dcfe5fce1e&v=4&s=40"
+    },
+    {
+      "rank": 124,
+      "username": "zchee",
+      "realname": "Koichi Shiraishi",
+      "profile": "https://github.com/zchee",
+      "commits": 2232,
+      "avatar": "https://avatars.githubusercontent.com/u/6366270?u=b3b4c30edcd4ad8fe5da44faacbd1d70a8c836f5&v=4&s=40"
+    },
+    {
+      "rank": 125,
+      "username": "hajimehoshi",
+      "realname": "Hajime Hoshi",
+      "profile": "https://github.com/hajimehoshi",
+      "commits": 2217,
+      "avatar": "https://avatars.githubusercontent.com/u/16950?u=3592975d9e0bb52a2a1841642024a0458404abb9&v=4&s=40"
+    },
+    {
+      "rank": 126,
+      "username": "walf443",
+      "realname": "Keiji, Yoshimi",
+      "profile": "https://github.com/walf443",
+      "commits": 2206,
+      "avatar": "https://avatars.githubusercontent.com/u/2655?v=4&s=40"
+    },
+    {
+      "rank": 127,
+      "username": "boxp",
+      "realname": "Keitaro Takeuchi",
+      "profile": "https://github.com/boxp",
+      "commits": 2206,
+      "avatar": "https://avatars.githubusercontent.com/u/1819576?u=01780301ba3aeb9955de2b7e0f4b17e9e865ee70&v=4&s=40"
+    },
+    {
+      "rank": 128,
+      "username": "kishikawakatsumi",
+      "realname": "Kishikawa Katsumi",
+      "profile": "https://github.com/kishikawakatsumi",
+      "commits": 2205,
+      "avatar": "https://avatars.githubusercontent.com/u/40610?u=cabf5e7f214ecac0efcd3fbf04ff773ad45d5ed7&v=4&s=40"
+    },
+    {
+      "rank": 129,
+      "username": "gkjohnson",
+      "realname": "Garrett Johnson",
+      "profile": "https://github.com/gkjohnson",
+      "commits": 2202,
+      "avatar": "https://avatars.githubusercontent.com/u/734200?u=f169e56702743d90524c3bb0cc2c17f57f9b7aca&v=4&s=40"
+    },
+    {
+      "rank": 130,
+      "username": "john-rocky",
+      "realname": "Daisuke Majima",
+      "profile": "https://github.com/john-rocky",
+      "commits": 2193,
+      "avatar": "https://avatars.githubusercontent.com/u/23278992?u=c6fa7bb26f28ede4846152ffd5923ae0c31bf6a7&v=4&s=40"
+    },
+    {
+      "rank": 131,
+      "username": "nateberkopec",
+      "realname": "Nate Berkopec",
+      "profile": "https://github.com/nateberkopec",
+      "commits": 2188,
+      "avatar": "https://avatars.githubusercontent.com/u/845662?v=4&s=40"
+    },
+    {
+      "rank": 132,
+      "username": "onevcat",
+      "realname": "Wei Wang",
+      "profile": "https://github.com/onevcat",
+      "commits": 2180,
+      "avatar": "https://avatars.githubusercontent.com/u/1019875?u=34477b070af505986e26066dfa6a5d2d64f319b6&v=4&s=40"
+    },
+    {
+      "rank": 133,
+      "username": "aviatesk",
+      "realname": "Shuhei Kadowaki",
+      "profile": "https://github.com/aviatesk",
+      "commits": 2177,
+      "avatar": "https://avatars.githubusercontent.com/u/40514306?u=d7251bc44e78bb28fb78c83f4b22efc87f206859&v=4&s=40"
+    },
+    {
+      "rank": 134,
+      "username": "kitao",
+      "realname": "Takashi Kitao",
+      "profile": "https://github.com/kitao",
+      "commits": 2151,
+      "avatar": "https://avatars.githubusercontent.com/u/678802?u=9d101a9b90e75057b9b0e08d805169c6f7255fec&v=4&s=40"
+    },
+    {
+      "rank": 135,
+      "username": "rigaya",
+      "realname": "rigaya",
+      "profile": "https://github.com/rigaya",
+      "commits": 2097,
+      "avatar": "https://avatars.githubusercontent.com/u/815947?u=61f89e18d208289393dc735ca663af93d99ba343&v=4&s=40"
+    },
+    {
+      "rank": 136,
+      "username": "hasumikin",
+      "realname": "HASUMI Hitoshi",
+      "profile": "https://github.com/hasumikin",
+      "commits": 2095,
+      "avatar": "https://avatars.githubusercontent.com/u/8454208?u=3aefaa0fbc1f497ce42c44ed87e5eee2ed1f396e&v=4&s=40"
+    },
+    {
+      "rank": 137,
+      "username": "PTOM76",
+      "realname": "Pitan",
+      "profile": "https://github.com/PTOM76",
+      "commits": 2089,
+      "avatar": "https://avatars.githubusercontent.com/u/58260965?u=ba2476d5378be00ba5e3607445a38277618f4049&v=4&s=40"
+    },
+    {
+      "rank": 138,
+      "username": "sotarok",
+      "realname": "Sotaro Karasawa",
+      "profile": "https://github.com/sotarok",
+      "commits": 2085,
+      "avatar": "https://avatars.githubusercontent.com/u/29064?u=71b18e8a01dc3ebfb65803d2daa9258ecd264b85&v=4&s=40"
+    },
+    {
+      "rank": 139,
+      "username": "kubosho",
+      "realname": "KUBOTA Shōta",
+      "profile": "https://github.com/kubosho",
+      "commits": 2077,
+      "avatar": "https://avatars.githubusercontent.com/u/430267?u=a14de7e0f54785bab52ffe6c9fd480a5fb2ac263&v=4&s=40"
+    },
+    {
+      "rank": 140,
+      "username": "tatsuhiro-t",
+      "realname": "Tatsuhiro Tsujikawa",
+      "profile": "https://github.com/tatsuhiro-t",
+      "commits": 2040,
+      "avatar": "https://avatars.githubusercontent.com/u/404610?u=fb111a1a5590572efb6b792194469eacd9dea662&v=4&s=40"
+    },
+    {
+      "rank": 141,
+      "username": "bmf-san",
+      "realname": "Kenta Takeuchi",
+      "profile": "https://github.com/bmf-san",
+      "commits": 2013,
+      "avatar": "https://avatars.githubusercontent.com/u/13291041?u=cd5971f94e44bd7d8d97fe57812fb3120b105b87&v=4&s=40"
+    },
+    {
+      "rank": 142,
+      "username": "bouzuya",
+      "realname": "bouzuya",
+      "profile": "https://github.com/bouzuya",
+      "commits": 2006,
+      "avatar": "https://avatars.githubusercontent.com/u/1221346?u=b7cc10b424e81b174bb90b1b466611eb6a136228&v=4&s=40"
+    },
+    {
+      "rank": 143,
+      "username": "tmori",
+      "realname": "Takashi Mori",
+      "profile": "https://github.com/tmori",
+      "commits": 1996,
+      "avatar": "https://avatars.githubusercontent.com/u/164193?u=2fca920bb782e64f71a5629ddae36b9665d86ff9&v=4&s=40"
+    },
+    {
+      "rank": 144,
+      "username": "nercone-dev",
+      "realname": "nercone",
+      "profile": "https://github.com/nercone-dev",
+      "commits": 1995,
+      "avatar": "https://avatars.githubusercontent.com/u/124330624?u=92a538acb3bce7bc695625b3ffb4a01fa26c6821&v=4&s=40"
+    },
+    {
+      "rank": 145,
+      "username": "enliven17",
+      "realname": "cankat",
+      "profile": "https://github.com/enliven17",
+      "commits": 1993,
+      "avatar": "https://avatars.githubusercontent.com/u/106429650?u=4c7a3e8bd4062c60b84ac915ad0b21d244f51138&v=4&s=40"
+    },
+    {
+      "rank": 146,
+      "username": "Songmu",
+      "realname": "Masayuki Matsuki",
+      "profile": "https://github.com/Songmu",
+      "commits": 1993,
+      "avatar": "https://avatars.githubusercontent.com/u/177122?v=4&s=40"
+    },
+    {
+      "rank": 147,
+      "username": "anatawa12",
+      "realname": "anatawa12",
+      "profile": "https://github.com/anatawa12",
+      "commits": 1976,
+      "avatar": "https://avatars.githubusercontent.com/u/22656849?v=4&s=40"
+    },
+    {
+      "rank": 148,
+      "username": "masatoi",
+      "realname": "Satoshi Imai",
+      "profile": "https://github.com/masatoi",
+      "commits": 1966,
+      "avatar": "https://avatars.githubusercontent.com/u/148939?u=f83709addc33a1e7c671db57e8d519af43395a02&v=4&s=40"
+    },
+    {
+      "rank": 149,
+      "username": "yohamta0",
+      "realname": "Yota Hamada",
+      "profile": "https://github.com/yohamta0",
+      "commits": 1963,
+      "avatar": "https://avatars.githubusercontent.com/u/1475839?u=03d467354b1134344c8ae40752078c8e66778c1d&v=4&s=40"
+    },
+    {
+      "rank": 150,
+      "username": "AkihiroSuda",
+      "realname": "Akihiro Suda",
+      "profile": "https://github.com/AkihiroSuda",
+      "commits": 1951,
+      "avatar": "https://avatars.githubusercontent.com/u/9248427?v=4&s=40"
+    },
+    {
+      "rank": 151,
+      "username": "atztogo",
+      "realname": "Atsushi Togo",
+      "profile": "https://github.com/atztogo",
+      "commits": 1949,
+      "avatar": "https://avatars.githubusercontent.com/u/953404?u=8650c9f082ce137aa47c43f727b30a741eb4aeb8&v=4&s=40"
+    },
+    {
+      "rank": 152,
+      "username": "Hiroshiba",
+      "realname": "Hiroshiba",
+      "profile": "https://github.com/Hiroshiba",
+      "commits": 1919,
+      "avatar": "https://avatars.githubusercontent.com/u/4987327?u=ae64d95ad89d0b5247a0090077b0ac8a3ebb5874&v=4&s=40"
+    },
+    {
+      "rank": 153,
+      "username": "skanehira",
+      "realname": "skanehira",
+      "profile": "https://github.com/skanehira",
+      "commits": 1896,
+      "avatar": "https://avatars.githubusercontent.com/u/7888591?u=3a95d4f5af39678b4f029f8b3bc1ea60478382ca&v=4&s=40"
+    },
+    {
+      "rank": 154,
+      "username": "yutkat",
+      "realname": "Yuta Katayama",
+      "profile": "https://github.com/yutkat",
+      "commits": 1856,
+      "avatar": "https://avatars.githubusercontent.com/u/8683947?u=c9e8629a2414157cdf3c7a9f354a4c457daf3b5f&v=4&s=40"
+    },
+    {
+      "rank": 155,
+      "username": "mopemope",
+      "realname": "Yutaka Matsubara",
+      "profile": "https://github.com/mopemope",
+      "commits": 1818,
+      "avatar": "https://avatars.githubusercontent.com/u/22645?v=4&s=40"
+    },
+    {
+      "rank": 156,
+      "username": "unasuke",
+      "realname": "Yusuke Nakamura",
+      "profile": "https://github.com/unasuke",
+      "commits": 1806,
+      "avatar": "https://avatars.githubusercontent.com/u/4487291?u=9ccb845c6d77eaabe6142e5213b2ad7911ea49f1&v=4&s=40"
+    },
+    {
+      "rank": 157,
+      "username": "AdingApkgg",
+      "realname": "Asuna",
+      "profile": "https://github.com/AdingApkgg",
+      "commits": 1804,
+      "avatar": "https://avatars.githubusercontent.com/u/119665355?u=2c6b5e0374d43f4a2bc8c3ecdbb18170ffbca6bc&v=4&s=40"
+    },
+    {
+      "rank": 158,
+      "username": "taishikato",
+      "realname": "Taishi",
+      "profile": "https://github.com/taishikato",
+      "commits": 1803,
+      "avatar": "https://avatars.githubusercontent.com/u/980588?u=4c568345a288e113d5a15e75642b1223c0b7b601&v=4&s=40"
+    },
+    {
+      "rank": 159,
+      "username": "koron",
+      "realname": "MURAOKA Taro",
+      "profile": "https://github.com/koron",
+      "commits": 1803,
+      "avatar": "https://avatars.githubusercontent.com/u/468368?v=4&s=40"
+    },
+    {
+      "rank": 160,
+      "username": "Saqoosha",
+      "realname": "Saqoosha",
+      "profile": "https://github.com/Saqoosha",
+      "commits": 1801,
+      "avatar": "https://avatars.githubusercontent.com/u/27694?u=71a3db9b5df3a5c47de26dc19255c71733f97910&v=4&s=40"
+    },
+    {
+      "rank": 161,
+      "username": "nuitsjp",
+      "realname": "Atsushi Nakamura",
+      "profile": "https://github.com/nuitsjp",
+      "commits": 1784,
+      "avatar": "https://avatars.githubusercontent.com/u/16175660?u=022cc29bbc21c196a8364a0a9f912b5333d0b3c8&v=4&s=40"
+    },
+    {
+      "rank": 162,
+      "username": "tadashi-aikawa",
+      "realname": "Tadashi Aikawa",
+      "profile": "https://github.com/tadashi-aikawa",
+      "commits": 1769,
+      "avatar": "https://avatars.githubusercontent.com/u/9500018?u=409f92af80796e5d70aff0d97cfbcfc9031cb620&v=4&s=40"
+    },
+    {
+      "rank": 163,
+      "username": "JohnTitor",
+      "realname": "Yuki Okushi",
+      "profile": "https://github.com/JohnTitor",
+      "commits": 1756,
+      "avatar": "https://avatars.githubusercontent.com/u/25030997?u=db71533f10e17ce4e132dd0f80043e8e8160802f&v=4&s=40"
+    },
+    {
+      "rank": 164,
+      "username": "whitphx",
+      "realname": "Yuichiro Tachibana (Tsuchiya",
+      "profile": "https://github.com/whitphx",
+      "commits": 1734,
+      "avatar": "https://avatars.githubusercontent.com/u/3135397?u=bb8ef21760a59bc6bbe529439f4f8e197d07e390&v=4&s=40"
+    },
+    {
+      "rank": 165,
+      "username": "sorairolake",
+      "realname": "Shun Sakai",
+      "profile": "https://github.com/sorairolake",
+      "commits": 1725,
+      "avatar": "https://avatars.githubusercontent.com/u/48999343?u=09c033fd197c0071c112b3d0a1ca0431b1a411f5&v=4&s=40"
+    },
+    {
+      "rank": 166,
+      "username": "coliff",
+      "realname": "Christian Oliff",
+      "profile": "https://github.com/coliff",
+      "commits": 1723,
+      "avatar": "https://avatars.githubusercontent.com/u/1212885?u=bd7cef77d79c6a0a734f1853eb22c201d52dd67b&v=4&s=40"
+    },
+    {
+      "rank": 167,
+      "username": "0x0c",
+      "realname": "Akira MATSUDA",
+      "profile": "https://github.com/0x0c",
+      "commits": 1720,
+      "avatar": "https://avatars.githubusercontent.com/u/154327?v=4&s=40"
+    },
+    {
+      "rank": 168,
+      "username": "kou",
+      "realname": "Sutou Kouhei",
+      "profile": "https://github.com/kou",
+      "commits": 1717,
+      "avatar": "https://avatars.githubusercontent.com/u/27350?v=4&s=40"
+    },
+    {
+      "rank": 169,
+      "username": "koxudaxi",
+      "realname": "Koudai Aono",
+      "profile": "https://github.com/koxudaxi",
+      "commits": 1717,
+      "avatar": "https://avatars.githubusercontent.com/u/630670?u=507d8577b4b3670546b449c4c2ccbc5af40d72f7&v=4&s=40"
+    },
+    {
+      "rank": 170,
+      "username": "tokoik",
+      "realname": "Kohe Tokoi",
+      "profile": "https://github.com/tokoik",
+      "commits": 1717,
+      "avatar": "https://avatars.githubusercontent.com/u/1043616?u=de6b760b13e6fb506c7aae53cc63f81ab2e40c4b&v=4&s=40"
+    },
+    {
+      "rank": 171,
+      "username": "cpojer",
+      "realname": "Christoph Nakazawa",
+      "profile": "https://github.com/cpojer",
+      "commits": 1716,
+      "avatar": "https://avatars.githubusercontent.com/u/13352?u=eafcb8a7f49f72e829796cef5787587e57a60b8b&v=4&s=40"
+    },
+    {
+      "rank": 172,
+      "username": "koji",
+      "realname": "koji",
+      "profile": "https://github.com/koji",
+      "commits": 1712,
+      "avatar": "https://avatars.githubusercontent.com/u/474225?u=c83285dd4c29275ab7573e670c5815b9d8635833&v=4&s=40"
+    },
+    {
+      "rank": 173,
+      "username": "yoshoku",
+      "realname": "Atsushi Tatsuma",
+      "profile": "https://github.com/yoshoku",
+      "commits": 1700,
+      "avatar": "https://avatars.githubusercontent.com/u/5562409?u=230dbf44b9ea3afc3d9b0bf18c2dedbaa550fadc&v=4&s=40"
+    },
+    {
+      "rank": 174,
+      "username": "rob0pup",
+      "realname": "Robin",
+      "profile": "https://github.com/rob0pup",
+      "commits": 1695,
+      "avatar": "https://avatars.githubusercontent.com/u/38285616?u=29bf59de76a31b4d8dc60ff973a97ba0746344ae&v=4&s=40"
+    },
+    {
+      "rank": 175,
+      "username": "norbusan",
+      "realname": "Norbert Preining",
+      "profile": "https://github.com/norbusan",
+      "commits": 1666,
+      "avatar": "https://avatars.githubusercontent.com/u/1735589?v=4&s=40"
+    },
+    {
+      "rank": 176,
+      "username": "jsakamoto",
+      "profile": "https://github.com/jsakamoto",
+      "commits": 1647,
+      "avatar": "https://avatars.githubusercontent.com/u/95908?v=4&s=40"
+    },
+    {
+      "rank": 177,
+      "username": "nwtgck",
+      "realname": "Ryo Ota",
+      "profile": "https://github.com/nwtgck",
+      "commits": 1616,
+      "avatar": "https://avatars.githubusercontent.com/u/10933561?u=a862b6d1745a21d150bd288815327df84a15f819&v=4&s=40"
+    },
+    {
+      "rank": 178,
+      "username": "f0reachARR",
+      "realname": "ぐるぐる",
+      "profile": "https://github.com/f0reachARR",
+      "commits": 1614,
+      "avatar": "https://avatars.githubusercontent.com/u/28991730?u=91ec979bf34bad285710af3d115b242cf2060414&v=4&s=40"
+    },
+    {
+      "rank": 179,
+      "username": "koic",
+      "realname": "Koichi ITO",
+      "profile": "https://github.com/koic",
+      "commits": 1605,
+      "avatar": "https://avatars.githubusercontent.com/u/13203?u=60f42a553b09bc71f5e399845142fba0ca9e9bb5&v=4&s=40"
+    },
+    {
+      "rank": 180,
+      "username": "peppy",
+      "realname": "Dean Herbert",
+      "profile": "https://github.com/peppy",
+      "commits": 1603,
+      "avatar": "https://avatars.githubusercontent.com/u/191335?u=f05638a32068429ed4ca4e75e5a8c3d08c77d1f1&v=4&s=40"
+    },
+    {
+      "rank": 181,
+      "username": "sorah",
+      "realname": "Sorah Fukumori",
+      "profile": "https://github.com/sorah",
+      "commits": 1598,
+      "avatar": "https://avatars.githubusercontent.com/u/29440?u=edb1649250c65e786f7da69605973142d6509dc7&v=4&s=40"
+    },
+    {
+      "rank": 182,
+      "username": "taisukef",
+      "realname": "Taisuke Fukuno",
+      "profile": "https://github.com/taisukef",
+      "commits": 1596,
+      "avatar": "https://avatars.githubusercontent.com/u/1715217?u=629ca75b389db21f45fc67e51d074a4904c92e29&v=4&s=40"
+    },
+    {
+      "rank": 183,
+      "username": "miurahr",
+      "realname": "Hiroshi Miura",
+      "profile": "https://github.com/miurahr",
+      "commits": 1556,
+      "avatar": "https://avatars.githubusercontent.com/u/123720?u=4c2da6b69c31ca727d919f1776f8933c6560e99a&v=4&s=40"
+    },
+    {
+      "rank": 184,
+      "username": "kt3k",
+      "realname": "Yoshiya Hinosawa",
+      "profile": "https://github.com/kt3k",
+      "commits": 1550,
+      "avatar": "https://avatars.githubusercontent.com/u/613956?u=34a0122679ee26a9c099445e807b800d6f52341b&v=4&s=40"
+    },
+    {
+      "rank": 185,
+      "username": "haya14busa",
+      "realname": "haya14busa",
+      "profile": "https://github.com/haya14busa",
+      "commits": 1549,
+      "avatar": "https://avatars.githubusercontent.com/u/3797062?v=4&s=40"
+    },
+    {
+      "rank": 186,
+      "username": "shyouhei",
+      "realname": "卜部昌平",
+      "profile": "https://github.com/shyouhei",
+      "commits": 1539,
+      "avatar": "https://avatars.githubusercontent.com/u/15377?v=4&s=40"
+    },
+    {
+      "rank": 187,
+      "username": "Narazaka",
+      "realname": "Narazaka",
+      "profile": "https://github.com/Narazaka",
+      "commits": 1520,
+      "avatar": "https://avatars.githubusercontent.com/u/1712548?u=ec38daf4083e3a9248d8c71d793b84dcc67e34d0&v=4&s=40"
+    },
+    {
+      "rank": 188,
+      "username": "Shougo",
+      "realname": "Shougo",
+      "profile": "https://github.com/Shougo",
+      "commits": 1519,
+      "avatar": "https://avatars.githubusercontent.com/u/41495?v=4&s=40"
+    },
+    {
+      "rank": 189,
+      "username": "sideshowbarker",
+      "profile": "https://github.com/sideshowbarker",
+      "commits": 1519,
+      "avatar": "https://avatars.githubusercontent.com/u/194984?v=4&s=40"
+    },
+    {
+      "rank": 190,
+      "username": "tyoshikawa1106",
+      "realname": "Taiki Yoshikawa",
+      "profile": "https://github.com/tyoshikawa1106",
+      "commits": 1503,
+      "avatar": "https://avatars.githubusercontent.com/u/2088447?u=ac8a5a445f29457019929368e75d4ab06c3937b9&v=4&s=40"
+    },
+    {
+      "rank": 191,
+      "username": "hfu",
+      "realname": "Hidenori",
+      "profile": "https://github.com/hfu",
+      "commits": 1498,
+      "avatar": "https://avatars.githubusercontent.com/u/18297?u=16fc723cf2c0c4ba302418322922fa62e00a807e&v=4&s=40"
+    },
+    {
+      "rank": 192,
+      "username": "mcgoon",
+      "realname": "van",
+      "profile": "https://github.com/mcgoon",
+      "commits": 1488,
+      "avatar": "https://avatars.githubusercontent.com/u/124514952?u=a453079a8c0efb217294468c1c9a488db8532ac4&v=4&s=40"
+    },
+    {
+      "rank": 193,
+      "username": "mpyw",
+      "realname": "mpyw",
+      "profile": "https://github.com/mpyw",
+      "commits": 1484,
+      "avatar": "https://avatars.githubusercontent.com/u/1351893?u=0be634988207274bf5411df2f745daa3e8cba6f2&v=4&s=40"
+    },
+    {
+      "rank": 194,
+      "username": "fetus-hina",
+      "realname": "AIZAWA Hina",
+      "profile": "https://github.com/fetus-hina",
+      "commits": 1483,
+      "avatar": "https://avatars.githubusercontent.com/u/848666?u=b206ab9233f5048d15954f32b5658a67d77c8a53&v=4&s=40"
+    },
+    {
+      "rank": 195,
+      "username": "kazuho",
+      "realname": "Kazuho Oku",
+      "profile": "https://github.com/kazuho",
+      "commits": 1472,
+      "avatar": "https://avatars.githubusercontent.com/u/41567?v=4&s=40"
+    },
+    {
+      "rank": 196,
+      "username": "eitsupi",
+      "profile": "https://github.com/eitsupi",
+      "commits": 1471,
+      "avatar": "https://avatars.githubusercontent.com/u/50911393?u=7f8eff7f387e76ec8b05034af72d010eace8ecfe&v=4&s=40"
+    },
+    {
+      "rank": 197,
+      "username": "privatenumber",
+      "realname": "Hiroki Osame",
+      "profile": "https://github.com/privatenumber",
+      "commits": 1464,
+      "avatar": "https://avatars.githubusercontent.com/u/1075694?u=7f766073ee609bfb8876e1ae2b55ace083c1c19c&v=4&s=40"
+    },
+    {
+      "rank": 198,
+      "username": "kawasima",
+      "realname": "Yoshitaka Kawashima",
+      "profile": "https://github.com/kawasima",
+      "commits": 1461,
+      "avatar": "https://avatars.githubusercontent.com/u/59009?v=4&s=40"
+    },
+    {
+      "rank": 199,
+      "username": "yuichkun",
+      "realname": "Yuichi Yogo",
+      "profile": "https://github.com/yuichkun",
+      "commits": 1451,
+      "avatar": "https://avatars.githubusercontent.com/u/14039540?u=7ec442e96294e83453d78d4a2b8dff46c9cbcc4a&v=4&s=40"
+    },
+    {
+      "rank": 200,
+      "username": "inokawa",
+      "profile": "https://github.com/inokawa",
+      "commits": 1449,
+      "avatar": "https://avatars.githubusercontent.com/u/48897392?u=7b703f55be4c10ef70e23d0c2583389ce4de6a4d&v=4&s=40"
+    },
+    {
+      "rank": 201,
+      "username": "shotamatsuda",
+      "realname": "Shota Matsuda",
+      "profile": "https://github.com/shotamatsuda",
+      "commits": 1448,
+      "avatar": "https://avatars.githubusercontent.com/u/8651513?v=4&s=40"
+    },
+    {
+      "rank": 202,
+      "username": "cho45",
+      "realname": "Satoh, Hiroh",
+      "profile": "https://github.com/cho45",
+      "commits": 1446,
+      "avatar": "https://avatars.githubusercontent.com/u/3092?u=5814f21fad12812e6bf5d7a87e3180defc59d77e&v=4&s=40"
+    },
+    {
+      "rank": 203,
+      "username": "waylandzhang",
+      "realname": "WAYLAND ZHANG",
+      "profile": "https://github.com/waylandzhang",
+      "commits": 1445,
+      "avatar": "https://avatars.githubusercontent.com/u/1622648?u=f312afa4137f70abab351b2f7bb486762519ee16&v=4&s=40"
+    },
+    {
+      "rank": 204,
+      "username": "smallkirby",
+      "realname": "smallkirby",
+      "profile": "https://github.com/smallkirby",
+      "commits": 1435,
+      "avatar": "https://avatars.githubusercontent.com/u/47111091?u=4ecc3a2efbbad4b46d471bfd7e38884a604d58fd&v=4&s=40"
+    },
+    {
+      "rank": 205,
+      "username": "pw56",
+      "realname": "Ryu",
+      "profile": "https://github.com/pw56",
+      "commits": 1432,
+      "avatar": "https://avatars.githubusercontent.com/u/112185174?u=74c4eabb08f58ec2e44a5f093cda6f08fa7d93f9&v=4&s=40"
+    },
+    {
+      "rank": 206,
+      "username": "touyou",
+      "realname": "Fujii Yosuke",
+      "profile": "https://github.com/touyou",
+      "commits": 1428,
+      "avatar": "https://avatars.githubusercontent.com/u/465697?u=92f2daee62af292c9489ae61a09ca61a351ca67d&v=4&s=40"
+    },
+    {
+      "rank": 207,
+      "username": "vraestoren",
+      "realname": "huok",
+      "profile": "https://github.com/vraestoren",
+      "commits": 1412,
+      "avatar": "https://avatars.githubusercontent.com/u/77536370?u=6520a6dad64b6945d67adb9b8ab7e8c36b127c3f&v=4&s=40"
+    },
+    {
+      "rank": 208,
+      "username": "ynqa",
+      "profile": "https://github.com/ynqa",
+      "commits": 1406,
+      "avatar": "https://avatars.githubusercontent.com/u/6745370?u=8ed5f49c50af5fa89eae98f4cf072dd45a5be590&v=4&s=40"
+    },
+    {
+      "rank": 209,
+      "username": "nobu",
+      "realname": "Nobuyoshi Nakada",
+      "profile": "https://github.com/nobu",
+      "commits": 1402,
+      "avatar": "https://avatars.githubusercontent.com/u/16700?u=6d2ffd91f42472c93d8238f63e36ab75301bbbd0&v=4&s=40"
+    },
+    {
+      "rank": 210,
+      "username": "konn",
+      "realname": "Hiromi Ishii",
+      "profile": "https://github.com/konn",
+      "commits": 1393,
+      "avatar": "https://avatars.githubusercontent.com/u/21860?u=90a1b2ace34adc2da9619af7f7839fd2e38a67eb&v=4&s=40"
+    },
+    {
+      "rank": 211,
+      "username": "babarot",
+      "realname": "Masaki ISHIYAMA",
+      "profile": "https://github.com/babarot",
+      "commits": 1375,
+      "avatar": "https://avatars.githubusercontent.com/u/4442708?u=bb38b0d35a2cfd51aac1343463c2348be7e0013b&v=4&s=40"
+    },
+    {
+      "rank": 212,
+      "username": "sivchari",
+      "realname": "Takuma Shibuya",
+      "profile": "https://github.com/sivchari",
+      "commits": 1374,
+      "avatar": "https://avatars.githubusercontent.com/u/55221074?u=8fd9231ce614bcaf5b69bb8d4214a27991a82acc&v=4&s=40"
+    },
+    {
+      "rank": 213,
+      "username": "kexi",
+      "realname": "Kei Nakayama",
+      "profile": "https://github.com/kexi",
+      "commits": 1366,
+      "avatar": "https://avatars.githubusercontent.com/u/350671?u=5f1550c21d0609f2c89ef22e46203782e7564d01&v=4&s=40"
+    },
+    {
+      "rank": 214,
+      "username": "SethRobinson",
+      "realname": "Seth Robinson",
+      "profile": "https://github.com/SethRobinson",
+      "commits": 1353,
+      "avatar": "https://avatars.githubusercontent.com/u/394547?v=4&s=40"
+    },
+    {
+      "rank": 215,
+      "username": "okunokentaro",
+      "realname": "OKUNOKENTARO",
+      "profile": "https://github.com/okunokentaro",
+      "commits": 1349,
+      "avatar": "https://avatars.githubusercontent.com/u/5953871?u=b2abf7bab99c1c305481d60e6a6b53eb84396c80&v=4&s=40"
+    },
+    {
+      "rank": 216,
+      "username": "pocke",
+      "realname": "Masataka Pocke Kuwabara",
+      "profile": "https://github.com/pocke",
+      "commits": 1346,
+      "avatar": "https://avatars.githubusercontent.com/u/4361134?v=4&s=40"
+    },
+    {
+      "rank": 217,
+      "username": "elzup",
+      "realname": "elzup",
+      "profile": "https://github.com/elzup",
+      "commits": 1328,
+      "avatar": "https://avatars.githubusercontent.com/u/2284908?u=d136063c35917db63b91018be853e280a87f9511&v=4&s=40"
+    },
+    {
+      "rank": 218,
+      "username": "tseijp",
+      "realname": "sei",
+      "profile": "https://github.com/tseijp",
+      "commits": 1326,
+      "avatar": "https://avatars.githubusercontent.com/u/40712342?u=f6d34da810c6b399242275a8d5f31cf4a5c81790&v=4&s=40"
+    },
+    {
+      "rank": 219,
+      "username": "ykzts",
+      "realname": "Yamagishi Kazutoshi",
+      "profile": "https://github.com/ykzts",
+      "commits": 1316,
+      "avatar": "https://avatars.githubusercontent.com/u/12539?u=b6e122787ee3f7d261dd6d4f0557990699953ea9&v=4&s=40"
+    },
+    {
+      "rank": 220,
+      "username": "udzura",
+      "realname": "Kondo Uchio",
+      "profile": "https://github.com/udzura",
+      "commits": 1312,
+      "avatar": "https://avatars.githubusercontent.com/u/91011?u=c06ef3d14ad9739abb590476ce370fb4b9f82f30&v=4&s=40"
+    },
+    {
+      "rank": 221,
+      "username": "RobertTLange",
+      "realname": "Robert Tjarko Lange",
+      "profile": "https://github.com/RobertTLange",
+      "commits": 1296,
+      "avatar": "https://avatars.githubusercontent.com/u/20374662?u=e0698b272bf419d88e4a32bae7d29cf22165e189&v=4&s=40"
+    },
+    {
+      "rank": 222,
+      "username": "otiai10",
+      "realname": "Hiromu OCHIAI",
+      "profile": "https://github.com/otiai10",
+      "commits": 1291,
+      "avatar": "https://avatars.githubusercontent.com/u/931554?u=762e75a79c11651dad94fe3caa37ffae5549907c&v=4&s=40"
+    },
+    {
+      "rank": 223,
+      "username": "Comamoca",
+      "realname": "Comamoca",
+      "profile": "https://github.com/Comamoca",
+      "commits": 1288,
+      "avatar": "https://avatars.githubusercontent.com/u/93137338?u=95a9601ff7e08488494cca78d0cd4958a13beefb&v=4&s=40"
+    },
+    {
+      "rank": 224,
+      "username": "syohex",
+      "realname": "Shohei YOSHIDA",
+      "profile": "https://github.com/syohex",
+      "commits": 1281,
+      "avatar": "https://avatars.githubusercontent.com/u/554281?u=334c345f4df78e69ffa301e8588105e87f1f4241&v=4&s=40"
+    },
+    {
+      "rank": 225,
+      "username": "h3poteto",
+      "realname": "AkiraFukushima",
+      "profile": "https://github.com/h3poteto",
+      "commits": 1262,
+      "avatar": "https://avatars.githubusercontent.com/u/4631959?u=3a8631c74003326ee420d540d398e4e06fe4caf4&v=4&s=40"
+    },
+    {
+      "rank": 226,
+      "username": "vrtmrz",
+      "realname": "vorotamoroz",
+      "profile": "https://github.com/vrtmrz",
+      "commits": 1257,
+      "avatar": "https://avatars.githubusercontent.com/u/45774780?v=4&s=40"
+    },
+    {
+      "rank": 227,
+      "username": "kawarimidoll",
+      "realname": "カワリミ人形",
+      "profile": "https://github.com/kawarimidoll",
+      "commits": 1257,
+      "avatar": "https://avatars.githubusercontent.com/u/8146876?u=ad76ab9fbb36448eebe81884579080f53a709545&v=4&s=40"
+    },
+    {
+      "rank": 228,
+      "username": "TimOliver",
+      "realname": "Tim Oliver",
+      "profile": "https://github.com/TimOliver",
+      "commits": 1251,
+      "avatar": "https://avatars.githubusercontent.com/u/429119?u=98d2e07b76dcb3afdd5786b1e8fa102f2c125f01&v=4&s=40"
+    },
+    {
+      "rank": 229,
+      "username": "kaityo256",
+      "realname": "Hiroshi Watanabe",
+      "profile": "https://github.com/kaityo256",
+      "commits": 1247,
+      "avatar": "https://avatars.githubusercontent.com/u/1335564?u=858d24a7a5b9de076144f33b504e9b10faaa48a7&v=4&s=40"
+    },
+    {
+      "rank": 230,
+      "username": "tatsuyafujisaki",
+      "realname": "Tatsuya Fujisaki",
+      "profile": "https://github.com/tatsuyafujisaki",
+      "commits": 1247,
+      "avatar": "https://avatars.githubusercontent.com/u/1838962?u=51477ec0418bd6de32928113ea3ca55d4cadc193&v=4&s=40"
+    },
+    {
+      "rank": 231,
+      "username": "nulltask",
+      "realname": "Seiya KONNO",
+      "profile": "https://github.com/nulltask",
+      "commits": 1241,
+      "avatar": "https://avatars.githubusercontent.com/u/291185?v=4&s=40"
+    },
+    {
+      "rank": 232,
+      "username": "masutaka",
+      "realname": "Takashi Masuda",
+      "profile": "https://github.com/masutaka",
+      "commits": 1239,
+      "avatar": "https://avatars.githubusercontent.com/u/170014?u=84c9164509e7df0ceeb9f2658d677cee2160bafe&v=4&s=40"
+    },
+    {
+      "rank": 233,
+      "username": "akatsuki105",
+      "realname": "Akatsuki",
+      "profile": "https://github.com/akatsuki105",
+      "commits": 1238,
+      "avatar": "https://avatars.githubusercontent.com/u/37920078?u=004cd979f8e22dd6e405182c5675b955875aea2a&v=4&s=40"
+    },
+    {
+      "rank": 234,
+      "username": "machida",
+      "realname": "machida",
+      "profile": "https://github.com/machida",
+      "commits": 1231,
+      "avatar": "https://avatars.githubusercontent.com/u/168265?u=2469df24b1a285c7de03fd33bbe1254f3d4d23db&v=4&s=40"
+    },
+    {
+      "rank": 235,
+      "username": "seratch",
+      "realname": "Kazuhiro Sera",
+      "profile": "https://github.com/seratch",
+      "commits": 1229,
+      "avatar": "https://avatars.githubusercontent.com/u/19658?u=f4b4e7ec8ee32f3043d4d57aca50514113ed2328&v=4&s=40"
+    },
+    {
+      "rank": 236,
+      "username": "kons10",
+      "realname": "Kanon🏳️‍⚧️奏音",
+      "profile": "https://github.com/kons10",
+      "commits": 1219,
+      "avatar": "https://avatars.githubusercontent.com/u/95830789?u=b95b0e65322b1795f84ed0cdac2f98397e5a3aef&v=4&s=40"
+    },
+    {
+      "rank": 237,
+      "username": "Kanahiro",
+      "realname": "Kanahiro Iguchi",
+      "profile": "https://github.com/Kanahiro",
+      "commits": 1216,
+      "avatar": "https://avatars.githubusercontent.com/u/20744195?u=5fed118fa4b37c275a4b9acebcfd614d3839d483&v=4&s=40"
+    },
+    {
+      "rank": 238,
+      "username": "znz",
+      "realname": "Kazuhiro NISHIYAMA",
+      "profile": "https://github.com/znz",
+      "commits": 1215,
+      "avatar": "https://avatars.githubusercontent.com/u/11857?v=4&s=40"
+    },
+    {
+      "rank": 239,
+      "username": "champierre",
+      "realname": "Junya Ishihara",
+      "profile": "https://github.com/champierre",
+      "commits": 1207,
+      "avatar": "https://avatars.githubusercontent.com/u/10215?v=4&s=40"
+    },
+    {
+      "rank": 240,
+      "username": "trust-delta",
+      "realname": "trust-delta",
+      "profile": "https://github.com/trust-delta",
+      "commits": 1206,
+      "avatar": "https://avatars.githubusercontent.com/u/150538531?u=55558096e20059c33791e625afe2e4e5c2ac1a8c&v=4&s=40"
+    },
+    {
+      "rank": 241,
+      "username": "tetsuharuohzeki",
+      "realname": "Tetsuharu Ohzeki",
+      "profile": "https://github.com/tetsuharuohzeki",
+      "commits": 1198,
+      "avatar": "https://avatars.githubusercontent.com/u/180104?u=1f1068dd23632c4370b8776985a88f971f5d84a1&v=4&s=40"
+    },
+    {
+      "rank": 242,
+      "username": "rui314",
+      "realname": "Rui Ueyama",
+      "profile": "https://github.com/rui314",
+      "commits": 1196,
+      "avatar": "https://avatars.githubusercontent.com/u/47400?v=4&s=40"
+    },
+    {
+      "rank": 243,
+      "username": "kyamagu",
+      "realname": "Kota Yamaguchi",
+      "profile": "https://github.com/kyamagu",
+      "commits": 1193,
+      "avatar": "https://avatars.githubusercontent.com/u/1190780?u=36adbe8e27260e478177544e1283695f87515d81&v=4&s=40"
+    },
+    {
+      "rank": 244,
+      "username": "nwiizo",
+      "realname": "nwiizo",
+      "profile": "https://github.com/nwiizo",
+      "commits": 1190,
+      "avatar": "https://avatars.githubusercontent.com/u/12461120?u=82a37d37019cf4a2fc7e52fb78f43d4accb0eaef&v=4&s=40"
+    },
+    {
+      "rank": 245,
+      "username": "fygar256",
+      "realname": "Taisuke Maekawa",
+      "profile": "https://github.com/fygar256",
+      "commits": 1188,
+      "avatar": "https://avatars.githubusercontent.com/u/33965063?u=45e18b59e74bdb1a3352065abcce8ce81bc2d3fb&v=4&s=40"
+    },
+    {
+      "rank": 246,
+      "username": "wass08",
+      "realname": "Wassim SAMAD",
+      "profile": "https://github.com/wass08",
+      "commits": 1186,
+      "avatar": "https://avatars.githubusercontent.com/u/6551176?u=56c99fbb1c10444df373cc0796b9436d32490c15&v=4&s=40"
+    },
+    {
+      "rank": 247,
+      "username": "mosuka",
+      "realname": "Minoru OSUKA",
+      "profile": "https://github.com/mosuka",
+      "commits": 1186,
+      "avatar": "https://avatars.githubusercontent.com/u/970948?u=ecccb3d231052f35d32b01ed7eedc4e16253c7fc&v=4&s=40"
+    },
+    {
+      "rank": 248,
+      "username": "ryotarai",
+      "realname": "Ryota Arai",
+      "profile": "https://github.com/ryotarai",
+      "commits": 1182,
+      "avatar": "https://avatars.githubusercontent.com/u/706434?v=4&s=40"
+    },
+    {
+      "rank": 249,
+      "username": "rhysd",
+      "realname": "Linda_pp",
+      "profile": "https://github.com/rhysd",
+      "commits": 1171,
+      "avatar": "https://avatars.githubusercontent.com/u/823277?u=2bd448fd47ffdb80a92e49b497332c9a499e436c&v=4&s=40"
+    },
+    {
+      "rank": 250,
+      "username": "craftzdog",
+      "realname": "Takuya Matsuyama",
+      "profile": "https://github.com/craftzdog",
+      "commits": 1169,
+      "avatar": "https://avatars.githubusercontent.com/u/1332805?u=5b6e5cff00fb7e5ff533f3d3a0f5aa71b54337d4&v=4&s=40"
+    },
+    {
+      "rank": 251,
+      "username": "knu",
+      "realname": "Akinori Musha",
+      "profile": "https://github.com/knu",
+      "commits": 1167,
+      "avatar": "https://avatars.githubusercontent.com/u/10236?v=4&s=40"
+    },
+    {
+      "rank": 252,
+      "username": "tomoyanonymous",
+      "realname": "松浦 知也 Matsuura Tomoya",
+      "profile": "https://github.com/tomoyanonymous",
+      "commits": 1167,
+      "avatar": "https://avatars.githubusercontent.com/u/7259276?u=9f6e87c5c5dd344f37b6e1bd76cc302688ee2f3c&v=4&s=40"
+    },
+    {
+      "rank": 253,
+      "username": "takahirom",
+      "realname": "Takahiro Menju",
+      "profile": "https://github.com/takahirom",
+      "commits": 1166,
+      "avatar": "https://avatars.githubusercontent.com/u/1386930?u=ded0546028d0c2993d504475d0de5f34d8cafc24&v=4&s=40"
+    },
+    {
+      "rank": 254,
+      "username": "amake",
+      "realname": "Aaron Madlon-Kay",
+      "profile": "https://github.com/amake",
+      "commits": 1161,
+      "avatar": "https://avatars.githubusercontent.com/u/2172537?u=7c6fb87a022e8ba001edf0bc8c9bebdc3f2a564c&v=4&s=40"
+    },
+    {
+      "rank": 255,
+      "username": "wasabeef",
+      "realname": "Daichi Furiya",
+      "profile": "https://github.com/wasabeef",
+      "commits": 1157,
+      "avatar": "https://avatars.githubusercontent.com/u/1833474?v=4&s=40"
+    },
+    {
+      "rank": 256,
+      "username": "masarakki",
+      "realname": "masarakki",
+      "profile": "https://github.com/masarakki",
+      "commits": 1156,
+      "avatar": "https://avatars.githubusercontent.com/u/26023?u=936bd9d1150b9cedc792f61977da6eab493c2bf3&v=4&s=40"
+    }
+  ]
+}
