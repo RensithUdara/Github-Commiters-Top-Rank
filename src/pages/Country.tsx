@@ -346,7 +346,7 @@ const Country = () => {
           </div>
         ) : (
           <>
-            <div className="duration-700 animate-in fade-in slide-in-from-bottom-4">
+            <div className="pt-2 scroll-mt-36 duration-700 animate-in fade-in slide-in-from-bottom-4">
               <UserTable
                 users={visibleUsers}
                 countryName={formattedCountryName}
