@@ -78,14 +78,14 @@ export const FilterBar = ({
   };
 
   return (
-    <div className="surface sticky top-[76px] z-30 mb-8 rounded-lg p-3 sm:top-[64px]">
+    <div className="surface color-surface sticky top-[76px] z-30 mb-8 rounded-lg p-3 sm:top-[64px]">
       <div className="flex flex-row items-center justify-between gap-3 md:flex-col">
         <div className="flex w-full items-center gap-3 sm:gap-2">
           <ToggleGroup
             type="single"
             value={mode}
             onValueChange={(val) => val && updateParam("mode", val)}
-            className="flex w-full gap-1 rounded-md bg-gray-100 p-1 dark:bg-white/10"
+            className="flex w-full gap-1 rounded-md bg-gradient-to-r from-teal-50 via-indigo-50 to-amber-50 p-1 dark:from-teal-400/10 dark:via-indigo-400/10 dark:to-amber-400/10"
           >
             {[
               { value: "commits", icon: GitCommit },
@@ -95,7 +95,7 @@ export const FilterBar = ({
               <ToggleGroupItem
                 key={item.value}
                 value={item.value}
-                className="h-10 flex-1 rounded-md px-4 text-sm font-black capitalize transition-all hover:bg-white/80 hover:text-teal-700 data-[state=on]:bg-white data-[state=on]:text-gray-950 data-[state=on]:shadow-sm dark:hover:bg-white/10 dark:hover:text-teal-200 dark:data-[state=on]:bg-gray-950/80 dark:data-[state=on]:text-white sm:px-2 sm:text-xs"
+                className="h-10 flex-1 rounded-md px-4 text-sm font-black capitalize transition-all hover:bg-white/85 hover:text-teal-700 data-[state=on]:bg-gray-950 data-[state=on]:text-white data-[state=on]:shadow-sm dark:hover:bg-white/10 dark:hover:text-teal-200 dark:data-[state=on]:bg-white dark:data-[state=on]:text-gray-950 sm:px-2 sm:text-xs"
               >
                 <item.icon className="mr-2 h-4 w-4 sm:mr-1" />
                 {item.value}
@@ -107,7 +107,7 @@ export const FilterBar = ({
             <button
               onClick={handleRefetch}
               disabled={isFetching || internalLoading}
-              className="flex h-11 w-11 shrink-0 items-center justify-center rounded-md border border-gray-200 bg-white text-gray-500 transition-all hover:border-teal-300 hover:text-teal-700 disabled:opacity-50 dark:border-white/10 dark:bg-gray-950/50 dark:hover:text-teal-300"
+              className="flex h-11 w-11 shrink-0 items-center justify-center rounded-md border border-teal-200 bg-teal-50 text-teal-700 transition-all hover:border-teal-300 hover:bg-teal-100 disabled:opacity-50 dark:border-teal-300/20 dark:bg-teal-400/10 dark:text-teal-200"
             >
               <RefreshCw
                 className={`w-5 h-5 ${isFetching || internalLoading ? "animate-spin" : ""}`}
@@ -121,7 +121,7 @@ export const FilterBar = ({
             value={sortBy}
             onValueChange={(val) => updateParam("sort", val)}
           >
-            <SelectTrigger className="h-11 w-full rounded-md border border-gray-200 bg-white text-gray-800 focus:ring-4 focus:ring-teal-500/10 dark:border-white/10 dark:bg-gray-950/50 dark:text-gray-200">
+            <SelectTrigger className="h-11 w-full rounded-md border border-indigo-200 bg-indigo-50 text-indigo-900 focus:ring-4 focus:ring-indigo-500/10 dark:border-indigo-300/20 dark:bg-indigo-400/10 dark:text-indigo-100">
               <SelectValue placeholder="Sort by" />
             </SelectTrigger>
             <SelectContent className="border-gray-200 bg-white/95 backdrop-blur-xl dark:border-white/10 dark:bg-gray-950/95">
