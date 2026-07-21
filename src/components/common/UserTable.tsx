@@ -27,10 +27,20 @@ export const UserTable = ({ users, countryName, countrySlug }: UserTableProps) =
   };
 
   const rankStyle = (rank: number) => {
-    if (rank === 1) return "bg-amber-100 text-amber-700 dark:bg-amber-300/15 dark:text-amber-200";
-    if (rank === 2) return "bg-indigo-100 text-indigo-700 dark:bg-indigo-300/15 dark:text-indigo-200";
-    if (rank === 3) return "bg-rose-100 text-rose-700 dark:bg-rose-300/15 dark:text-rose-200";
-    return "bg-gray-100 text-gray-800 dark:bg-white/10 dark:text-gray-100";
+    if (rank === 1)
+      return "bg-yellow-100 text-yellow-800 dark:bg-yellow-300/15 dark:text-yellow-200";
+    if (rank === 2)
+      return "bg-slate-200 text-slate-700 dark:bg-slate-300/15 dark:text-slate-200";
+    if (rank === 3)
+      return "bg-orange-100 text-orange-800 dark:bg-orange-300/15 dark:text-orange-200";
+    return "bg-emerald-100 text-emerald-800 dark:bg-emerald-300/15 dark:text-emerald-200";
+  };
+
+  const medalStyle = (rank: number) => {
+    if (rank === 1) return "text-yellow-500";
+    if (rank === 2) return "text-slate-400";
+    if (rank === 3) return "text-orange-600";
+    return "text-emerald-600 dark:text-emerald-300";
   };
 
   return (
@@ -115,7 +125,7 @@ export const UserTable = ({ users, countryName, countrySlug }: UserTableProps) =
                   </TableCell>
 
                   <TableCell className="text-center">
-                    <Medal className="mx-auto h-5 w-5 text-amber-500" />
+                    <Medal className={`mx-auto h-5 w-5 ${medalStyle(user.rank)}`} />
                   </TableCell>
                 </TableRow>
               );
