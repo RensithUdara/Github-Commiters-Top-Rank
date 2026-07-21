@@ -173,10 +173,10 @@ export const CountryCard = ({
                 <span
                   className={`flex h-7 w-7 shrink-0 items-center justify-center rounded-md ${
                     index === 0
-                      ? "bg-amber-100 text-amber-600 dark:bg-amber-300/10 dark:text-amber-200"
+                      ? "bg-yellow-100 text-yellow-700 dark:bg-yellow-300/10 dark:text-yellow-200"
                       : index === 1
-                        ? "bg-indigo-100 text-indigo-600 dark:bg-indigo-300/10 dark:text-indigo-200"
-                        : "bg-rose-100 text-rose-600 dark:bg-rose-300/10 dark:text-rose-200"
+                        ? "bg-slate-200 text-slate-600 dark:bg-slate-300/10 dark:text-slate-200"
+                        : "bg-orange-100 text-orange-700 dark:bg-orange-300/10 dark:text-orange-200"
                   }`}
                 >
                   <Medal className="h-4 w-4" />
