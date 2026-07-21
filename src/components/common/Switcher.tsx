@@ -36,7 +36,7 @@ export const Switcher = () => {
     <button
       type="button"
       onClick={toggle}
-      className="flex h-10 w-10 items-center justify-center rounded-md border border-gray-200 bg-white text-gray-700 shadow-sm transition-colors hover:border-gray-300 hover:bg-gray-50 dark:border-white/10 dark:bg-white/10 dark:text-gray-100 dark:hover:bg-white/15 sm:h-9 sm:w-9"
+      className="flex h-10 w-10 items-center justify-center rounded-md border border-amber-200 bg-amber-50 text-gray-700 shadow-sm transition-colors hover:border-amber-300 hover:bg-amber-100 dark:border-indigo-300/20 dark:bg-indigo-300/10 dark:text-gray-100 dark:hover:bg-indigo-300/15 sm:h-9 sm:w-9"
       aria-label="Toggle theme"
     >
       {isDark ? (
