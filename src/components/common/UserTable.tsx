@@ -1,4 +1,5 @@
-import { useState } from "react";
+import { useEffect, useState } from "react";
+import { useSearchParams } from "react-router-dom";
 import {
   Table,
   TableBody,
@@ -20,11 +21,40 @@ interface UserTableProps {
 export const UserTable = ({ users, countryName, countrySlug }: UserTableProps) => {
   const [selectedUser, setSelectedUser] = useState<Committer | null>(null);
   const [dialogOpen, setDialogOpen] = useState(false);
+  const [searchParams, setSearchParams] = useSearchParams();
+  const deepLinkedUser = searchParams.get("user");
 
   const openDialog = (user: Committer) => {
     setSelectedUser(user);
     setDialogOpen(true);
+    if (countrySlug) {
+      const nextParams = new URLSearchParams(searchParams);
+      nextParams.set("user", user.username);
+      setSearchParams(nextParams, { replace: true });
+    }
   };
+
+  const handleDialogOpenChange = (open: boolean) => {
+    setDialogOpen(open);
+    if (!open && deepLinkedUser) {
+      const nextParams = new URLSearchParams(searchParams);
+      nextParams.delete("user");
+      setSearchParams(nextParams, { replace: true });
+    }
+  };
+
+  useEffect(() => {
+    if (!deepLinkedUser || users.length === 0) return;
+
+    const user = users.find(
+      (item) => item.username.toLowerCase() === deepLinkedUser.toLowerCase(),
+    );
+
+    if (user) {
+      setSelectedUser(user);
+      setDialogOpen(true);
+    }
+  }, [deepLinkedUser, users]);
 
   const rankStyle = (rank: number) => {
     if (rank === 1)
@@ -140,7 +170,7 @@ export const UserTable = ({ users, countryName, countrySlug }: UserTableProps) =
           user={selectedUser}
           open={dialogOpen}
           key={selectedUser.username}
-          onOpenChange={setDialogOpen}
+          onOpenChange={handleDialogOpenChange}
           countrySlug={countrySlug}
           countryName={countryName}
         />

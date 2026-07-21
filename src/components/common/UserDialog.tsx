@@ -13,6 +13,7 @@ import type { Committer } from "@/types";
 import { useGetGitHubUserByUsernameQuery } from "@/api";
 import { useMemo, useState } from "react";
 import { Toast } from "./Toast";
+import { absoluteUrl } from "@/lib/seo";
 
 interface UserDialogProps {
   user: Committer;
@@ -44,14 +45,25 @@ export const UserDialog = ({
   const committersBadgeUrl = countrySlug
     ? `https://${badgeBaseUrl}.committers.top/${countrySlug}/${badgeSubject}.svg`
     : "";
-  const badgeLink = countrySlug
+  const originalBadgeLink = countrySlug
     ? `https://${badgeBaseUrl}.committers.top/${countrySlug}/${badgeSubject}`
     : "";
+  const badgeLink = countrySlug
+    ? absoluteUrl(`/${countrySlug}?user=${encodeURIComponent(badgeSubject)}`)
+    : "";
+  const badgeColor =
+    user.rank === 1
+      ? "d4af37"
+      : user.rank === 2
+        ? "c0c0c0"
+        : user.rank === 3
+          ? "cd7f32"
+          : "16a34a";
   const badgeMessage = `${countryName || countrySlug || "Country"} #${user.rank} (public commits)`;
   const badgeUrl = countrySlug
     ? `https://img.shields.io/badge/Committers%20Top%20Rank-${encodeURIComponent(
         badgeMessage,
-      ).replace(/-/g, "--")}-14b8a6?style=flat&logo=github&logoColor=white&labelColor=111827`
+      ).replace(/-/g, "--")}-${badgeColor}?style=flat&logo=github&logoColor=white&labelColor=111827&color=${badgeColor}`
     : "";
   const badgeMarkdown = useMemo(
     () =>
@@ -160,8 +172,8 @@ export const UserDialog = ({
                           <p className="text-sm font-black text-gray-950 dark:text-white">
                             Committers Top Rank Badge
                           </p>
-                          <p className="text-xs font-semibold text-gray-500 dark:text-gray-400">
-                            Links to {badgeType === "user" ? "user" : "org"} badge page
+                      <p className="text-xs font-semibold text-gray-500 dark:text-gray-400">
+                            Opens this profile on your site
                           </p>
                         </div>
                       </div>
@@ -192,7 +204,7 @@ export const UserDialog = ({
                       />
                     </div>
                     <a
-                      href={committersBadgeUrl}
+                      href={originalBadgeLink || committersBadgeUrl}
                       target="_blank"
                       rel="noreferrer"
                       className="mb-3 inline-flex text-xs font-bold text-teal-700 hover:underline dark:text-teal-200"
