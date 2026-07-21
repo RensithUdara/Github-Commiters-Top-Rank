@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#f8fafc"/>
+      <stop offset="1" stop-color="#e5edf5"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" x2="1">
+      <stop offset="0" stop-color="#14b8a6"/>
+      <stop offset="0.5" stop-color="#f59e0b"/>
+      <stop offset="1" stop-color="#ef4444"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect x="86" y="84" width="1028" height="462" rx="28" fill="#ffffff" opacity="0.88"/>
+  <rect x="126" y="134" width="150" height="8" rx="4" fill="url(#accent)"/>
+  <text x="126" y="205" fill="#0f172a" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="800" letter-spacing="8">GITHUB COMMITERS TOP RANK</text>
+  <text x="126" y="312" fill="#020617" font-family="Arial, Helvetica, sans-serif" font-size="74" font-weight="900">Global GitHub</text>
+  <text x="126" y="398" fill="#020617" font-family="Arial, Helvetica, sans-serif" font-size="74" font-weight="900">Contributor Rankings</text>
+  <text x="126" y="472" fill="#475569" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="600">Daily updated open-source activity by country</text>
+  <circle cx="990" cy="215" r="38" fill="#14b8a6"/>
+  <circle cx="990" cy="315" r="38" fill="#f59e0b"/>
+  <circle cx="990" cy="415" r="38" fill="#ef4444"/>
+  <text x="126" y="535" fill="#0f766e" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="800">By Rensith Udara Gonalagoda</text>
+</svg>
