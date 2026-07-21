@@ -50,7 +50,7 @@ export const UserDialog = ({
   const badgeMarkdown = useMemo(
     () =>
       badgeUrl && badgeLink
-        ? `[![committers.top badge](${badgeUrl})](${badgeLink})`
+        ? `[![Committers Top Rank Badge](${badgeUrl})](${badgeLink})`
         : "",
     [badgeLink, badgeUrl],
   );
@@ -152,7 +152,7 @@ export const UserDialog = ({
                         <BadgeCheck className="h-4 w-4 text-teal-700 dark:text-teal-200" />
                         <div>
                           <p className="text-sm font-black text-gray-950 dark:text-white">
-                            committers.top badge
+                            Committers Top Rank Badge
                           </p>
                           <p className="text-xs font-semibold text-gray-500 dark:text-gray-400">
                             {countryName || countrySlug}
@@ -180,7 +180,7 @@ export const UserDialog = ({
                     <div className="mb-3 overflow-x-auto rounded-md border border-gray-200 bg-gray-950 p-3 dark:border-white/10">
                       <img
                         src={badgeUrl}
-                        alt={`${user.username} committers.top badge`}
+                        alt={`${user.username} Committers Top Rank Badge`}
                         className="h-5 max-w-none"
                         loading="lazy"
                       />
