@@ -19,12 +19,13 @@ export const Header = ({ countryName }: HeaderProps) => {
   return (
     <div
       id="header-section"
-      className="fixed top-0 left-0 right-0 z-50 border-b border-white/50 bg-white/75 backdrop-blur-2xl dark:border-white/10 dark:bg-gray-950/70"
+      className="fixed top-0 left-0 right-0 z-50 border-b border-white/50 bg-white/80 backdrop-blur-2xl dark:border-white/10 dark:bg-gray-950/75"
     >
+      <div className="accent-line h-1 w-full" />
       <div className="w-full px-5 mx-auto max-w-7xl sm:px-4">
         <div className="flex h-16 items-center justify-between gap-3 sm:h-14">
           <div className="flex min-w-0 items-center gap-3">
-            <div className="flex h-10 w-10 shrink-0 items-center justify-center rounded-md bg-gray-950 text-white shadow-sm dark:bg-white dark:text-gray-950 sm:h-9 sm:w-9">
+            <div className="flex h-10 w-10 shrink-0 items-center justify-center rounded-md bg-gradient-to-br from-gray-950 via-teal-700 to-indigo-700 text-white shadow-lg shadow-teal-900/15 dark:from-white dark:via-teal-100 dark:to-amber-100 dark:text-gray-950 sm:h-9 sm:w-9">
               <Github className="h-5 w-5" />
             </div>
             <div className="min-w-0">
@@ -32,8 +33,8 @@ export const Header = ({ countryName }: HeaderProps) => {
                 <p className="truncate text-[15px] font-black uppercase tracking-[0.18em] text-gray-950 dark:text-white sm:text-[11px] sm:tracking-[0.08em]">
                   Committers
                 </p>
-                <span className="h-1.5 w-1.5 rounded-full bg-teal-500" />
-                <span className="text-xs font-semibold text-gray-500 dark:text-gray-400 sm:hidden">
+                <span className="h-1.5 w-1.5 rounded-full bg-rose-500" />
+                <span className="rounded-md bg-teal-50 px-2 py-0.5 text-xs font-black text-teal-700 dark:bg-teal-400/10 dark:text-teal-200 sm:hidden">
                   {isHomePage ? "Worldwide" : countryName}
                 </span>
               </div>
