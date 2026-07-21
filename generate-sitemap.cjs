@@ -23,7 +23,13 @@ async function getCountries() {
       slug: match[1].replace(/^\//, ""),
       name: match[2].trim(),
     }))
-    .filter((country) => country.slug && country.name);
+    .filter(
+      (country) =>
+        country.slug &&
+        country.name &&
+        !country.slug.includes(".") &&
+        !country.slug.startsWith("http"),
+    );
 }
 
 async function generate() {
