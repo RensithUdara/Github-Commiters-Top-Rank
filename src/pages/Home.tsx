@@ -249,7 +249,7 @@ const Home = () => {
   ];
 
   return (
-    <div className="app-shell relative min-h-screen px-5 pb-16 pt-20 mx-auto max-w-7xl sm:px-4 sm:pt-16">
+    <div className="app-shell soft-grid relative min-h-screen px-5 pb-16 pt-20 mx-auto max-w-7xl sm:px-4 sm:pt-16">
       <Helmet>
         <title>{homeTitle}</title>
         <meta name="description" content={homeDescription} />
@@ -283,11 +283,11 @@ const Home = () => {
         <div className="accent-line mb-7 h-1 w-28 rounded-full" />
         <div className="grid grid-cols-[1.25fr_0.75fr] items-end gap-6 lg:grid-cols-1">
           <div>
-            <div className="mb-4 inline-flex items-center gap-2 rounded-md border border-teal-200 bg-teal-50 px-3 py-1 text-xs font-bold uppercase tracking-[0.18em] text-teal-700 dark:border-teal-400/20 dark:bg-teal-400/10 dark:text-teal-200">
+            <div className="mb-4 inline-flex items-center gap-2 rounded-md border border-teal-200 bg-gradient-to-r from-teal-50 to-cyan-50 px-3 py-1 text-xs font-bold uppercase tracking-[0.18em] text-teal-700 dark:border-teal-400/20 dark:from-teal-400/10 dark:to-cyan-400/10 dark:text-teal-200">
               <Sparkles className="h-3.5 w-3.5" />
               Global index
             </div>
-            <h2 className="max-w-4xl text-6xl font-black leading-[0.95] tracking-normal text-gray-950 dark:text-white lg:text-5xl md:text-4xl">
+            <h2 className="hero-wordmark max-w-4xl text-6xl font-black leading-[0.95] tracking-normal lg:text-5xl md:text-4xl">
               Find the most active GitHub contributors by country.
             </h2>
           </div>
@@ -298,20 +298,29 @@ const Home = () => {
                 label: "Countries",
                 value: isLoadingCountries ? "--" : allCountries.length,
                 icon: MapPinned,
+                className:
+                  "border-teal-200 bg-gradient-to-br from-white to-teal-50 text-teal-700 dark:border-teal-300/20 dark:from-teal-400/10 dark:to-gray-950 dark:text-teal-200",
               },
               {
                 label: "Visible",
                 value: isLoadingCountries ? "--" : filteredCountries.length,
                 icon: Globe,
+                className:
+                  "border-indigo-200 bg-gradient-to-br from-white to-indigo-50 text-indigo-700 dark:border-indigo-300/20 dark:from-indigo-400/10 dark:to-gray-950 dark:text-indigo-200",
               },
               {
                 label: "Cards",
                 value: isLoadingCountries ? "--" : totalDisplayedCommitters,
                 icon: Users,
+                className:
+                  "border-amber-200 bg-gradient-to-br from-white to-amber-50 text-amber-700 dark:border-amber-300/20 dark:from-amber-400/10 dark:to-gray-950 dark:text-amber-200",
               },
             ].map((metric) => (
-              <div key={metric.label} className="surface rounded-lg p-4">
-                <metric.icon className="mb-3 h-5 w-5 text-teal-600 dark:text-teal-300" />
+              <div
+                key={metric.label}
+                className={`surface color-surface rounded-lg p-4 ${metric.className}`}
+              >
+                <metric.icon className="mb-3 h-5 w-5 text-current" />
                 <p className="text-2xl font-black text-gray-950 dark:text-white">
                   {metric.value}
                 </p>
