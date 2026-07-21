@@ -14,9 +14,10 @@ import { ArrowUpRight, GitCommit, Medal, Trophy, Users } from "lucide-react";
 interface UserTableProps {
   users: Committer[];
   countryName: string;
+  countrySlug?: string;
 }
 
-export const UserTable = ({ users, countryName }: UserTableProps) => {
+export const UserTable = ({ users, countryName, countrySlug }: UserTableProps) => {
   const [selectedUser, setSelectedUser] = useState<Committer | null>(null);
   const [dialogOpen, setDialogOpen] = useState(false);
 
@@ -130,6 +131,8 @@ export const UserTable = ({ users, countryName }: UserTableProps) => {
           open={dialogOpen}
           key={selectedUser.username}
           onOpenChange={setDialogOpen}
+          countrySlug={countrySlug}
+          countryName={countryName}
         />
       )}
     </>
