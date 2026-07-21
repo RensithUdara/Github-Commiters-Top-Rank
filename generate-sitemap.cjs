@@ -1,7 +1,8 @@
 const fs = require("fs");
 const path = require("path");
 
-const SITE_URL = process.env.SITE_URL || "https://committers.app";
+const SITE_URL =
+  process.env.SITE_URL || "https://github-commiters-top-rank.vercel.app";
 const COUNTRIES_FILE = path.join(__dirname, "public", "data", "countries.json");
 
 async function getCountries() {
@@ -35,6 +36,7 @@ async function getCountries() {
 async function generate() {
   try {
     const countries = await getCountries();
+    const lastmod = new Date().toISOString().slice(0, 10);
 
     if (!Array.isArray(countries)) {
       console.error("error:", typeof countries);
@@ -45,6 +47,7 @@ async function generate() {
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>${SITE_URL}/</loc>
+    <lastmod>${lastmod}</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -53,6 +56,7 @@ async function generate() {
       (c) => `
   <url>
     <loc>${SITE_URL}/${c.slug}</loc>
+    <lastmod>${lastmod}</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>`,
