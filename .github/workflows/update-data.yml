@@ -25,6 +25,8 @@ jobs:
         run: node scripts/generate-data.mjs
 
       - name: Generate sitemap
+        env:
+          SITE_URL: https://github-commiters-top-rank.vercel.app
         run: node generate-sitemap.cjs
 
       - name: Commit changes
