@@ -38,10 +38,19 @@ export const CountryCard = ({
   const totalCommits =
     data?.users?.reduce((sum, user) => sum + user.commits, 0) || 0;
   const avgCommits = totalUsers ? Math.round(totalCommits / totalUsers) : 0;
+  const accent =
+    country.slug.length % 4 === 0
+      ? "from-teal-500 to-cyan-500"
+      : country.slug.length % 4 === 1
+        ? "from-indigo-500 to-violet-500"
+        : country.slug.length % 4 === 2
+          ? "from-amber-500 to-orange-500"
+          : "from-rose-500 to-pink-500";
 
   return (
     <Link to={`/${country.slug}`} className="block h-full group">
-      <div className="surface flex h-full flex-col rounded-lg p-4 transition duration-200 hover:-translate-y-0.5 hover:border-teal-300 dark:hover:border-teal-300/30">
+      <div className="surface color-surface flex h-full flex-col rounded-lg p-4 transition duration-200 hover:-translate-y-1 hover:shadow-2xl hover:shadow-teal-900/10 dark:hover:shadow-black/30">
+        <div className={`-mx-4 -mt-4 mb-4 h-1.5 rounded-t-lg bg-gradient-to-r ${accent}`} />
         <div className="mb-5 flex items-start justify-between gap-3">
           <div className="flex min-w-0 items-center gap-3">
             <div className="relative shrink-0">
@@ -60,7 +69,7 @@ export const CountryCard = ({
                 </div>
               )}
               {!isLoading && (
-                <div className="absolute -bottom-1 -right-1 h-4 w-4 rounded-full border-2 border-white bg-teal-500 dark:border-gray-900" />
+                <div className={`absolute -bottom-1 -right-1 h-4 w-4 rounded-full border-2 border-white bg-gradient-to-br ${accent} dark:border-gray-900`} />
               )}
             </div>
 
@@ -87,7 +96,7 @@ export const CountryCard = ({
             <div className="h-8 w-16 animate-pulse rounded-md bg-gray-200 dark:bg-gray-700" />
           ) : totalUsers > 0 ? (
             <Tippy content="Average commits per developer" placement="top">
-              <div className="flex shrink-0 cursor-help items-center gap-1.5 rounded-md border border-amber-200 bg-amber-50 px-3 py-1 text-amber-800 dark:border-amber-300/20 dark:bg-amber-300/10 dark:text-amber-200">
+              <div className="flex shrink-0 cursor-help items-center gap-1.5 rounded-md border border-amber-200 bg-gradient-to-r from-amber-50 to-orange-50 px-3 py-1 text-amber-800 dark:border-amber-300/20 dark:from-amber-300/10 dark:to-orange-300/10 dark:text-amber-200">
                 <TrendingUp className="h-3.5 w-3.5" />
                 <span className="text-sm font-black">
                   {avgCommits.toLocaleString()}
@@ -102,11 +111,11 @@ export const CountryCard = ({
         </div>
 
         <div className="mb-5 grid grid-cols-2 gap-2">
-          <span className="rounded-md bg-gray-100 px-3 py-2 text-sm font-bold text-gray-700 dark:bg-white/10 dark:text-gray-200">
+          <span className="rounded-md border border-teal-100 bg-teal-50 px-3 py-2 text-sm font-bold text-teal-800 dark:border-teal-300/20 dark:bg-teal-400/10 dark:text-teal-200">
             <Users className="mr-1.5 inline h-4 w-4 text-teal-600 dark:text-teal-300" />
             {isLoading ? "--" : `${totalUsers} devs`}
           </span>
-          <span className="rounded-md bg-gray-100 px-3 py-2 text-sm font-bold text-gray-700 dark:bg-white/10 dark:text-gray-200">
+          <span className="rounded-md border border-rose-100 bg-rose-50 px-3 py-2 text-sm font-bold text-rose-800 dark:border-rose-300/20 dark:bg-rose-400/10 dark:text-rose-200">
             <GitCommit className="mr-1.5 inline h-4 w-4 text-rose-500" />
             {isLoading ? "--" : totalCommits.toLocaleString()}
           </span>
@@ -142,7 +151,7 @@ export const CountryCard = ({
                   e.stopPropagation();
                   onUserClick(user);
                 }}
-                className="flex cursor-pointer items-center justify-between rounded-md p-2 transition-colors hover:bg-teal-50 dark:hover:bg-white/10"
+              className="flex cursor-pointer items-center justify-between rounded-md p-2 transition-colors hover:bg-gradient-to-r hover:from-teal-50 hover:to-cyan-50 dark:hover:from-teal-400/10 dark:hover:to-cyan-400/10"
               >
                 <div className="flex min-w-0 items-center gap-3">
                   <img
@@ -161,15 +170,17 @@ export const CountryCard = ({
                     </p>
                   </div>
                 </div>
-                <Medal
-                  className={`h-4 w-4 shrink-0 ${
+                <span
+                  className={`flex h-7 w-7 shrink-0 items-center justify-center rounded-md ${
                     index === 0
-                      ? "text-amber-500"
+                      ? "bg-amber-100 text-amber-600 dark:bg-amber-300/10 dark:text-amber-200"
                       : index === 1
-                        ? "text-gray-400"
-                        : "text-rose-500"
+                        ? "bg-indigo-100 text-indigo-600 dark:bg-indigo-300/10 dark:text-indigo-200"
+                        : "bg-rose-100 text-rose-600 dark:bg-rose-300/10 dark:text-rose-200"
                   }`}
-                />
+                >
+                  <Medal className="h-4 w-4" />
+                </span>
               </div>
             ))
           ) : (
@@ -181,7 +192,7 @@ export const CountryCard = ({
 
         {totalUsers > 0 && !isLoading && (
           <div className="mt-5 border-t border-gray-100 pt-4 dark:border-white/10">
-            <div className="flex items-center justify-center gap-2 text-sm font-black text-gray-950 group-hover:text-teal-700 dark:text-white dark:group-hover:text-teal-300">
+            <div className="flex items-center justify-center gap-2 rounded-md bg-gradient-to-r from-gray-950 to-teal-800 px-3 py-2 text-sm font-black text-white transition group-hover:from-teal-700 group-hover:to-indigo-700 dark:from-white dark:to-teal-100 dark:text-gray-950">
               <span>View leaderboard</span>
               <ChevronRight className="h-4 w-4 transition-transform group-hover:translate-x-1" />
             </div>
