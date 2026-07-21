@@ -78,7 +78,7 @@ export const FilterBar = ({
   };
 
   return (
-    <div className="surface color-surface sticky top-[76px] z-20 mb-10 rounded-lg p-3 sm:top-[64px]">
+    <div className="surface color-surface mb-10 rounded-lg p-3">
       <div className="flex flex-row items-center justify-between gap-3 md:flex-col">
         <div className="flex w-full items-center gap-3 sm:gap-2">
           <ToggleGroup
