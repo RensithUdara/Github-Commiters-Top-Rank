@@ -41,11 +41,17 @@ export const UserDialog = ({
   });
   const badgeSubject = badgeType === "user" ? user.username : user.username;
   const badgeBaseUrl = badgeType === "user" ? "user-badge" : "org-badge";
-  const badgeUrl = countrySlug
+  const committersBadgeUrl = countrySlug
     ? `https://${badgeBaseUrl}.committers.top/${countrySlug}/${badgeSubject}.svg`
     : "";
   const badgeLink = countrySlug
     ? `https://${badgeBaseUrl}.committers.top/${countrySlug}/${badgeSubject}`
+    : "";
+  const badgeMessage = `${countryName || countrySlug || "Country"} #${user.rank} (public commits)`;
+  const badgeUrl = countrySlug
+    ? `https://img.shields.io/badge/Committers%20Top%20Rank-${encodeURIComponent(
+        badgeMessage,
+      ).replace(/-/g, "--")}-14b8a6?style=flat&logo=github&logoColor=white&labelColor=111827`
     : "";
   const badgeMarkdown = useMemo(
     () =>
@@ -155,7 +161,7 @@ export const UserDialog = ({
                             Committers Top Rank Badge
                           </p>
                           <p className="text-xs font-semibold text-gray-500 dark:text-gray-400">
-                            {countryName || countrySlug}
+                            Links to {badgeType === "user" ? "user" : "org"} badge page
                           </p>
                         </div>
                       </div>
@@ -185,6 +191,14 @@ export const UserDialog = ({
                         loading="lazy"
                       />
                     </div>
+                    <a
+                      href={committersBadgeUrl}
+                      target="_blank"
+                      rel="noreferrer"
+                      className="mb-3 inline-flex text-xs font-bold text-teal-700 hover:underline dark:text-teal-200"
+                    >
+                      View original committers.top SVG
+                    </a>
 
                     <div className="grid grid-cols-[1fr_auto] gap-2 sm:grid-cols-1">
                       <code className="block max-h-28 min-w-0 overflow-auto whitespace-pre-wrap break-all rounded-md border border-gray-200 bg-white px-3 py-2 text-xs leading-5 text-gray-700 dark:border-white/10 dark:bg-gray-950/50 dark:text-gray-300">
