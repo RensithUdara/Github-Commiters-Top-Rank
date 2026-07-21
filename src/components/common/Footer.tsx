@@ -20,14 +20,14 @@ const brandLinks = [
 
 export const Footer = () => {
   return (
-    <footer className="w-full border-t border-gray-200 bg-white/55 py-8 backdrop-blur-xl dark:border-white/10 dark:bg-gray-950/45">
+    <footer className="w-full border-t border-gray-200 bg-gradient-to-r from-teal-50/70 via-white/65 to-amber-50/70 py-8 backdrop-blur-xl dark:border-white/10 dark:from-teal-950/35 dark:via-gray-950/55 dark:to-indigo-950/35">
       <div className="mx-auto max-w-7xl px-5 sm:px-4">
-        <div className="surface grid grid-cols-[1fr_auto] items-center gap-6 rounded-lg p-5 md:grid-cols-1">
+        <div className="surface color-surface grid grid-cols-[1fr_auto] items-center gap-6 rounded-lg p-5 md:grid-cols-1">
           <div className="flex items-center gap-4">
             <img
               src="https://github.com/RensithUdara.png?size=128"
               alt="Rensith Udara Gonalagoda"
-              className="h-14 w-14 rounded-md border border-white shadow-sm dark:border-white/10"
+              className="h-14 w-14 rounded-md border-2 border-white shadow-lg shadow-teal-900/15 dark:border-white/10"
             />
             <div>
               <div className="mb-1 flex items-center gap-2">
@@ -53,7 +53,7 @@ export const Footer = () => {
                 href={link.href}
                 target="_blank"
                 rel="noreferrer"
-                className="inline-flex h-10 items-center gap-2 rounded-md border border-gray-200 bg-white px-3 text-sm font-black text-gray-700 shadow-sm transition hover:border-teal-300 hover:text-teal-700 dark:border-white/10 dark:bg-gray-950/50 dark:text-gray-200 dark:hover:text-teal-300"
+                className="inline-flex h-10 items-center gap-2 rounded-md border border-gray-200 bg-white px-3 text-sm font-black text-gray-700 shadow-sm transition hover:-translate-y-0.5 hover:border-teal-300 hover:bg-teal-50 hover:text-teal-700 dark:border-white/10 dark:bg-gray-950/50 dark:text-gray-200 dark:hover:bg-teal-400/10 dark:hover:text-teal-300"
               >
                 <link.icon className="h-4 w-4" />
                 {link.label}
