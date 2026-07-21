@@ -103,7 +103,7 @@ const Country = () => {
 
   const formattedCountryName =
     slug
-      ?.split("-")
+      ?.split(/[-_]/)
       .map((w) => w.charAt(0).toUpperCase() + w.slice(1))
       .join(" ") || "";
 
@@ -198,7 +198,7 @@ const Country = () => {
   ];
 
   return (
-    <div className="app-shell relative min-h-screen px-5 pb-16 pt-20 mx-auto max-w-7xl sm:px-4 sm:pt-16">
+    <div className="app-shell soft-grid relative min-h-screen px-5 pb-16 pt-20 mx-auto max-w-7xl sm:px-4 sm:pt-16">
       <Helmet>
         <title>{titleText}</title>
         <meta name="keywords" content={keywordsText} />
@@ -243,7 +243,7 @@ const Country = () => {
         <div className="grid grid-cols-[1.1fr_0.9fr] items-end gap-6 lg:grid-cols-1">
           <div>
             <div className="accent-line mb-6 h-1 w-24 rounded-full" />
-            <h2 className="text-6xl font-black leading-[0.95] tracking-normal text-gray-950 dark:text-white lg:text-5xl md:text-4xl">
+            <h2 className="hero-wordmark text-6xl font-black leading-[0.95] tracking-normal lg:text-5xl md:text-4xl">
               {formattedCountryName}
             </h2>
             <p className="mt-4 max-w-2xl text-base font-medium leading-7 ink-muted">
@@ -258,20 +258,29 @@ const Country = () => {
                 label: "Developers",
                 value: sortedAndFilteredUsers.length,
                 icon: Users,
+                className:
+                  "border-teal-200 bg-gradient-to-br from-white to-teal-50 text-teal-700 dark:border-teal-300/20 dark:from-teal-400/10 dark:to-gray-950 dark:text-teal-200",
               },
               {
                 label: "Commits",
                 value: totalCommits.toLocaleString(),
                 icon: GitCommit,
+                className:
+                  "border-rose-200 bg-gradient-to-br from-white to-rose-50 text-rose-700 dark:border-rose-300/20 dark:from-rose-400/10 dark:to-gray-950 dark:text-rose-200",
               },
               {
                 label: "Leader",
                 value: topCommitter?.username || "--",
                 icon: Trophy,
+                className:
+                  "border-amber-200 bg-gradient-to-br from-white to-amber-50 text-amber-700 dark:border-amber-300/20 dark:from-amber-400/10 dark:to-gray-950 dark:text-amber-200",
               },
             ].map((metric) => (
-              <div key={metric.label} className="surface rounded-lg p-4">
-                <metric.icon className="mb-3 h-5 w-5 text-teal-600 dark:text-teal-300" />
+              <div
+                key={metric.label}
+                className={`surface color-surface rounded-lg p-4 ${metric.className}`}
+              >
+                <metric.icon className="mb-3 h-5 w-5 text-current" />
                 <p className="truncate text-2xl font-black text-gray-950 dark:text-white sm:text-xl">
                   {metric.value}
                 </p>
