@@ -351,6 +351,7 @@ const Country = () => {
               <UserTable
                 users={visibleUsers}
                 countryName={formattedCountryName}
+                countrySlug={slug}
               />
             </div>
             <section className="mx-auto mt-10 mb-12 max-w-2xl text-center duration-1000 animate-in fade-in">
