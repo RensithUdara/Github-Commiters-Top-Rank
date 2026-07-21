@@ -1,0 +1,36 @@
+name: Update Committers Data
+
+on:
+  schedule:
+    - cron: "0 2 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Generate static data
+        run: node scripts/generate-data.mjs
+
+      - name: Generate sitemap
+        run: node generate-sitemap.cjs
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add public/data public/sitemap.xml
+          git diff --cached --quiet || git commit -m "Update committers data"
+          git push
