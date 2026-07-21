@@ -31,8 +31,8 @@ jobs:
 
       - name: Commit changes
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.name "RensithUdara"
+          git config user.email "rensithudaragonalagoda@gmail.com"
           git add public/data public/sitemap.xml
           git diff --cached --quiet || git commit -m "Update committers data"
           git push
