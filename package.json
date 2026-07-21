@@ -6,6 +6,7 @@
 "scripts": {
   "dev": "vite",
   "api": "node local-api.mjs",
+  "data:update": "node scripts/generate-data.mjs",
   "sitemap": "node generate-sitemap.cjs",
  "build": "node ./generate-sitemap.cjs && tsc -b && vite build",
   "lint": "eslint .",
