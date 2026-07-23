@@ -3,13 +3,13 @@
     "slug": "russia",
     "name": "Russia"
   },
-  "generatedAt": "2026-07-22T05:15:54.489Z",
+  "generatedAt": "2026-07-23T05:20:50.181Z",
   "users": [
     {
       "rank": 1,
       "username": "mig1023",
       "profile": "https://github.com/mig1023",
-      "commits": 18812,
+      "commits": 18369,
       "avatar": "https://avatars.githubusercontent.com/u/45512128?u=c17dc152e7cc87776f7c03b3b3507f3862d7147e&v=4&s=40"
     },
     {
@@ -17,7 +17,7 @@
       "username": "andrey-helldar",
       "realname": "Andrey Helldar",
       "profile": "https://github.com/andrey-helldar",
-      "commits": 6872,
+      "commits": 7055,
       "avatar": "https://avatars.githubusercontent.com/u/10347617?u=06cbd2243c776040815aa194582e75d9cddfc12b&v=4&s=40"
     },
     {
@@ -25,7 +25,7 @@
       "username": "Dvurechensky",
       "realname": "Dvurechensky",
       "profile": "https://github.com/Dvurechensky",
-      "commits": 6350,
+      "commits": 6584,
       "avatar": "https://avatars.githubusercontent.com/u/46356631?u=25fe9aaa7f0bf4c7089ffa6617b3f9e3b9591b08&v=4&s=40"
     },
     {
@@ -33,14 +33,14 @@
       "username": "Fayzimurod",
       "realname": "Dodgy",
       "profile": "https://github.com/Fayzimurod",
-      "commits": 6223,
+      "commits": 6231,
       "avatar": "https://avatars.githubusercontent.com/u/194051402?u=20a857a1225e0dd243e2a72273972f2ed5d2e50a&v=4&s=40"
     },
     {
       "rank": 5,
       "username": "StressOzz",
       "profile": "https://github.com/StressOzz",
-      "commits": 5795,
+      "commits": 6001,
       "avatar": "https://avatars.githubusercontent.com/u/131419324?v=4&s=40"
     },
     {
@@ -56,63 +56,63 @@
       "username": "nin-jin",
       "realname": "nin-jin",
       "profile": "https://github.com/nin-jin",
-      "commits": 4859,
+      "commits": 4837,
       "avatar": "https://avatars.githubusercontent.com/u/442988?v=4&s=40"
     },
     {
       "rank": 8,
-      "username": "nikita-volkov",
-      "realname": "Nikita Volkov",
-      "profile": "https://github.com/nikita-volkov",
-      "commits": 4621,
-      "avatar": "https://avatars.githubusercontent.com/u/1560937?u=680a172cc563793f0e4f3e56586c920654e1d1b5&v=4&s=40"
-    },
-    {
-      "rank": 9,
       "username": "T8RIN",
       "realname": "Malik Mukhametzyanov",
       "profile": "https://github.com/T8RIN",
-      "commits": 4333,
+      "commits": 4418,
       "avatar": "https://avatars.githubusercontent.com/u/52178347?u=4e7efb1fe0aee2d6c0daaefb6fb5cb7572ca9b7a&v=4&s=40"
     },
     {
-      "rank": 10,
+      "rank": 9,
       "username": "orange-cpp",
       "realname": "Orange++",
       "profile": "https://github.com/orange-cpp",
-      "commits": 3699,
+      "commits": 3685,
       "avatar": "https://avatars.githubusercontent.com/u/59374393?u=ade26862917b4ab1d4c71fbba88b2ef6f5dc373a&v=4&s=40"
     },
     {
-      "rank": 11,
+      "rank": 10,
       "username": "maruki00",
       "realname": "maruki00",
       "profile": "https://github.com/maruki00",
-      "commits": 3273,
+      "commits": 3444,
       "avatar": "https://avatars.githubusercontent.com/u/23297924?u=afe504b31641e2c3d02e1a12d656f62ff3c72b73&v=4&s=40"
     },
     {
-      "rank": 12,
+      "rank": 11,
       "username": "patsevanton",
       "realname": "Anton Patsev",
       "profile": "https://github.com/patsevanton",
-      "commits": 2638,
+      "commits": 2629,
       "avatar": "https://avatars.githubusercontent.com/u/10828883?u=565d231d4d35a828b70fbd86e10cb84ca981c1e8&v=4&s=40"
+    },
+    {
+      "rank": 12,
+      "username": "js2me",
+      "realname": "Sergey S. Volkov",
+      "profile": "https://github.com/js2me",
+      "commits": 2490,
+      "avatar": "https://avatars.githubusercontent.com/u/16340911?u=0b86735638fe0dc42ea6e9f046d130a38edf274a&v=4&s=40"
     },
     {
       "rank": 13,
       "username": "K900",
       "profile": "https://github.com/K900",
-      "commits": 2514,
+      "commits": 2480,
       "avatar": "https://avatars.githubusercontent.com/u/386765?u=b8b36610c1807bf3be1ced41fded95cc3e3a0d4e&v=4&s=40"
     },
     {
       "rank": 14,
-      "username": "js2me",
-      "realname": "Sergey S. Volkov",
-      "profile": "https://github.com/js2me",
-      "commits": 2506,
-      "avatar": "https://avatars.githubusercontent.com/u/16340911?u=0b86735638fe0dc42ea6e9f046d130a38edf274a&v=4&s=40"
+      "username": "michaelbel",
+      "realname": "Michael Bely",
+      "profile": "https://github.com/michaelbel",
+      "commits": 2388,
+      "avatar": "https://avatars.githubusercontent.com/u/16020628?u=030b0beb55082731ea8858857bc07afb289055fb&v=4&s=40"
     },
     {
       "rank": 15,
@@ -124,165 +124,173 @@
     },
     {
       "rank": 16,
-      "username": "DosX-dev",
-      "realname": "DosX",
-      "profile": "https://github.com/DosX-dev",
-      "commits": 2025,
-      "avatar": "https://avatars.githubusercontent.com/u/117774904?u=251416db7f502b3087bc01c30f0bfbc2e5128ed6&v=4&s=40"
+      "username": "mikessh",
+      "realname": "Mikhail Shugay",
+      "profile": "https://github.com/mikessh",
+      "commits": 2118,
+      "avatar": "https://avatars.githubusercontent.com/u/6215797?u=a4e723a7b04d823dbc1594a6f1ed647249c351da&v=4&s=40"
     },
     {
       "rank": 17,
-      "username": "michaelbel",
-      "realname": "Michael Bely",
-      "profile": "https://github.com/michaelbel",
-      "commits": 1947,
-      "avatar": "https://avatars.githubusercontent.com/u/16020628?u=030b0beb55082731ea8858857bc07afb289055fb&v=4&s=40"
+      "username": "DosX-dev",
+      "realname": "DosX",
+      "profile": "https://github.com/DosX-dev",
+      "commits": 2028,
+      "avatar": "https://avatars.githubusercontent.com/u/117774904?u=251416db7f502b3087bc01c30f0bfbc2e5128ed6&v=4&s=40"
     },
     {
       "rank": 18,
-      "username": "fawda123",
-      "realname": "Marcus W Beck",
-      "profile": "https://github.com/fawda123",
-      "commits": 1710,
-      "avatar": "https://avatars.githubusercontent.com/u/3086881?u=7e6f1b248743b4af7d67513b9f497d2ceb8fb72d&v=4&s=40"
-    },
-    {
-      "rank": 19,
-      "username": "RimuruDev",
-      "realname": "Rimuru",
-      "profile": "https://github.com/RimuruDev",
-      "commits": 1708,
-      "avatar": "https://avatars.githubusercontent.com/u/85500556?u=2231da5c80037271f396808f4ca8e789eeb79162&v=4&s=40"
-    },
-    {
-      "rank": 20,
-      "username": "jtprogru",
-      "realname": "Mikhail Savin",
-      "profile": "https://github.com/jtprogru",
-      "commits": 1679,
-      "avatar": "https://avatars.githubusercontent.com/u/8199112?u=434d73bfb1abf61ca03e63a0ab1fc0221043b38a&v=4&s=40"
-    },
-    {
-      "rank": 21,
       "username": "vjik",
       "realname": "Sergei Predvoditelev",
       "profile": "https://github.com/vjik",
-      "commits": 1644,
+      "commits": 1816,
       "avatar": "https://avatars.githubusercontent.com/u/525501?v=4&s=40"
     },
     {
+      "rank": 19,
+      "username": "jtprogru",
+      "realname": "Mikhail Savin",
+      "profile": "https://github.com/jtprogru",
+      "commits": 1742,
+      "avatar": "https://avatars.githubusercontent.com/u/8199112?u=434d73bfb1abf61ca03e63a0ab1fc0221043b38a&v=4&s=40"
+    },
+    {
+      "rank": 20,
+      "username": "RimuruDev",
+      "realname": "Rimuru",
+      "profile": "https://github.com/RimuruDev",
+      "commits": 1718,
+      "avatar": "https://avatars.githubusercontent.com/u/85500556?u=2231da5c80037271f396808f4ca8e789eeb79162&v=4&s=40"
+    },
+    {
+      "rank": 21,
+      "username": "fawda123",
+      "realname": "Marcus W Beck",
+      "profile": "https://github.com/fawda123",
+      "commits": 1709,
+      "avatar": "https://avatars.githubusercontent.com/u/3086881?u=7e6f1b248743b4af7d67513b9f497d2ceb8fb72d&v=4&s=40"
+    },
+    {
       "rank": 22,
-      "username": "aragami3070",
-      "realname": "aragami3070",
-      "profile": "https://github.com/aragami3070",
-      "commits": 1639,
-      "avatar": "https://avatars.githubusercontent.com/u/163641422?u=20ca3f00cbacb8257dd455fef107ec11ecde7174&v=4&s=40"
-    },
-    {
-      "rank": 23,
-      "username": "slacky1965",
-      "realname": "Fedor Lizunkov",
-      "profile": "https://github.com/slacky1965",
-      "commits": 1592,
-      "avatar": "https://avatars.githubusercontent.com/u/28629969?u=2bd7b671a358f09b8cd10d9eafcad180634bf0f8&v=4&s=40"
-    },
-    {
-      "rank": 24,
       "username": "litury",
       "realname": "Litvinov Y.",
       "profile": "https://github.com/litury",
-      "commits": 1516,
-      "avatar": "https://avatars.githubusercontent.com/u/60976781?u=f4af2b1fbb137e2ab374823d03d7b0503d19a808&v=4&s=40"
+      "commits": 1633,
+      "avatar": "https://avatars.githubusercontent.com/u/60976781?u=024c0ee36addcad1c4bebc402c3eb4626f3ca8e1&v=4&s=40"
+    },
+    {
+      "rank": 23,
+      "username": "aragami3070",
+      "realname": "aragami3070",
+      "profile": "https://github.com/aragami3070",
+      "commits": 1598,
+      "avatar": "https://avatars.githubusercontent.com/u/163641422?u=20ca3f00cbacb8257dd455fef107ec11ecde7174&v=4&s=40"
+    },
+    {
+      "rank": 24,
+      "username": "slacky1965",
+      "realname": "Fedor Lizunkov",
+      "profile": "https://github.com/slacky1965",
+      "commits": 1575,
+      "avatar": "https://avatars.githubusercontent.com/u/28629969?u=2bd7b671a358f09b8cd10d9eafcad180634bf0f8&v=4&s=40"
     },
     {
       "rank": 25,
-      "username": "alexander-akait",
-      "realname": "Alexander Akait",
-      "profile": "https://github.com/alexander-akait",
-      "commits": 1501,
-      "avatar": "https://avatars.githubusercontent.com/u/4567934?u=63a5cc2b57b2e0e61b97d8459300e7e0ae493e22&v=4&s=40"
+      "username": "rds1983",
+      "realname": "Roman Shapiro",
+      "profile": "https://github.com/rds1983",
+      "commits": 1533,
+      "avatar": "https://avatars.githubusercontent.com/u/1057289?u=eb3c39968e43706aa3c7921900c73082d13df3e8&v=4&s=40"
     },
     {
       "rank": 26,
       "username": "skirpichev",
       "realname": "Sergey B Kirpichev",
       "profile": "https://github.com/skirpichev",
-      "commits": 1499,
+      "commits": 1470,
       "avatar": "https://avatars.githubusercontent.com/u/2155800?u=6825f5af66a3126d92cee985f8b0a6925f9f64a8&v=4&s=40"
     },
     {
       "rank": 27,
-      "username": "rds1983",
-      "realname": "Roman Shapiro",
-      "profile": "https://github.com/rds1983",
-      "commits": 1484,
-      "avatar": "https://avatars.githubusercontent.com/u/1057289?u=eb3c39968e43706aa3c7921900c73082d13df3e8&v=4&s=40"
-    },
-    {
-      "rank": 28,
       "username": "ak-git",
       "profile": "https://github.com/ak-git",
-      "commits": 1445,
+      "commits": 1453,
       "avatar": "https://avatars.githubusercontent.com/u/655487?v=4&s=40"
     },
     {
-      "rank": 29,
+      "rank": 28,
       "username": "gil9red",
       "realname": "Ilya Petrash",
       "profile": "https://github.com/gil9red",
-      "commits": 1430,
+      "commits": 1431,
       "avatar": "https://avatars.githubusercontent.com/u/6244078?v=4&s=40"
     },
     {
-      "rank": 30,
+      "rank": 29,
       "username": "mrDIMAS",
       "realname": "Dmitry Stepanov",
       "profile": "https://github.com/mrDIMAS",
-      "commits": 1406,
+      "commits": 1397,
       "avatar": "https://avatars.githubusercontent.com/u/2785135?u=1c6ef5b82b9394789d79096c5b6ccff377b53481&v=4&s=40"
     },
     {
-      "rank": 31,
+      "rank": 30,
       "username": "tabuna",
       "realname": "Alexandr Chernyaev",
       "profile": "https://github.com/tabuna",
-      "commits": 1368,
+      "commits": 1366,
       "avatar": "https://avatars.githubusercontent.com/u/5102591?u=12ce7cf5dcd0d62cbab40642936558ec694ef5b2&v=4&s=40"
     },
     {
-      "rank": 32,
+      "rank": 31,
       "username": "Wohlstand",
       "realname": "Vitaliy Novichkov",
       "profile": "https://github.com/Wohlstand",
-      "commits": 1353,
+      "commits": 1348,
       "avatar": "https://avatars.githubusercontent.com/u/6751442?u=0e6a91d0a31ff6fd7af5fdc0f73679ffa7afc8b1&v=4&s=40"
     },
     {
-      "rank": 33,
+      "rank": 32,
       "username": "TheDrHax",
       "realname": "Дмитрий Карих",
       "profile": "https://github.com/TheDrHax",
-      "commits": 1311,
+      "commits": 1318,
       "avatar": "https://avatars.githubusercontent.com/u/6968908?u=5aff12c9681d3ffdd9d8621b7b0e076bf28a93b4&v=4&s=40"
     },
     {
-      "rank": 34,
-      "username": "mikessh",
-      "realname": "Mikhail Shugay",
-      "profile": "https://github.com/mikessh",
-      "commits": 1274,
-      "avatar": "https://avatars.githubusercontent.com/u/6215797?u=a4e723a7b04d823dbc1594a6f1ed647249c351da&v=4&s=40"
-    },
-    {
-      "rank": 35,
+      "rank": 33,
       "username": "TorinAsakura",
       "realname": "Andrew Ghostuhin",
       "profile": "https://github.com/TorinAsakura",
-      "commits": 1252,
+      "commits": 1250,
       "avatar": "https://avatars.githubusercontent.com/u/3940885?u=a59ff3b651eba993ae40ab55feb5005b1474f498&v=4&s=40"
     },
     {
+      "rank": 34,
+      "username": "alexander-akait",
+      "realname": "Alexander Akait",
+      "profile": "https://github.com/alexander-akait",
+      "commits": 1215,
+      "avatar": "https://avatars.githubusercontent.com/u/4567934?u=63a5cc2b57b2e0e61b97d8459300e7e0ae493e22&v=4&s=40"
+    },
+    {
+      "rank": 35,
+      "username": "ivmai",
+      "realname": "Ivan Maidanski",
+      "profile": "https://github.com/ivmai",
+      "commits": 1199,
+      "avatar": "https://avatars.githubusercontent.com/u/460469?v=4&s=40"
+    },
+    {
       "rank": 36,
+      "username": "monosans",
+      "realname": "Almaz",
+      "profile": "https://github.com/monosans",
+      "commits": 1191,
+      "avatar": "https://avatars.githubusercontent.com/u/76561516?v=4&s=40"
+    },
+    {
+      "rank": 37,
       "username": "AlariCode",
       "realname": "Anton Larichev",
       "profile": "https://github.com/AlariCode",
@@ -290,7 +298,7 @@
       "avatar": "https://avatars.githubusercontent.com/u/2528600?u=34f637b6972a8a5a0043635d64d02912d87bc623&v=4&s=40"
     },
     {
-      "rank": 37,
+      "rank": 38,
       "username": "BigKAA",
       "realname": "Artur Kryukov",
       "profile": "https://github.com/BigKAA",
@@ -298,89 +306,81 @@
       "avatar": "https://avatars.githubusercontent.com/u/60059562?u=95bc413732595ee7939d36715b9281d1e94b8ef2&v=4&s=40"
     },
     {
-      "rank": 38,
-      "username": "kurnakovv",
-      "profile": "https://github.com/kurnakovv",
-      "commits": 1103,
-      "avatar": "https://avatars.githubusercontent.com/u/59327306?u=1f290aa9932274b6588faede4a9f43c25e56d049&v=4&s=40"
-    },
-    {
       "rank": 39,
-      "username": "EvilFreelancer",
-      "realname": "Pavel Zloi",
-      "profile": "https://github.com/EvilFreelancer",
-      "commits": 1099,
-      "avatar": "https://avatars.githubusercontent.com/u/9089568?u=a8b7660a8dd3450fd8bcc56682fba1102a879a83&v=4&s=40"
-    },
-    {
-      "rank": 40,
-      "username": "kuviman",
-      "realname": "Vitaliy",
-      "profile": "https://github.com/kuviman",
-      "commits": 1049,
-      "avatar": "https://avatars.githubusercontent.com/u/5872782?u=2acc9ecb7dfd115ad59f4aa3c269ade648a77de1&v=4&s=40"
-    },
-    {
-      "rank": 41,
       "username": "TrashboxBobylev",
       "realname": "TrashboxBobylev",
       "profile": "https://github.com/TrashboxBobylev",
-      "commits": 1041,
+      "commits": 1083,
       "avatar": "https://avatars.githubusercontent.com/u/22856970?u=4554a639a68a8c1070e31c5ecbb1422f2c9162d6&v=4&s=40"
     },
     {
+      "rank": 40,
+      "username": "kurnakovv",
+      "profile": "https://github.com/kurnakovv",
+      "commits": 1063,
+      "avatar": "https://avatars.githubusercontent.com/u/59327306?u=1f290aa9932274b6588faede4a9f43c25e56d049&v=4&s=40"
+    },
+    {
+      "rank": 41,
+      "username": "kuviman",
+      "realname": "Vitaliy",
+      "profile": "https://github.com/kuviman",
+      "commits": 1053,
+      "avatar": "https://avatars.githubusercontent.com/u/5872782?u=2acc9ecb7dfd115ad59f4aa3c269ade648a77de1&v=4&s=40"
+    },
+    {
       "rank": 42,
-      "username": "mahenzon",
-      "realname": "Suren Khorenyan",
-      "profile": "https://github.com/mahenzon",
-      "commits": 1029,
-      "avatar": "https://avatars.githubusercontent.com/u/20804158?v=4&s=40"
+      "username": "IgorTimofeev",
+      "profile": "https://github.com/IgorTimofeev",
+      "commits": 1041,
+      "avatar": "https://avatars.githubusercontent.com/u/11760002?u=d6a5bdb63d1eed9e1fb63c6f0fcfe15e4e634038&v=4&s=40"
     },
     {
       "rank": 43,
       "username": "IlyasYOY",
       "realname": "Ilya Ilyinykh",
       "profile": "https://github.com/IlyasYOY",
-      "commits": 1027,
+      "commits": 1036,
       "avatar": "https://avatars.githubusercontent.com/u/18665585?u=aa2918e2238605b9ffc20faacfc35b7ab5f5cfd6&v=4&s=40"
     },
     {
       "rank": 44,
-      "username": "IgorTimofeev",
-      "profile": "https://github.com/IgorTimofeev",
-      "commits": 998,
-      "avatar": "https://avatars.githubusercontent.com/u/11760002?u=d6a5bdb63d1eed9e1fb63c6f0fcfe15e4e634038&v=4&s=40"
+      "username": "mahenzon",
+      "realname": "Suren Khorenyan",
+      "profile": "https://github.com/mahenzon",
+      "commits": 1007,
+      "avatar": "https://avatars.githubusercontent.com/u/20804158?v=4&s=40"
     },
     {
       "rank": 45,
       "username": "nevmenandr",
       "realname": "Boris Orekhov",
       "profile": "https://github.com/nevmenandr",
-      "commits": 982,
+      "commits": 1003,
       "avatar": "https://avatars.githubusercontent.com/u/1015510?u=c141d5d5b128f60907fb92604e052ead59af98c0&v=4&s=40"
     },
     {
       "rank": 46,
-      "username": "webmakaka",
-      "realname": "Marley",
-      "profile": "https://github.com/webmakaka",
-      "commits": 962,
-      "avatar": "https://avatars.githubusercontent.com/u/10372159?u=3a42b1000f71ee937895fa6fceb43bb080ffccc7&v=4&s=40"
-    },
-    {
-      "rank": 47,
       "username": "Kerminator1973",
       "realname": "Maksim Rozhkov",
       "profile": "https://github.com/Kerminator1973",
-      "commits": 956,
+      "commits": 978,
       "avatar": "https://avatars.githubusercontent.com/u/32524563?u=eb93f09199ef400a0dfe598768a9fe08f53e7ac3&v=4&s=40"
+    },
+    {
+      "rank": 47,
+      "username": "webmakaka",
+      "realname": "Marley",
+      "profile": "https://github.com/webmakaka",
+      "commits": 967,
+      "avatar": "https://avatars.githubusercontent.com/u/10372159?u=3a42b1000f71ee937895fa6fceb43bb080ffccc7&v=4&s=40"
     },
     {
       "rank": 48,
       "username": "klen",
       "realname": "Kirill Klenov",
       "profile": "https://github.com/klen",
-      "commits": 924,
+      "commits": 918,
       "avatar": "https://avatars.githubusercontent.com/u/90699?u=24470371fff67c9f17f280d8321a698f5c3f4351&v=4&s=40"
     },
     {
@@ -393,34 +393,34 @@
     },
     {
       "rank": 50,
-      "username": "DIMFLIX",
-      "realname": "DIMFLIX",
-      "profile": "https://github.com/DIMFLIX",
-      "commits": 879,
-      "avatar": "https://avatars.githubusercontent.com/u/112165977?u=b494b96c75dfdd84887166794fdb526fbfaa9ddb&v=4&s=40"
-    },
-    {
-      "rank": 51,
       "username": "vintikzzz",
       "realname": "Pavel Tatarskiy",
       "profile": "https://github.com/vintikzzz",
-      "commits": 879,
+      "commits": 896,
       "avatar": "https://avatars.githubusercontent.com/u/150981?u=aa4fcf02fe73410a93c4b8291e5fb8ba1dda43fa&v=4&s=40"
     },
     {
+      "rank": 51,
+      "username": "DIMFLIX",
+      "realname": "DIMFLIX",
+      "profile": "https://github.com/DIMFLIX",
+      "commits": 878,
+      "avatar": "https://avatars.githubusercontent.com/u/112165977?u=b494b96c75dfdd84887166794fdb526fbfaa9ddb&v=4&s=40"
+    },
+    {
       "rank": 52,
-      "username": "bakNa2t",
-      "realname": "Oleg Konkov",
-      "profile": "https://github.com/bakNa2t",
-      "commits": 847,
-      "avatar": "https://avatars.githubusercontent.com/u/101862918?u=36c456e57b568b20d9d7e6e98e8f5fea8ae1ecd2&v=4&s=40"
+      "username": "dantetemplar",
+      "realname": "Ruslan Bel'kov",
+      "profile": "https://github.com/dantetemplar",
+      "commits": 856,
+      "avatar": "https://avatars.githubusercontent.com/u/69670642?u=22e2e34cc2a9a9c16ce5161b1fafe83c10f90352&v=4&s=40"
     },
     {
       "rank": 53,
       "username": "SergeyBiryukov",
       "realname": "Sergey Biryukov",
       "profile": "https://github.com/SergeyBiryukov",
-      "commits": 837,
+      "commits": 838,
       "avatar": "https://avatars.githubusercontent.com/u/144512?v=4&s=40"
     },
     {
@@ -433,86 +433,78 @@
     },
     {
       "rank": 55,
-      "username": "DigneZzZ",
-      "realname": "Alexey",
-      "profile": "https://github.com/DigneZzZ",
-      "commits": 819,
-      "avatar": "https://avatars.githubusercontent.com/u/50312583?u=cc80658668c831c3cbd6a324683e9243a1b3df77&v=4&s=40"
+      "username": "bakNa2t",
+      "realname": "Oleg Konkov",
+      "profile": "https://github.com/bakNa2t",
+      "commits": 824,
+      "avatar": "https://avatars.githubusercontent.com/u/101862918?u=36c456e57b568b20d9d7e6e98e8f5fea8ae1ecd2&v=4&s=40"
     },
     {
       "rank": 56,
-      "username": "dstogov",
-      "realname": "Dmitry Stogov",
-      "profile": "https://github.com/dstogov",
-      "commits": 815,
-      "avatar": "https://avatars.githubusercontent.com/u/2510034?v=4&s=40"
+      "username": "DigneZzZ",
+      "realname": "Alexey",
+      "profile": "https://github.com/DigneZzZ",
+      "commits": 818,
+      "avatar": "https://avatars.githubusercontent.com/u/50312583?u=cc80658668c831c3cbd6a324683e9243a1b3df77&v=4&s=40"
     },
     {
       "rank": 57,
-      "username": "dantetemplar",
-      "realname": "Ruslan Bel'kov",
-      "profile": "https://github.com/dantetemplar",
-      "commits": 813,
-      "avatar": "https://avatars.githubusercontent.com/u/69670642?u=22e2e34cc2a9a9c16ce5161b1fafe83c10f90352&v=4&s=40"
+      "username": "mk-fg",
+      "realname": "Mike Kazantsev",
+      "profile": "https://github.com/mk-fg",
+      "commits": 814,
+      "avatar": "https://avatars.githubusercontent.com/u/227121?v=4&s=40"
     },
     {
       "rank": 58,
       "username": "fagci",
       "realname": "Mikhail",
       "profile": "https://github.com/fagci",
-      "commits": 799,
+      "commits": 813,
       "avatar": "https://avatars.githubusercontent.com/u/8795970?u=1daa55de3c37ed9a44455d9c0c8eeb638f761841&v=4&s=40"
     },
     {
       "rank": 59,
-      "username": "Pr-Mex",
-      "realname": "Pautov Leonid",
-      "profile": "https://github.com/Pr-Mex",
-      "commits": 786,
-      "avatar": "https://avatars.githubusercontent.com/u/8627416?u=b1a47c9894a0d1fcf83a2eda0b9d4edb4d62182b&v=4&s=40"
+      "username": "dstogov",
+      "realname": "Dmitry Stogov",
+      "profile": "https://github.com/dstogov",
+      "commits": 782,
+      "avatar": "https://avatars.githubusercontent.com/u/2510034?v=4&s=40"
     },
     {
       "rank": 60,
-      "username": "mk-fg",
-      "realname": "Mike Kazantsev",
-      "profile": "https://github.com/mk-fg",
-      "commits": 780,
-      "avatar": "https://avatars.githubusercontent.com/u/227121?v=4&s=40"
-    },
-    {
-      "rank": 61,
       "username": "xrip",
       "realname": "Ilya Maslennikov",
       "profile": "https://github.com/xrip",
-      "commits": 758,
+      "commits": 751,
       "avatar": "https://avatars.githubusercontent.com/u/420432?u=a85f8e3baa9da12b475a9d7bafdeb8db649edc51&v=4&s=40"
     },
     {
-      "rank": 62,
+      "rank": 61,
       "username": "stden",
       "realname": "Denis Stepulenok",
       "profile": "https://github.com/stden",
-      "commits": 742,
+      "commits": 739,
       "avatar": "https://avatars.githubusercontent.com/u/435009?v=4&s=40"
     },
     {
-      "rank": 63,
+      "rank": 62,
       "username": "gkv311",
       "realname": "Kirill Gavrilov Tartynskih",
       "profile": "https://github.com/gkv311",
-      "commits": 728,
+      "commits": 734,
       "avatar": "https://avatars.githubusercontent.com/u/851453?u=6d1f4ef88dc883c4f6fe1e79eecb70e114fe6a62&v=4&s=40"
     },
     {
-      "rank": 64,
-      "username": "grishka",
-      "realname": "Gregory K",
-      "profile": "https://github.com/grishka",
-      "commits": 725,
-      "avatar": "https://avatars.githubusercontent.com/u/1478258?u=e8f5a189a84ed2da55b1c4807601899ddc9b8aa5&v=4&s=40"
+      "rank": 63,
+      "username": "Pr-Mex",
+      "realname": "Pautov Leonid",
+      "profile": "https://github.com/Pr-Mex",
+      "commits": 729,
+      "avatar": "https://avatars.githubusercontent.com/u/8627416?u=b1a47c9894a0d1fcf83a2eda0b9d4edb4d62182b&v=4&s=40"
     },
     {
-      "rank": 65,
+      "rank": 64,
       "username": "Demonrux",
       "realname": "Dmitriy",
       "profile": "https://github.com/Demonrux",
@@ -520,23 +512,47 @@
       "avatar": "https://avatars.githubusercontent.com/u/214517475?u=5ef3960f71aac520d1bbd17573a4ab219fc60130&v=4&s=40"
     },
     {
+      "rank": 65,
+      "username": "grishka",
+      "realname": "Gregory K",
+      "profile": "https://github.com/grishka",
+      "commits": 717,
+      "avatar": "https://avatars.githubusercontent.com/u/1478258?u=e8f5a189a84ed2da55b1c4807601899ddc9b8aa5&v=4&s=40"
+    },
+    {
       "rank": 66,
-      "username": "Kakadu",
-      "realname": "Dmitrii Kosarev",
-      "profile": "https://github.com/Kakadu",
-      "commits": 709,
-      "avatar": "https://avatars.githubusercontent.com/u/438226?v=4&s=40"
+      "username": "gregor-tokarev",
+      "realname": "Gregor",
+      "profile": "https://github.com/gregor-tokarev",
+      "commits": 717,
+      "avatar": "https://avatars.githubusercontent.com/u/52395572?u=6030d6b100f233cf689bc7f64d66bd436399b986&v=4&s=40"
     },
     {
       "rank": 67,
-      "username": "agricolamz",
-      "realname": "George Moroz",
-      "profile": "https://github.com/agricolamz",
-      "commits": 704,
-      "avatar": "https://avatars.githubusercontent.com/u/15956515?v=4&s=40"
+      "username": "Kakadu",
+      "realname": "Dmitrii Kosarev",
+      "profile": "https://github.com/Kakadu",
+      "commits": 714,
+      "avatar": "https://avatars.githubusercontent.com/u/438226?v=4&s=40"
     },
     {
       "rank": 68,
+      "username": "alex-w",
+      "realname": "Alexander V. Wolf",
+      "profile": "https://github.com/alex-w",
+      "commits": 703,
+      "avatar": "https://avatars.githubusercontent.com/u/88731?u=171144bbecfb981f15a77c28c55dd0130f608162&v=4&s=40"
+    },
+    {
+      "rank": 69,
+      "username": "agricolamz",
+      "realname": "George Moroz",
+      "profile": "https://github.com/agricolamz",
+      "commits": 702,
+      "avatar": "https://avatars.githubusercontent.com/u/15956515?v=4&s=40"
+    },
+    {
+      "rank": 70,
       "username": "ogamespec",
       "realname": "org",
       "profile": "https://github.com/ogamespec",
@@ -544,55 +560,47 @@
       "avatar": "https://avatars.githubusercontent.com/u/5828819?u=65abaf6236ed97044dcd03d3042cc84ba1b6f565&v=4&s=40"
     },
     {
-      "rank": 69,
-      "username": "gregor-tokarev",
-      "realname": "Gregor",
-      "profile": "https://github.com/gregor-tokarev",
-      "commits": 698,
-      "avatar": "https://avatars.githubusercontent.com/u/52395572?u=6030d6b100f233cf689bc7f64d66bd436399b986&v=4&s=40"
-    },
-    {
-      "rank": 70,
-      "username": "alex-w",
-      "realname": "Alexander V. Wolf",
-      "profile": "https://github.com/alex-w",
-      "commits": 697,
-      "avatar": "https://avatars.githubusercontent.com/u/88731?u=171144bbecfb981f15a77c28c55dd0130f608162&v=4&s=40"
-    },
-    {
       "rank": 71,
-      "username": "oiwn",
-      "realname": "Alexander",
-      "profile": "https://github.com/oiwn",
-      "commits": 684,
-      "avatar": "https://avatars.githubusercontent.com/u/398035?u=67fda196eaa74e2077ef3fa6be0787d50571a3ff&v=4&s=40"
-    },
-    {
-      "rank": 72,
       "username": "ArtemSBulgakov",
       "realname": "Artem Bulgakov",
       "profile": "https://github.com/ArtemSBulgakov",
-      "commits": 682,
+      "commits": 692,
       "avatar": "https://avatars.githubusercontent.com/u/44732506?u=7115a096ab3a9ccf0c092dbf84a849aeca3bc28e&v=4&s=40"
     },
     {
-      "rank": 73,
-      "username": "anst-foto",
-      "realname": "Starinin Andrey",
-      "profile": "https://github.com/anst-foto",
-      "commits": 675,
-      "avatar": "https://avatars.githubusercontent.com/u/8177749?u=a10c1ad42419f75cd323e31804e5e7f193d59b9a&v=4&s=40"
+      "rank": 72,
+      "username": "oiwn",
+      "realname": "Alexander",
+      "profile": "https://github.com/oiwn",
+      "commits": 685,
+      "avatar": "https://avatars.githubusercontent.com/u/398035?u=67fda196eaa74e2077ef3fa6be0787d50571a3ff&v=4&s=40"
     },
     {
-      "rank": 74,
+      "rank": 73,
       "username": "MaximAfanasev",
       "realname": "Maxim",
       "profile": "https://github.com/MaximAfanasev",
-      "commits": 669,
+      "commits": 677,
       "avatar": "https://avatars.githubusercontent.com/u/47970097?u=4cac5b54415febe7efe1102ff12ffceb1f157946&v=4&s=40"
     },
     {
+      "rank": 74,
+      "username": "anst-foto",
+      "realname": "Starinin Andrey",
+      "profile": "https://github.com/anst-foto",
+      "commits": 676,
+      "avatar": "https://avatars.githubusercontent.com/u/8177749?u=a10c1ad42419f75cd323e31804e5e7f193d59b9a&v=4&s=40"
+    },
+    {
       "rank": 75,
+      "username": "floatdrop",
+      "realname": "Vsevolod Strukchinsky",
+      "profile": "https://github.com/floatdrop",
+      "commits": 672,
+      "avatar": "https://avatars.githubusercontent.com/u/365089?u=e3dff40fc0bf4365f0e18f803b14add19e3e10a7&v=4&s=40"
+    },
+    {
+      "rank": 76,
       "username": "VladimirNagibin",
       "realname": "Vladimir Nagibin",
       "profile": "https://github.com/VladimirNagibin",
@@ -600,103 +608,87 @@
       "avatar": "https://avatars.githubusercontent.com/u/154306836?u=226db71b898db31f2d466a878210d9d65be1e038&v=4&s=40"
     },
     {
-      "rank": 76,
-      "username": "ivmai",
-      "realname": "Ivan Maidanski",
-      "profile": "https://github.com/ivmai",
-      "commits": 645,
-      "avatar": "https://avatars.githubusercontent.com/u/460469?v=4&s=40"
-    },
-    {
       "rank": 77,
       "username": "vladilenm",
       "realname": "Vladilen Minin",
       "profile": "https://github.com/vladilenm",
-      "commits": 637,
+      "commits": 643,
       "avatar": "https://avatars.githubusercontent.com/u/11278675?u=2c6b571cd78b561b739bca16512b2c902677b65e&v=4&s=40"
     },
     {
       "rank": 78,
-      "username": "EndyKaufman",
-      "realname": "Ilshat Khamitov",
-      "profile": "https://github.com/EndyKaufman",
-      "commits": 625,
-      "avatar": "https://avatars.githubusercontent.com/u/4127109?v=4&s=40"
-    },
-    {
-      "rank": 79,
       "username": "kushti",
       "realname": "Alexander Chepurnoy",
       "profile": "https://github.com/kushti",
-      "commits": 621,
+      "commits": 627,
       "avatar": "https://avatars.githubusercontent.com/u/1972441?v=4&s=40"
     },
     {
-      "rank": 80,
+      "rank": 79,
       "username": "maxcom",
       "realname": "Maxim Valyanskiy",
       "profile": "https://github.com/maxcom",
-      "commits": 607,
+      "commits": 619,
       "avatar": "https://avatars.githubusercontent.com/u/69385?v=4&s=40"
+    },
+    {
+      "rank": 80,
+      "username": "EndyKaufman",
+      "realname": "Ilshat Khamitov",
+      "profile": "https://github.com/EndyKaufman",
+      "commits": 616,
+      "avatar": "https://avatars.githubusercontent.com/u/4127109?v=4&s=40"
     },
     {
       "rank": 81,
       "username": "alexey-goloburdin",
       "realname": "Alexey Goloburdin",
       "profile": "https://github.com/alexey-goloburdin",
-      "commits": 604,
+      "commits": 603,
       "avatar": "https://avatars.githubusercontent.com/u/1895747?u=77a7fe566b05047b16fea2bb38204828a786841b&v=4&s=40"
     },
     {
       "rank": 82,
-      "username": "Evilur",
-      "realname": "Andrew Shershunov",
-      "profile": "https://github.com/Evilur",
-      "commits": 602,
-      "avatar": "https://avatars.githubusercontent.com/u/82677442?u=0abed5b1b8376a1b8cdf549e40669f816316a99a&v=4&s=40"
+      "username": "TheAndreyZakharov",
+      "realname": "Andrey Zakharov",
+      "profile": "https://github.com/TheAndreyZakharov",
+      "commits": 601,
+      "avatar": "https://avatars.githubusercontent.com/u/184459733?u=ddf4d12c56301a205c5963ceb82bbba4f938c6c5&v=4&s=40"
     },
     {
       "rank": 83,
-      "username": "invweb",
-      "realname": "Vasilii Karpenko",
-      "profile": "https://github.com/invweb",
-      "commits": 584,
-      "avatar": "https://avatars.githubusercontent.com/u/2270351?u=5fd0ee4b8d967b185bb94efdd1dcb0cdbaa0e8e6&v=4&s=40"
+      "username": "Evilur",
+      "realname": "Andrew Shershunov",
+      "profile": "https://github.com/Evilur",
+      "commits": 596,
+      "avatar": "https://avatars.githubusercontent.com/u/82677442?u=0abed5b1b8376a1b8cdf549e40669f816316a99a&v=4&s=40"
     },
     {
       "rank": 84,
-      "username": "alexbatalov",
-      "realname": "Alexander Batalov",
-      "profile": "https://github.com/alexbatalov",
-      "commits": 583,
-      "avatar": "https://avatars.githubusercontent.com/u/172978?u=a71a91eea0f5e48b41f85562d34c4571bbdd2124&v=4&s=40"
-    },
-    {
-      "rank": 85,
       "username": "z3APA3A",
       "realname": "Vladimir Dubrovin",
       "profile": "https://github.com/z3APA3A",
-      "commits": 577,
+      "commits": 586,
       "avatar": "https://avatars.githubusercontent.com/u/7222768?u=67de4dfbfc53826cd3144febed308b071f808708&v=4&s=40"
     },
     {
-      "rank": 86,
-      "username": "radioegor146",
-      "realname": "Egor Koleda",
-      "profile": "https://github.com/radioegor146",
-      "commits": 572,
-      "avatar": "https://avatars.githubusercontent.com/u/16443338?u=43c249e42cb4d5d666240d842747cb25ffb55880&v=4&s=40"
-    },
-    {
-      "rank": 87,
+      "rank": 85,
       "username": "Infarh",
       "realname": "Pavel",
       "profile": "https://github.com/Infarh",
-      "commits": 570,
+      "commits": 569,
       "avatar": "https://avatars.githubusercontent.com/u/595602?u=25acde0844b2f98cf7a4b70d207ba57e6feb541f&v=4&s=40"
     },
     {
-      "rank": 88,
+      "rank": 86,
+      "username": "zamtmn",
+      "realname": "Andrey",
+      "profile": "https://github.com/zamtmn",
+      "commits": 567,
+      "avatar": "https://avatars.githubusercontent.com/u/39580611?u=88330595c2a3926ba9056a4c0af1c7c0c865961c&v=4&s=40"
+    },
+    {
+      "rank": 87,
       "username": "xayam",
       "realname": "Aleksey Belyanin",
       "profile": "https://github.com/xayam",
@@ -704,20 +696,28 @@
       "avatar": "https://avatars.githubusercontent.com/u/13331126?u=3a4e497122e2aad0b66fc64ab246ba520d902af8&v=4&s=40"
     },
     {
-      "rank": 89,
-      "username": "TheAndreyZakharov",
-      "realname": "Andrey Zakharov",
-      "profile": "https://github.com/TheAndreyZakharov",
-      "commits": 560,
-      "avatar": "https://avatars.githubusercontent.com/u/184459733?u=ddf4d12c56301a205c5963ceb82bbba4f938c6c5&v=4&s=40"
+      "rank": 88,
+      "username": "alexbatalov",
+      "realname": "Alexander Batalov",
+      "profile": "https://github.com/alexbatalov",
+      "commits": 564,
+      "avatar": "https://avatars.githubusercontent.com/u/172978?u=a71a91eea0f5e48b41f85562d34c4571bbdd2124&v=4&s=40"
     },
     {
-      "rank": 90,
+      "rank": 89,
       "username": "lubaskinc0de",
       "realname": "Илья Любавский",
       "profile": "https://github.com/lubaskinc0de",
       "commits": 560,
       "avatar": "https://avatars.githubusercontent.com/u/100635212?u=db401442c9dce6530e77416cb74df79feaaab667&v=4&s=40"
+    },
+    {
+      "rank": 90,
+      "username": "radioegor146",
+      "realname": "Egor Koleda",
+      "profile": "https://github.com/radioegor146",
+      "commits": 559,
+      "avatar": "https://avatars.githubusercontent.com/u/16443338?u=43c249e42cb4d5d666240d842747cb25ffb55880&v=4&s=40"
     },
     {
       "rank": 91,
@@ -729,70 +729,62 @@
     },
     {
       "rank": 92,
-      "username": "zamtmn",
-      "realname": "Andrey",
-      "profile": "https://github.com/zamtmn",
-      "commits": 540,
-      "avatar": "https://avatars.githubusercontent.com/u/39580611?u=88330595c2a3926ba9056a4c0af1c7c0c865961c&v=4&s=40"
-    },
-    {
-      "rank": 93,
-      "username": "silentroach",
-      "realname": "Kalashnikov Igor",
-      "profile": "https://github.com/silentroach",
-      "commits": 526,
-      "avatar": "https://avatars.githubusercontent.com/u/166803?u=568bae54597f5832655f974e13935c54b2799036&v=4&s=40"
-    },
-    {
-      "rank": 94,
-      "username": "andriygav",
-      "realname": "Andrii Hraboviy",
-      "profile": "https://github.com/andriygav",
-      "commits": 523,
-      "avatar": "https://avatars.githubusercontent.com/u/35834412?u=cfae6deb0cc19c2c2ccce3ab76d9385e034b31d6&v=4&s=40"
-    },
-    {
-      "rank": 95,
       "username": "zeegin",
       "realname": "Ingvar Vilkman",
       "profile": "https://github.com/zeegin",
-      "commits": 523,
+      "commits": 546,
       "avatar": "https://avatars.githubusercontent.com/u/729213?u=37be2299ad9d32f5c62e2e183226d1a074a90d4a&v=4&s=40"
     },
     {
+      "rank": 93,
+      "username": "tormozit",
+      "realname": "Sergey Starykh",
+      "profile": "https://github.com/tormozit",
+      "commits": 544,
+      "avatar": "https://avatars.githubusercontent.com/u/11896251?u=94ece9eb707606c2b262617b76b61957f59dd9e5&v=4&s=40"
+    },
+    {
+      "rank": 94,
+      "username": "silentroach",
+      "realname": "Kalashnikov Igor",
+      "profile": "https://github.com/silentroach",
+      "commits": 537,
+      "avatar": "https://avatars.githubusercontent.com/u/166803?u=568bae54597f5832655f974e13935c54b2799036&v=4&s=40"
+    },
+    {
+      "rank": 95,
+      "username": "andriygav",
+      "realname": "Andrii Hraboviy",
+      "profile": "https://github.com/andriygav",
+      "commits": 531,
+      "avatar": "https://avatars.githubusercontent.com/u/35834412?u=cfae6deb0cc19c2c2ccce3ab76d9385e034b31d6&v=4&s=40"
+    },
+    {
       "rank": 96,
-      "username": "floatdrop",
-      "realname": "Vsevolod Strukchinsky",
-      "profile": "https://github.com/floatdrop",
-      "commits": 515,
-      "avatar": "https://avatars.githubusercontent.com/u/365089?u=e3dff40fc0bf4365f0e18f803b14add19e3e10a7&v=4&s=40"
+      "username": "Pekshev",
+      "realname": "Modis",
+      "profile": "https://github.com/Pekshev",
+      "commits": 523,
+      "avatar": "https://avatars.githubusercontent.com/u/12638819?u=539a09cdee02aff95d84bae1da545ed347f71c2e&v=4&s=40"
     },
     {
       "rank": 97,
       "username": "reo7sp",
       "realname": "Oleg Morozenkov",
       "profile": "https://github.com/reo7sp",
-      "commits": 515,
+      "commits": 521,
       "avatar": "https://avatars.githubusercontent.com/u/1623280?u=4e3cad916b07830a24b10ff8bc9d7cb6db99027b&v=4&s=40"
     },
     {
       "rank": 98,
-      "username": "Pekshev",
-      "realname": "Modis",
-      "profile": "https://github.com/Pekshev",
-      "commits": 510,
-      "avatar": "https://avatars.githubusercontent.com/u/12638819?u=539a09cdee02aff95d84bae1da545ed347f71c2e&v=4&s=40"
-    },
-    {
-      "rank": 99,
       "username": "tsergeytovarov",
       "realname": "Серёжа",
       "profile": "https://github.com/tsergeytovarov",
-      "commits": 508,
+      "commits": 510,
       "avatar": "https://avatars.githubusercontent.com/u/3905611?u=8b74e8ddd16403fe9891e2b643c5fb974da89813&v=4&s=40"
     },
     {
-      "rank": 100,
+      "rank": 99,
       "username": "ignavan39",
       "realname": "Ivan Ignatenko",
       "profile": "https://github.com/ignavan39",
@@ -800,143 +792,159 @@
       "avatar": "https://avatars.githubusercontent.com/u/68580920?v=4&s=40"
     },
     {
-      "rank": 101,
-      "username": "LebedevRI",
-      "realname": "Roman Lebedev",
-      "profile": "https://github.com/LebedevRI",
-      "commits": 506,
-      "avatar": "https://avatars.githubusercontent.com/u/88600?v=4&s=40"
-    },
-    {
-      "rank": 102,
-      "username": "PolarNick239",
-      "realname": "Nikolai Poliarnyi",
-      "profile": "https://github.com/PolarNick239",
-      "commits": 500,
-      "avatar": "https://avatars.githubusercontent.com/u/1218605?u=357ab3f78840befa5df44c55a46a603e6c7f0dd6&v=4&s=40"
-    },
-    {
-      "rank": 103,
+      "rank": 100,
       "username": "WLM1ke",
       "realname": "WLMike",
       "profile": "https://github.com/WLM1ke",
-      "commits": 489,
+      "commits": 494,
       "avatar": "https://avatars.githubusercontent.com/u/35304528?u=c083a24c451ad6c87f42364ee4b0f65c22e1a6af&v=4&s=40"
     },
     {
-      "rank": 104,
-      "username": "13xforever",
-      "realname": "Ilya",
-      "profile": "https://github.com/13xforever",
-      "commits": 483,
-      "avatar": "https://avatars.githubusercontent.com/u/36445?u=f73d7a658c638b9bb4bc3881cadc57d47eee2cd9&v=4&s=40"
-    },
-    {
-      "rank": 105,
-      "username": "artdeell",
-      "realname": "Maksim Belov",
-      "profile": "https://github.com/artdeell",
-      "commits": 479,
-      "avatar": "https://avatars.githubusercontent.com/u/45949002?u=f9645b7271568e2b03d33ade1f695f08218afc5b&v=4&s=40"
-    },
-    {
-      "rank": 106,
+      "rank": 101,
       "username": "crashmax-dev",
       "realname": "Vitalij Ryndin",
       "profile": "https://github.com/crashmax-dev",
-      "commits": 474,
+      "commits": 486,
       "avatar": "https://avatars.githubusercontent.com/u/15673111?u=5ceaa6fc28348379cb8612b86d96687af9a7119a&v=4&s=40"
     },
     {
-      "rank": 107,
-      "username": "JarvisCraft",
-      "realname": "Petr Portnov | PROgrm_JARvis",
-      "profile": "https://github.com/JarvisCraft",
-      "commits": 472,
-      "avatar": "https://avatars.githubusercontent.com/u/7693005?u=f777e6f916a1d186c8bd8c61f8f42cdf01a93b7c&v=4&s=40"
-    },
-    {
-      "rank": 108,
-      "username": "tormozit",
-      "realname": "Sergey Starykh",
-      "profile": "https://github.com/tormozit",
-      "commits": 469,
-      "avatar": "https://avatars.githubusercontent.com/u/11896251?u=94ece9eb707606c2b262617b76b61957f59dd9e5&v=4&s=40"
-    },
-    {
-      "rank": 109,
-      "username": "UmarGit",
-      "realname": "Umar Ahmed",
-      "profile": "https://github.com/UmarGit",
-      "commits": 467,
-      "avatar": "https://avatars.githubusercontent.com/u/39865635?u=039d7a682366f686861280074043863f0be423ad&v=4&s=40"
-    },
-    {
-      "rank": 110,
-      "username": "gstark",
-      "realname": "Gavin Stark",
-      "profile": "https://github.com/gstark",
-      "commits": 463,
-      "avatar": "https://avatars.githubusercontent.com/u/2607?u=7b133e6ba2178663286b7190dcaaba5c2e50498f&v=4&s=40"
-    },
-    {
-      "rank": 111,
-      "username": "Oxotka",
-      "realname": "Никита Арипов",
-      "profile": "https://github.com/Oxotka",
-      "commits": 454,
-      "avatar": "https://avatars.githubusercontent.com/u/5194393?u=f0e565e3131fafb8c649e53ff39b3d63ec33fd08&v=4&s=40"
-    },
-    {
-      "rank": 112,
-      "username": "dosymep",
-      "realname": "Biseuv Olzhas",
-      "profile": "https://github.com/dosymep",
-      "commits": 447,
-      "avatar": "https://avatars.githubusercontent.com/u/5417225?u=b0ad29d3fe2d62374cc972ca1098190c410cff28&v=4&s=40"
-    },
-    {
-      "rank": 113,
-      "username": "flavokrkkk",
-      "realname": "Egor",
-      "profile": "https://github.com/flavokrkkk",
-      "commits": 442,
-      "avatar": "https://avatars.githubusercontent.com/u/145288995?u=654d6edd034b32330330ba424bc1e69fc6ad45d3&v=4&s=40"
-    },
-    {
-      "rank": 114,
-      "username": "the2pizza",
-      "realname": "Fyodor Sonikov",
-      "profile": "https://github.com/the2pizza",
-      "commits": 442,
-      "avatar": "https://avatars.githubusercontent.com/u/6414316?u=d0e723ba06df2197190d2b1d276b5cff2ad496c4&v=4&s=40"
-    },
-    {
-      "rank": 115,
+      "rank": 102,
       "username": "alex19EP",
       "realname": "Alexandr Epaneshnikov",
       "profile": "https://github.com/alex19EP",
-      "commits": 440,
+      "commits": 485,
       "avatar": "https://avatars.githubusercontent.com/u/4889846?u=3a30e7312605794abc3bc8af885dc54b1d97d343&v=4&s=40"
     },
     {
-      "rank": 116,
+      "rank": 103,
+      "username": "PolarNick239",
+      "realname": "Nikolai Poliarnyi",
+      "profile": "https://github.com/PolarNick239",
+      "commits": 480,
+      "avatar": "https://avatars.githubusercontent.com/u/1218605?u=357ab3f78840befa5df44c55a46a603e6c7f0dd6&v=4&s=40"
+    },
+    {
+      "rank": 104,
+      "username": "Oxotka",
+      "realname": "Никита Арипов",
+      "profile": "https://github.com/Oxotka",
+      "commits": 473,
+      "avatar": "https://avatars.githubusercontent.com/u/5194393?u=f0e565e3131fafb8c649e53ff39b3d63ec33fd08&v=4&s=40"
+    },
+    {
+      "rank": 105,
+      "username": "JarvisCraft",
+      "realname": "Petr Portnov | PROgrm_JARvis",
+      "profile": "https://github.com/JarvisCraft",
+      "commits": 470,
+      "avatar": "https://avatars.githubusercontent.com/u/7693005?u=f777e6f916a1d186c8bd8c61f8f42cdf01a93b7c&v=4&s=40"
+    },
+    {
+      "rank": 106,
+      "username": "UmarGit",
+      "realname": "Umar Ahmed",
+      "profile": "https://github.com/UmarGit",
+      "commits": 469,
+      "avatar": "https://avatars.githubusercontent.com/u/39865635?u=039d7a682366f686861280074043863f0be423ad&v=4&s=40"
+    },
+    {
+      "rank": 107,
+      "username": "13xforever",
+      "realname": "Ilya",
+      "profile": "https://github.com/13xforever",
+      "commits": 467,
+      "avatar": "https://avatars.githubusercontent.com/u/36445?u=f73d7a658c638b9bb4bc3881cadc57d47eee2cd9&v=4&s=40"
+    },
+    {
+      "rank": 108,
+      "username": "artdeell",
+      "realname": "Maksim Belov",
+      "profile": "https://github.com/artdeell",
+      "commits": 465,
+      "avatar": "https://avatars.githubusercontent.com/u/45949002?u=f9645b7271568e2b03d33ade1f695f08218afc5b&v=4&s=40"
+    },
+    {
+      "rank": 109,
+      "username": "gstark",
+      "realname": "Gavin Stark",
+      "profile": "https://github.com/gstark",
+      "commits": 464,
+      "avatar": "https://avatars.githubusercontent.com/u/2607?u=7b133e6ba2178663286b7190dcaaba5c2e50498f&v=4&s=40"
+    },
+    {
+      "rank": 110,
+      "username": "the2pizza",
+      "realname": "Fyodor Sonikov",
+      "profile": "https://github.com/the2pizza",
+      "commits": 459,
+      "avatar": "https://avatars.githubusercontent.com/u/6414316?u=d0e723ba06df2197190d2b1d276b5cff2ad496c4&v=4&s=40"
+    },
+    {
+      "rank": 111,
+      "username": "TheMaxMur",
+      "realname": "MaxMur",
+      "profile": "https://github.com/TheMaxMur",
+      "commits": 457,
+      "avatar": "https://avatars.githubusercontent.com/u/31189199?u=6a1a6af9da62c517405304df37d0d1829ede3d5e&v=4&s=40"
+    },
+    {
+      "rank": 112,
+      "username": "LebedevRI",
+      "realname": "Roman Lebedev",
+      "profile": "https://github.com/LebedevRI",
+      "commits": 457,
+      "avatar": "https://avatars.githubusercontent.com/u/88600?v=4&s=40"
+    },
+    {
+      "rank": 113,
       "username": "veged",
       "realname": "Sergey Berezhnoy",
       "profile": "https://github.com/veged",
-      "commits": 424,
+      "commits": 452,
       "avatar": "https://avatars.githubusercontent.com/u/15365?u=bedf0101c37be73011474f9c5b88eb4efcb2a5f4&v=4&s=40"
     },
     {
+      "rank": 114,
+      "username": "mardy",
+      "realname": "Alberto Mardegan",
+      "profile": "https://github.com/mardy",
+      "commits": 452,
+      "avatar": "https://avatars.githubusercontent.com/u/59287?v=4&s=40"
+    },
+    {
+      "rank": 115,
+      "username": "dosymep",
+      "realname": "Biseuv Olzhas",
+      "profile": "https://github.com/dosymep",
+      "commits": 444,
+      "avatar": "https://avatars.githubusercontent.com/u/5417225?u=b0ad29d3fe2d62374cc972ca1098190c410cff28&v=4&s=40"
+    },
+    {
+      "rank": 116,
+      "username": "flavokrkkk",
+      "realname": "Egor",
+      "profile": "https://github.com/flavokrkkk",
+      "commits": 440,
+      "avatar": "https://avatars.githubusercontent.com/u/145288995?u=654d6edd034b32330330ba424bc1e69fc6ad45d3&v=4&s=40"
+    },
+    {
       "rank": 117,
-      "username": "LoneStamp",
-      "realname": "BlackRose",
-      "profile": "https://github.com/LoneStamp",
-      "commits": 413,
-      "avatar": "https://avatars.githubusercontent.com/u/170086549?u=65407621e7325cb89ed5ac54c7588aafd87faba8&v=4&s=40"
+      "username": "Cricko7",
+      "realname": "Roman Stepanov",
+      "profile": "https://github.com/Cricko7",
+      "commits": 431,
+      "avatar": "https://avatars.githubusercontent.com/u/161488478?u=b1ef5fb60ec8cc953a22cffc771a661cd438e07e&v=4&s=40"
     },
     {
       "rank": 118,
+      "username": "LoneStamp",
+      "realname": "BlackRose",
+      "profile": "https://github.com/LoneStamp",
+      "commits": 409,
+      "avatar": "https://avatars.githubusercontent.com/u/170086549?u=65407621e7325cb89ed5ac54c7588aafd87faba8&v=4&s=40"
+    },
+    {
+      "rank": 119,
       "username": "KonishchevDmitry",
       "realname": "Dmitry Konishchev",
       "profile": "https://github.com/KonishchevDmitry",
@@ -944,55 +952,63 @@
       "avatar": "https://avatars.githubusercontent.com/u/217795?v=4&s=40"
     },
     {
-      "rank": 119,
+      "rank": 120,
       "username": "vsdifficult",
       "realname": "ilya li",
       "profile": "https://github.com/vsdifficult",
-      "commits": 401,
+      "commits": 400,
       "avatar": "https://avatars.githubusercontent.com/u/101355829?u=5211edce1770119cce5f1303cd767c6894428ca8&v=4&s=40"
     },
     {
-      "rank": 120,
-      "username": "pvvx",
-      "realname": "Victor",
-      "profile": "https://github.com/pvvx",
-      "commits": 391,
-      "avatar": "https://avatars.githubusercontent.com/u/12629515?u=fb0e58e022413ae76c8fb5f35380585263c4b845&v=4&s=40"
-    },
-    {
       "rank": 121,
-      "username": "DC-SWAT",
-      "realname": "Ruslan Rostovtsev",
-      "profile": "https://github.com/DC-SWAT",
-      "commits": 382,
-      "avatar": "https://avatars.githubusercontent.com/u/5593563?u=fae7d24dc46981d8c03ec8fbcfad277be7ec4e68&v=4&s=40"
+      "username": "dext0r",
+      "realname": "Artem Sorokin",
+      "profile": "https://github.com/dext0r",
+      "commits": 394,
+      "avatar": "https://avatars.githubusercontent.com/u/3103856?u=b5a8a6e09bd327fe660a5b6dedb21047947dee9d&v=4&s=40"
     },
     {
       "rank": 122,
-      "username": "octet-stream",
-      "realname": "Nick K.",
-      "profile": "https://github.com/octet-stream",
-      "commits": 371,
-      "avatar": "https://avatars.githubusercontent.com/u/7884558?u=41fb5ae94752f70a6c82d36bebf192f7d32a77ac&v=4&s=40"
-    },
-    {
-      "rank": 123,
       "username": "sibvic",
       "realname": "Victor Tereschenko",
       "profile": "https://github.com/sibvic",
-      "commits": 369,
+      "commits": 391,
       "avatar": "https://avatars.githubusercontent.com/u/2065165?u=e9f19212da256d46bc1caee1a22110360690e93a&v=4&s=40"
     },
     {
+      "rank": 123,
+      "username": "pvvx",
+      "realname": "Victor",
+      "profile": "https://github.com/pvvx",
+      "commits": 389,
+      "avatar": "https://avatars.githubusercontent.com/u/12629515?u=fb0e58e022413ae76c8fb5f35380585263c4b845&v=4&s=40"
+    },
+    {
       "rank": 124,
-      "username": "ventureoo",
-      "realname": "Vasiliy Stelmachenok",
-      "profile": "https://github.com/ventureoo",
-      "commits": 369,
-      "avatar": "https://avatars.githubusercontent.com/u/92667539?v=4&s=40"
+      "username": "DC-SWAT",
+      "realname": "Ruslan Rostovtsev",
+      "profile": "https://github.com/DC-SWAT",
+      "commits": 388,
+      "avatar": "https://avatars.githubusercontent.com/u/5593563?u=fae7d24dc46981d8c03ec8fbcfad277be7ec4e68&v=4&s=40"
     },
     {
       "rank": 125,
+      "username": "xelvhk",
+      "realname": "Lex",
+      "profile": "https://github.com/xelvhk",
+      "commits": 377,
+      "avatar": "https://avatars.githubusercontent.com/u/166012830?u=afe8d267c5e58feec01df6b00a3aaf6315f963e3&v=4&s=40"
+    },
+    {
+      "rank": 126,
+      "username": "octet-stream",
+      "realname": "Nick K.",
+      "profile": "https://github.com/octet-stream",
+      "commits": 368,
+      "avatar": "https://avatars.githubusercontent.com/u/7884558?u=41fb5ae94752f70a6c82d36bebf192f7d32a77ac&v=4&s=40"
+    },
+    {
+      "rank": 127,
       "username": "dvpsun",
       "realname": "Polevoy Dmitry",
       "profile": "https://github.com/dvpsun",
@@ -1000,36 +1016,20 @@
       "avatar": "https://avatars.githubusercontent.com/u/10572834?v=4&s=40"
     },
     {
-      "rank": 126,
-      "username": "Cricko7",
-      "realname": "Roman Stepanov",
-      "profile": "https://github.com/Cricko7",
-      "commits": 366,
-      "avatar": "https://avatars.githubusercontent.com/u/161488478?u=b1ef5fb60ec8cc953a22cffc771a661cd438e07e&v=4&s=40"
-    },
-    {
-      "rank": 127,
-      "username": "Riateche",
-      "realname": "Pavel Strakhov",
-      "profile": "https://github.com/Riateche",
-      "commits": 359,
-      "avatar": "https://avatars.githubusercontent.com/u/1740713?u=5edb1b31932ca2644effb7794854dac358c981f0&v=4&s=40"
-    },
-    {
       "rank": 128,
-      "username": "xelvhk",
-      "realname": "Lex",
-      "profile": "https://github.com/xelvhk",
-      "commits": 353,
-      "avatar": "https://avatars.githubusercontent.com/u/166012830?u=afe8d267c5e58feec01df6b00a3aaf6315f963e3&v=4&s=40"
+      "username": "ventureoo",
+      "realname": "Vasiliy Stelmachenok",
+      "profile": "https://github.com/ventureoo",
+      "commits": 361,
+      "avatar": "https://avatars.githubusercontent.com/u/92667539?v=4&s=40"
     },
     {
       "rank": 129,
-      "username": "Konstantin8105",
-      "realname": "Konstantin",
-      "profile": "https://github.com/Konstantin8105",
-      "commits": 353,
-      "avatar": "https://avatars.githubusercontent.com/u/16690032?u=24ff56f031e3dd0706fbdae79c03303204afdb52&v=4&s=40"
+      "username": "Riateche",
+      "realname": "Pavel Strakhov",
+      "profile": "https://github.com/Riateche",
+      "commits": 352,
+      "avatar": "https://avatars.githubusercontent.com/u/1740713?u=5edb1b31932ca2644effb7794854dac358c981f0&v=4&s=40"
     },
     {
       "rank": 130,
@@ -1040,18 +1040,18 @@
     },
     {
       "rank": 131,
-      "username": "TheMaxMur",
-      "realname": "MaxMur",
-      "profile": "https://github.com/TheMaxMur",
-      "commits": 348,
-      "avatar": "https://avatars.githubusercontent.com/u/31189199?u=6a1a6af9da62c517405304df37d0d1829ede3d5e&v=4&s=40"
+      "username": "Konstantin8105",
+      "realname": "Konstantin",
+      "profile": "https://github.com/Konstantin8105",
+      "commits": 349,
+      "avatar": "https://avatars.githubusercontent.com/u/16690032?u=24ff56f031e3dd0706fbdae79c03303204afdb52&v=4&s=40"
     },
     {
       "rank": 132,
       "username": "flyingmutant",
       "realname": "Gregory Petrosyan",
       "profile": "https://github.com/flyingmutant",
-      "commits": 347,
+      "commits": 348,
       "avatar": "https://avatars.githubusercontent.com/u/73059?u=3221c25bcb1fc8b152c7ccd9d3400b81a9baec8d&v=4&s=40"
     },
     {
@@ -1067,58 +1067,66 @@
       "username": "sergey-dryabzhinsky",
       "realname": "Sergey Dryabzhinsky",
       "profile": "https://github.com/sergey-dryabzhinsky",
-      "commits": 342,
+      "commits": 345,
       "avatar": "https://avatars.githubusercontent.com/u/717597?v=4&s=40"
     },
     {
       "rank": 135,
-      "username": "tigr1234566",
-      "realname": "dim4ugan",
-      "profile": "https://github.com/tigr1234566",
-      "commits": 333,
-      "avatar": "https://avatars.githubusercontent.com/u/67120983?u=997f28545bbd02c85f0f9ca610f3cae2c63560bc&v=4&s=40"
+      "username": "VladimirCores",
+      "realname": "Vladimir Cores",
+      "profile": "https://github.com/VladimirCores",
+      "commits": 336,
+      "avatar": "https://avatars.githubusercontent.com/u/442111?u=2d21b4661258c74958f269afe16afc0311b1e506&v=4&s=40"
     },
     {
       "rank": 136,
-      "username": "KurimuzonAkuma",
-      "profile": "https://github.com/KurimuzonAkuma",
-      "commits": 332,
-      "avatar": "https://avatars.githubusercontent.com/u/31959970?u=f63373b764837a882ffe63270540e4402c4f01e1&v=4&s=40"
+      "username": "vadv",
+      "realname": "vadv",
+      "profile": "https://github.com/vadv",
+      "commits": 334,
+      "avatar": "https://avatars.githubusercontent.com/u/539450?u=85c48e80eda9cfc2ae81441820dcec5027f95622&v=4&s=40"
     },
     {
       "rank": 137,
-      "username": "MADTeacher",
-      "realname": "Stanislav Chernyshev",
-      "profile": "https://github.com/MADTeacher",
-      "commits": 331,
-      "avatar": "https://avatars.githubusercontent.com/u/6356512?u=2c8dab361fecd3e64a7a5f9da46df291cfd6dc87&v=4&s=40"
+      "username": "KurimuzonAkuma",
+      "profile": "https://github.com/KurimuzonAkuma",
+      "commits": 330,
+      "avatar": "https://avatars.githubusercontent.com/u/31959970?u=f63373b764837a882ffe63270540e4402c4f01e1&v=4&s=40"
     },
     {
       "rank": 138,
-      "username": "dext0r",
-      "realname": "Artem Sorokin",
-      "profile": "https://github.com/dext0r",
-      "commits": 329,
-      "avatar": "https://avatars.githubusercontent.com/u/3103856?u=b5a8a6e09bd327fe660a5b6dedb21047947dee9d&v=4&s=40"
+      "username": "tigr1234566",
+      "realname": "dim4ugan",
+      "profile": "https://github.com/tigr1234566",
+      "commits": 328,
+      "avatar": "https://avatars.githubusercontent.com/u/67120983?u=997f28545bbd02c85f0f9ca610f3cae2c63560bc&v=4&s=40"
     },
     {
       "rank": 139,
-      "username": "GlitchFisher",
-      "realname": "Bogdan Klimov",
-      "profile": "https://github.com/GlitchFisher",
-      "commits": 327,
-      "avatar": "https://avatars.githubusercontent.com/u/136115919?u=ee91a04c9270c7699311876d18b5f87c23fa2474&v=4&s=40"
+      "username": "altavir",
+      "realname": "Alexander Nozik",
+      "profile": "https://github.com/altavir",
+      "commits": 326,
+      "avatar": "https://avatars.githubusercontent.com/u/9514268?u=445efa70492b44bada7898aca5c1c82333f59957&v=4&s=40"
     },
     {
       "rank": 140,
       "username": "Waujito",
       "realname": "Vadim Vetrov",
       "profile": "https://github.com/Waujito",
-      "commits": 327,
+      "commits": 324,
       "avatar": "https://avatars.githubusercontent.com/u/53368344?u=957d81d1e83a3b9059b3c283e9d00357d1e54790&v=4&s=40"
     },
     {
       "rank": 141,
+      "username": "MADTeacher",
+      "realname": "Stanislav Chernyshev",
+      "profile": "https://github.com/MADTeacher",
+      "commits": 324,
+      "avatar": "https://avatars.githubusercontent.com/u/6356512?u=2c8dab361fecd3e64a7a5f9da46df291cfd6dc87&v=4&s=40"
+    },
+    {
+      "rank": 142,
       "username": "alexey-malov",
       "realname": "Alexey Malov",
       "profile": "https://github.com/alexey-malov",
@@ -1126,23 +1134,31 @@
       "avatar": "https://avatars.githubusercontent.com/u/6040682?u=f17647f07e87c517d436844f78869cd446da0a11&v=4&s=40"
     },
     {
-      "rank": 142,
+      "rank": 143,
       "username": "zeckson",
       "realname": "Eugene Shchepotev",
       "profile": "https://github.com/zeckson",
-      "commits": 316,
+      "commits": 318,
       "avatar": "https://avatars.githubusercontent.com/u/259739?u=05c221cbf4efda86c2c43737670eb1bc57275b58&v=4&s=40"
     },
     {
-      "rank": 143,
+      "rank": 144,
       "username": "avtomatik",
       "realname": "Alexander",
       "profile": "https://github.com/avtomatik",
-      "commits": 307,
+      "commits": 314,
       "avatar": "https://avatars.githubusercontent.com/u/23338141?v=4&s=40"
     },
     {
-      "rank": 144,
+      "rank": 145,
+      "username": "darky",
+      "realname": "Vladislav Botvin",
+      "profile": "https://github.com/darky",
+      "commits": 308,
+      "avatar": "https://avatars.githubusercontent.com/u/1832800?u=e1f182dd1520ad1147c8ee5fca12a3e6b23c42e0&v=4&s=40"
+    },
+    {
+      "rank": 146,
       "username": "true-grue",
       "realname": "Peter Sovietov",
       "profile": "https://github.com/true-grue",
@@ -1150,15 +1166,7 @@
       "avatar": "https://avatars.githubusercontent.com/u/4078084?u=45545f3026a6bdd75775f715c2535561dada0d86&v=4&s=40"
     },
     {
-      "rank": 145,
-      "username": "markshevchenko",
-      "realname": "Mark Shevchenko",
-      "profile": "https://github.com/markshevchenko",
-      "commits": 301,
-      "avatar": "https://avatars.githubusercontent.com/u/10639110?v=4&s=40"
-    },
-    {
-      "rank": 146,
+      "rank": 147,
       "username": "VBart",
       "realname": "Valentin V. Bartenev",
       "profile": "https://github.com/VBart",
@@ -1166,159 +1174,183 @@
       "avatar": "https://avatars.githubusercontent.com/u/2750827?u=4cb5fa84a86993ec83f55e2ed2462ceb72bce7c8&v=4&s=40"
     },
     {
-      "rank": 147,
-      "username": "Al-Muhandis",
-      "realname": "Renat Suleymanov",
-      "profile": "https://github.com/Al-Muhandis",
-      "commits": 294,
-      "avatar": "https://avatars.githubusercontent.com/u/26924147?u=14c82e3e5103090b8ef2640db90588e134bafd2b&v=4&s=40"
-    },
-    {
       "rank": 148,
-      "username": "maxbarsukov",
-      "realname": "Max Barsukov",
-      "profile": "https://github.com/maxbarsukov",
-      "commits": 292,
-      "avatar": "https://avatars.githubusercontent.com/u/60351594?u=bd54db9560cbc1424311047192edc1544f690729&v=4&s=40"
+      "username": "markshevchenko",
+      "realname": "Mark Shevchenko",
+      "profile": "https://github.com/markshevchenko",
+      "commits": 296,
+      "avatar": "https://avatars.githubusercontent.com/u/10639110?v=4&s=40"
     },
     {
       "rank": 149,
-      "username": "GeorgGrebenyuk",
-      "realname": "Georg Grebenyuk",
-      "profile": "https://github.com/GeorgGrebenyuk",
-      "commits": 290,
-      "avatar": "https://avatars.githubusercontent.com/u/55656376?u=d3bbe2153bd467b75fd3d240b240fb88442b09a4&v=4&s=40"
+      "username": "Al-Muhandis",
+      "realname": "Renat Suleymanov",
+      "profile": "https://github.com/Al-Muhandis",
+      "commits": 292,
+      "avatar": "https://avatars.githubusercontent.com/u/26924147?u=14c82e3e5103090b8ef2640db90588e134bafd2b&v=4&s=40"
     },
     {
       "rank": 150,
-      "username": "maxter9595",
-      "realname": "Maxim Terletsky",
-      "profile": "https://github.com/maxter9595",
-      "commits": 285,
-      "avatar": "https://avatars.githubusercontent.com/u/51326318?u=0d4df39204e4f69bb6dc3f739ad95bdd3a512131&v=4&s=40"
-    },
-    {
-      "rank": 151,
-      "username": "olegdayo",
-      "realname": "Oleg Sidorenkov",
-      "profile": "https://github.com/olegdayo",
-      "commits": 284,
-      "avatar": "https://avatars.githubusercontent.com/u/29378496?u=1708a95f76ce4bf6c8728e79c3fbaa01b16b7ca1&v=4&s=40"
-    },
-    {
-      "rank": 152,
-      "username": "EvilBeaver",
-      "realname": "Andrei Ovsiankin",
-      "profile": "https://github.com/EvilBeaver",
-      "commits": 283,
-      "avatar": "https://avatars.githubusercontent.com/u/2657561?u=27d1218e7d8f840215016ef0e2126b23caeb1337&v=4&s=40"
-    },
-    {
-      "rank": 153,
-      "username": "Anonym-tsk",
-      "realname": "Nikolay Vasilchuk",
-      "profile": "https://github.com/Anonym-tsk",
-      "commits": 282,
-      "avatar": "https://avatars.githubusercontent.com/u/1973755?v=4&s=40"
-    },
-    {
-      "rank": 154,
-      "username": "Domaman202",
-      "realname": "DomamaN202",
-      "profile": "https://github.com/Domaman202",
-      "commits": 282,
-      "avatar": "https://avatars.githubusercontent.com/u/51743763?u=2ceff2d3ff8bc1f008b112f0e17e4e6bbc7a474a&v=4&s=40"
-    },
-    {
-      "rank": 155,
-      "username": "surikov",
-      "realname": "Srgy Surkv",
-      "profile": "https://github.com/surikov",
-      "commits": 279,
-      "avatar": "https://avatars.githubusercontent.com/u/2798817?u=4b3e57499ce149f850b38f5f559dcb865e9c5fca&v=4&s=40"
-    },
-    {
-      "rank": 156,
-      "username": "cattyngmd",
-      "realname": "cattyn",
-      "profile": "https://github.com/cattyngmd",
-      "commits": 274,
-      "avatar": "https://avatars.githubusercontent.com/u/60744119?u=47a9dede338002c0172745aeec754cb3229d98fb&v=4&s=40"
-    },
-    {
-      "rank": 157,
-      "username": "altavir",
-      "realname": "Alexander Nozik",
-      "profile": "https://github.com/altavir",
-      "commits": 272,
-      "avatar": "https://avatars.githubusercontent.com/u/9514268?u=445efa70492b44bada7898aca5c1c82333f59957&v=4&s=40"
-    },
-    {
-      "rank": 158,
       "username": "kolya5544",
       "realname": "Kolya",
       "profile": "https://github.com/kolya5544",
-      "commits": 268,
+      "commits": 291,
       "avatar": "https://avatars.githubusercontent.com/u/20096248?u=4749106c31379f99794fa361af640bf7b9ecb027&v=4&s=40"
     },
     {
-      "rank": 159,
+      "rank": 151,
+      "username": "GeorgGrebenyuk",
+      "realname": "Georg Grebenyuk",
+      "profile": "https://github.com/GeorgGrebenyuk",
+      "commits": 289,
+      "avatar": "https://avatars.githubusercontent.com/u/55656376?u=d3bbe2153bd467b75fd3d240b240fb88442b09a4&v=4&s=40"
+    },
+    {
+      "rank": 152,
+      "username": "Domaman202",
+      "realname": "DomamaN202",
+      "profile": "https://github.com/Domaman202",
+      "commits": 286,
+      "avatar": "https://avatars.githubusercontent.com/u/51743763?u=2ceff2d3ff8bc1f008b112f0e17e4e6bbc7a474a&v=4&s=40"
+    },
+    {
+      "rank": 153,
+      "username": "maxter9595",
+      "realname": "Maxim Terletsky",
+      "profile": "https://github.com/maxter9595",
+      "commits": 284,
+      "avatar": "https://avatars.githubusercontent.com/u/51326318?u=0d4df39204e4f69bb6dc3f739ad95bdd3a512131&v=4&s=40"
+    },
+    {
+      "rank": 154,
       "username": "deemru",
       "realname": "Dmitrii Pichulin",
       "profile": "https://github.com/deemru",
-      "commits": 268,
+      "commits": 281,
       "avatar": "https://avatars.githubusercontent.com/u/10706633?u=8d54ef2e9d3cd7820b3d843ed44eb3a024f5586a&v=4&s=40"
     },
     {
-      "rank": 160,
+      "rank": 155,
       "username": "ArtemIzmaylov",
       "realname": "Artem Izmaylov",
       "profile": "https://github.com/ArtemIzmaylov",
-      "commits": 268,
+      "commits": 279,
       "avatar": "https://avatars.githubusercontent.com/u/41670735?u=a2ee96ca8f9a91bb6649ba49d03ef35aeea1a456&v=4&s=40"
     },
     {
+      "rank": 156,
+      "username": "surikov",
+      "realname": "Srgy Surkv",
+      "profile": "https://github.com/surikov",
+      "commits": 278,
+      "avatar": "https://avatars.githubusercontent.com/u/2798817?u=4b3e57499ce149f850b38f5f559dcb865e9c5fca&v=4&s=40"
+    },
+    {
+      "rank": 157,
+      "username": "maksimr",
+      "realname": "Maksim Ryzhikov",
+      "profile": "https://github.com/maksimr",
+      "commits": 275,
+      "avatar": "https://avatars.githubusercontent.com/u/616193?u=f840f1587022fb5edb55a056c06bfe1c30a02b55&v=4&s=40"
+    },
+    {
+      "rank": 158,
+      "username": "GlitchFisher",
+      "realname": "Bogdan Klimov",
+      "profile": "https://github.com/GlitchFisher",
+      "commits": 274,
+      "avatar": "https://avatars.githubusercontent.com/u/136115919?u=ee91a04c9270c7699311876d18b5f87c23fa2474&v=4&s=40"
+    },
+    {
+      "rank": 159,
+      "username": "nekitdev",
+      "realname": "Nikita Tikhonov",
+      "profile": "https://github.com/nekitdev",
+      "commits": 273,
+      "avatar": "https://avatars.githubusercontent.com/u/43587167?u=7ef13ff72b112797d30f6a4f4d18ef58edb3ea4c&v=4&s=40"
+    },
+    {
+      "rank": 160,
+      "username": "Anonym-tsk",
+      "realname": "Nikolay Vasilchuk",
+      "profile": "https://github.com/Anonym-tsk",
+      "commits": 272,
+      "avatar": "https://avatars.githubusercontent.com/u/1973755?v=4&s=40"
+    },
+    {
       "rank": 161,
-      "username": "catamphetamine",
-      "realname": "Nikolay Kuchumov",
-      "profile": "https://github.com/catamphetamine",
-      "commits": 265,
-      "avatar": "https://avatars.githubusercontent.com/u/477167?u=3c48fac849cc498b3a32273fb49d7bc72dd322d0&v=4&s=40"
+      "username": "maxbarsukov",
+      "realname": "Max Barsukov",
+      "profile": "https://github.com/maxbarsukov",
+      "commits": 271,
+      "avatar": "https://avatars.githubusercontent.com/u/60351594?u=bd54db9560cbc1424311047192edc1544f690729&v=4&s=40"
     },
     {
       "rank": 162,
-      "username": "darky",
-      "realname": "Vladislav Botvin",
-      "profile": "https://github.com/darky",
-      "commits": 265,
-      "avatar": "https://avatars.githubusercontent.com/u/1832800?u=e1f182dd1520ad1147c8ee5fca12a3e6b23c42e0&v=4&s=40"
+      "username": "cattyngmd",
+      "realname": "cattyn",
+      "profile": "https://github.com/cattyngmd",
+      "commits": 270,
+      "avatar": "https://avatars.githubusercontent.com/u/60744119?u=47a9dede338002c0172745aeec754cb3229d98fb&v=4&s=40"
     },
     {
       "rank": 163,
-      "username": "vdudouyt",
-      "realname": "Valentin Dudouyt",
-      "profile": "https://github.com/vdudouyt",
-      "commits": 259,
-      "avatar": "https://avatars.githubusercontent.com/u/1840936?u=0fdb0a8cf5178c24ec741956ce1e87016cbe8d49&v=4&s=40"
+      "username": "catamphetamine",
+      "realname": "Nikolay Kuchumov",
+      "profile": "https://github.com/catamphetamine",
+      "commits": 268,
+      "avatar": "https://avatars.githubusercontent.com/u/477167?u=3c48fac849cc498b3a32273fb49d7bc72dd322d0&v=4&s=40"
     },
     {
       "rank": 164,
-      "username": "DevsDaddy",
-      "realname": "Elijah Brown",
-      "profile": "https://github.com/DevsDaddy",
-      "commits": 257,
-      "avatar": "https://avatars.githubusercontent.com/u/147835900?u=0004f816abd736699854bb39c47eb3a53418faed&v=4&s=40"
+      "username": "EvilBeaver",
+      "realname": "Andrei Ovsiankin",
+      "profile": "https://github.com/EvilBeaver",
+      "commits": 266,
+      "avatar": "https://avatars.githubusercontent.com/u/2657561?u=27d1218e7d8f840215016ef0e2126b23caeb1337&v=4&s=40"
     },
     {
       "rank": 165,
-      "username": "Chaosus",
-      "realname": "Yuri Rubinsky",
-      "profile": "https://github.com/Chaosus",
-      "commits": 255,
-      "avatar": "https://avatars.githubusercontent.com/u/3036176?u=b7a29bcb08b175990b038123ccccfac051b64834&v=4&s=40"
+      "username": "olegdayo",
+      "realname": "Oleg Sidorenkov",
+      "profile": "https://github.com/olegdayo",
+      "commits": 265,
+      "avatar": "https://avatars.githubusercontent.com/u/29378496?u=1708a95f76ce4bf6c8728e79c3fbaa01b16b7ca1&v=4&s=40"
     },
     {
       "rank": 166,
+      "username": "Taritsyn",
+      "realname": "Andrey Taritsyn",
+      "profile": "https://github.com/Taritsyn",
+      "commits": 261,
+      "avatar": "https://avatars.githubusercontent.com/u/251859?v=4&s=40"
+    },
+    {
+      "rank": 167,
+      "username": "ilyhalight",
+      "realname": "Toil",
+      "profile": "https://github.com/ilyhalight",
+      "commits": 261,
+      "avatar": "https://avatars.githubusercontent.com/u/62353659?u=3ac1c77066fa3d1d120885dae2b10e3487082729&v=4&s=40"
+    },
+    {
+      "rank": 168,
+      "username": "KotRikD",
+      "realname": "Mikhail Babynichev",
+      "profile": "https://github.com/KotRikD",
+      "commits": 259,
+      "avatar": "https://avatars.githubusercontent.com/u/23283658?u=d5017bdf478cf199b47394ce32e7af3e07238fcc&v=4&s=40"
+    },
+    {
+      "rank": 169,
+      "username": "DevsDaddy",
+      "realname": "Elijah Brown",
+      "profile": "https://github.com/DevsDaddy",
+      "commits": 256,
+      "avatar": "https://avatars.githubusercontent.com/u/147835900?u=0004f816abd736699854bb39c47eb3a53418faed&v=4&s=40"
+    },
+    {
+      "rank": 170,
       "username": "VladKalachev",
       "realname": "Corvax",
       "profile": "https://github.com/VladKalachev",
@@ -1326,7 +1358,23 @@
       "avatar": "https://avatars.githubusercontent.com/u/12778181?u=e653665872cc6456f88c00fd082781c26057dec2&v=4&s=40"
     },
     {
-      "rank": 167,
+      "rank": 171,
+      "username": "Chaosus",
+      "realname": "Yuri Rubinsky",
+      "profile": "https://github.com/Chaosus",
+      "commits": 255,
+      "avatar": "https://avatars.githubusercontent.com/u/3036176?u=b7a29bcb08b175990b038123ccccfac051b64834&v=4&s=40"
+    },
+    {
+      "rank": 172,
+      "username": "antonping",
+      "realname": "Anton Ping",
+      "profile": "https://github.com/antonping",
+      "commits": 254,
+      "avatar": "https://avatars.githubusercontent.com/u/46017366?u=e0dd0b2e0964b1a6fe165387ff77460478b3daf6&v=4&s=40"
+    },
+    {
+      "rank": 173,
       "username": "vicimpa",
       "realname": "PromiSe####",
       "profile": "https://github.com/vicimpa",
@@ -1334,7 +1382,14 @@
       "avatar": "https://avatars.githubusercontent.com/u/25244507?u=37737fa2e752560d61c28a16820287abc4ac0811&v=4&s=40"
     },
     {
-      "rank": 168,
+      "rank": 174,
+      "username": "ronimizy",
+      "profile": "https://github.com/ronimizy",
+      "commits": 253,
+      "avatar": "https://avatars.githubusercontent.com/u/71693183?u=df330da88daa71b3d41192a627809e83ac3c3330&v=4&s=40"
+    },
+    {
+      "rank": 175,
       "username": "Murcha1990",
       "realname": "Elena Kantonistova",
       "profile": "https://github.com/Murcha1990",
@@ -1342,7 +1397,15 @@
       "avatar": "https://avatars.githubusercontent.com/u/25839775?u=754271a92348e8c61e70f9f14b4bb19c413b2a98&v=4&s=40"
     },
     {
-      "rank": 169,
+      "rank": 176,
+      "username": "autowp",
+      "realname": "Dmitry",
+      "profile": "https://github.com/autowp",
+      "commits": 252,
+      "avatar": "https://avatars.githubusercontent.com/u/2299280?v=4&s=40"
+    },
+    {
+      "rank": 177,
       "username": "Zoomish",
       "realname": "Egor Rezvyi",
       "profile": "https://github.com/Zoomish",
@@ -1350,23 +1413,7 @@
       "avatar": "https://avatars.githubusercontent.com/u/99123419?u=d0f553b3c83860b7c55968c0464ff20cd63fbada&v=4&s=40"
     },
     {
-      "rank": 170,
-      "username": "nekitdev",
-      "realname": "Nikita Tikhonov",
-      "profile": "https://github.com/nekitdev",
-      "commits": 250,
-      "avatar": "https://avatars.githubusercontent.com/u/43587167?u=7ef13ff72b112797d30f6a4f4d18ef58edb3ea4c&v=4&s=40"
-    },
-    {
-      "rank": 171,
-      "username": "Taritsyn",
-      "realname": "Andrey Taritsyn",
-      "profile": "https://github.com/Taritsyn",
-      "commits": 250,
-      "avatar": "https://avatars.githubusercontent.com/u/251859?v=4&s=40"
-    },
-    {
-      "rank": 172,
+      "rank": 178,
       "username": "Timur-marii8st",
       "realname": "Timur",
       "profile": "https://github.com/Timur-marii8st",
@@ -1374,70 +1421,55 @@
       "avatar": "https://avatars.githubusercontent.com/u/188352169?u=53d00ee4467367e5ad61c0248265a448a70037c7&v=4&s=40"
     },
     {
-      "rank": 173,
-      "username": "KotRikD",
-      "realname": "Mikhail Babynichev",
-      "profile": "https://github.com/KotRikD",
-      "commits": 248,
-      "avatar": "https://avatars.githubusercontent.com/u/23283658?u=d5017bdf478cf199b47394ce32e7af3e07238fcc&v=4&s=40"
-    },
-    {
-      "rank": 174,
-      "username": "autowp",
-      "realname": "Dmitry",
-      "profile": "https://github.com/autowp",
-      "commits": 248,
-      "avatar": "https://avatars.githubusercontent.com/u/2299280?v=4&s=40"
-    },
-    {
-      "rank": 175,
-      "username": "ronimizy",
-      "profile": "https://github.com/ronimizy",
-      "commits": 248,
-      "avatar": "https://avatars.githubusercontent.com/u/71693183?u=df330da88daa71b3d41192a627809e83ac3c3330&v=4&s=40"
-    },
-    {
-      "rank": 176,
+      "rank": 179,
       "username": "DmitriyStupin",
       "realname": "Dmitriy Stupin",
       "profile": "https://github.com/DmitriyStupin",
-      "commits": 246,
+      "commits": 245,
       "avatar": "https://avatars.githubusercontent.com/u/112789576?u=774476dd6353e1b1afa02ae144b33c59f185c950&v=4&s=40"
     },
     {
-      "rank": 177,
+      "rank": 180,
       "username": "bravekirty",
       "realname": "Kirill Tarasov",
       "profile": "https://github.com/bravekirty",
-      "commits": 244,
+      "commits": 245,
       "avatar": "https://avatars.githubusercontent.com/u/120595999?u=c9a17bc1c6a63c80d147201e4622b52985efa746&v=4&s=40"
     },
     {
-      "rank": 178,
-      "username": "antonping",
-      "realname": "Anton Ping",
-      "profile": "https://github.com/antonping",
-      "commits": 244,
-      "avatar": "https://avatars.githubusercontent.com/u/46017366?u=e0dd0b2e0964b1a6fe165387ff77460478b3daf6&v=4&s=40"
+      "rank": 181,
+      "username": "grafov",
+      "realname": "Alexander I.Grafov",
+      "profile": "https://github.com/grafov",
+      "commits": 241,
+      "avatar": "https://avatars.githubusercontent.com/u/607056?u=b691ce2a41cc3b73ac7aad318a8ec9eea257af21&v=4&s=40"
     },
     {
-      "rank": 179,
-      "username": "idlesign",
-      "realname": "Igor Starikov",
-      "profile": "https://github.com/idlesign",
-      "commits": 238,
-      "avatar": "https://avatars.githubusercontent.com/u/145644?v=4&s=40"
-    },
-    {
-      "rank": 180,
+      "rank": 182,
       "username": "unlight",
       "realname": "Roman Vasilev",
       "profile": "https://github.com/unlight",
-      "commits": 233,
+      "commits": 238,
       "avatar": "https://avatars.githubusercontent.com/u/301732?u=1a5f09a055ae9e1f3f7865cbdc80c53ebedb1d3a&v=4&s=40"
     },
     {
-      "rank": 181,
+      "rank": 183,
+      "username": "vdudouyt",
+      "realname": "Valentin Dudouyt",
+      "profile": "https://github.com/vdudouyt",
+      "commits": 238,
+      "avatar": "https://avatars.githubusercontent.com/u/1840936?u=0fdb0a8cf5178c24ec741956ce1e87016cbe8d49&v=4&s=40"
+    },
+    {
+      "rank": 184,
+      "username": "idlesign",
+      "realname": "Igor Starikov",
+      "profile": "https://github.com/idlesign",
+      "commits": 234,
+      "avatar": "https://avatars.githubusercontent.com/u/145644?v=4&s=40"
+    },
+    {
+      "rank": 185,
       "username": "CODeRUS",
       "realname": "CODeRUS",
       "profile": "https://github.com/CODeRUS",
@@ -1445,23 +1477,15 @@
       "avatar": "https://avatars.githubusercontent.com/u/720601?v=4&s=40"
     },
     {
-      "rank": 182,
-      "username": "canonic-epicure",
-      "realname": "Nickolay Platonov",
-      "profile": "https://github.com/canonic-epicure",
-      "commits": 232,
-      "avatar": "https://avatars.githubusercontent.com/u/72431?u=0a180a84e71724d9d43a5122105b96e862a4036b&v=4&s=40"
+      "rank": 186,
+      "username": "onokonem",
+      "realname": "Daniel Podolsky",
+      "profile": "https://github.com/onokonem",
+      "commits": 233,
+      "avatar": "https://avatars.githubusercontent.com/u/1049874?u=57c49139dca7942246ae8dac9fd3011d3fddf5d9&v=4&s=40"
     },
     {
-      "rank": 183,
-      "username": "VladimirCores",
-      "realname": "Vladimir Cores",
-      "profile": "https://github.com/VladimirCores",
-      "commits": 229,
-      "avatar": "https://avatars.githubusercontent.com/u/442111?u=2d21b4661258c74958f269afe16afc0311b1e506&v=4&s=40"
-    },
-    {
-      "rank": 184,
+      "rank": 187,
       "username": "halltape",
       "realname": "Evgeny Vindyukov",
       "profile": "https://github.com/halltape",
@@ -1469,15 +1493,15 @@
       "avatar": "https://avatars.githubusercontent.com/u/64980230?u=57707197ec097b51443d32ab3f43173d40fc7b63&v=4&s=40"
     },
     {
-      "rank": 185,
-      "username": "vadv",
-      "realname": "vadv",
-      "profile": "https://github.com/vadv",
+      "rank": 188,
+      "username": "antonkomarev",
+      "realname": "Anton Komarev",
+      "profile": "https://github.com/antonkomarev",
       "commits": 229,
-      "avatar": "https://avatars.githubusercontent.com/u/539450?u=85c48e80eda9cfc2ae81441820dcec5027f95622&v=4&s=40"
+      "avatar": "https://avatars.githubusercontent.com/u/1849174?u=408c61601f1d70dd70f258df4d1f491bb42652c8&v=4&s=40"
     },
     {
-      "rank": 186,
+      "rank": 189,
       "username": "VadimBoev",
       "realname": "Vadim Boev",
       "profile": "https://github.com/VadimBoev",
@@ -1485,84 +1509,60 @@
       "avatar": "https://avatars.githubusercontent.com/u/33985574?u=e3290fdc762ceddbad6616acb07981aac516dbb6&v=4&s=40"
     },
     {
-      "rank": 187,
-      "username": "maksimr",
-      "realname": "Maksim Ryzhikov",
-      "profile": "https://github.com/maksimr",
-      "commits": 223,
-      "avatar": "https://avatars.githubusercontent.com/u/616193?u=f840f1587022fb5edb55a056c06bfe1c30a02b55&v=4&s=40"
-    },
-    {
-      "rank": 188,
+      "rank": 190,
       "username": "Xerkus",
       "realname": "Aleksei Khudiakov",
       "profile": "https://github.com/Xerkus",
-      "commits": 223,
+      "commits": 224,
       "avatar": "https://avatars.githubusercontent.com/u/725842?v=4&s=40"
     },
     {
-      "rank": 189,
-      "username": "teacher-cheater",
-      "realname": "Evgeniy Nekipelov",
-      "profile": "https://github.com/teacher-cheater",
-      "commits": 221,
-      "avatar": "https://avatars.githubusercontent.com/u/85887160?u=ca4f2aa182d627c285c743cc36f84c27c10ca970&v=4&s=40"
-    },
-    {
-      "rank": 190,
-      "username": "ehristoforu",
-      "realname": "Evgeniy Hristoforu",
-      "profile": "https://github.com/ehristoforu",
-      "commits": 221,
-      "avatar": "https://avatars.githubusercontent.com/u/136880927?u=95128b4a798c377222ce1c1d7c61650b97d57276&v=4&s=40"
-    },
-    {
       "rank": 191,
-      "username": "vtolstov",
-      "realname": "Vasiliy Tolstov",
-      "profile": "https://github.com/vtolstov",
-      "commits": 221,
-      "avatar": "https://avatars.githubusercontent.com/u/481307?v=4&s=40"
+      "username": "canonic-epicure",
+      "realname": "Nickolay Platonov",
+      "profile": "https://github.com/canonic-epicure",
+      "commits": 224,
+      "avatar": "https://avatars.githubusercontent.com/u/72431?u=0a180a84e71724d9d43a5122105b96e862a4036b&v=4&s=40"
     },
     {
       "rank": 192,
-      "username": "onokonem",
-      "realname": "Daniel Podolsky",
-      "profile": "https://github.com/onokonem",
-      "commits": 219,
-      "avatar": "https://avatars.githubusercontent.com/u/1049874?u=57c49139dca7942246ae8dac9fd3011d3fddf5d9&v=4&s=40"
+      "username": "ehristoforu",
+      "realname": "Evgeniy Hristoforu",
+      "profile": "https://github.com/ehristoforu",
+      "commits": 222,
+      "avatar": "https://avatars.githubusercontent.com/u/136880927?u=95128b4a798c377222ce1c1d7c61650b97d57276&v=4&s=40"
     },
     {
       "rank": 193,
-      "username": "grafov",
-      "realname": "Alexander I.Grafov",
-      "profile": "https://github.com/grafov",
-      "commits": 217,
-      "avatar": "https://avatars.githubusercontent.com/u/607056?u=b691ce2a41cc3b73ac7aad318a8ec9eea257af21&v=4&s=40"
+      "username": "Olegt0rr",
+      "realname": "Oleg A.",
+      "profile": "https://github.com/Olegt0rr",
+      "commits": 218,
+      "avatar": "https://avatars.githubusercontent.com/u/25399456?u=3e87b5239a2f4600975ba13be73054f8567c6060&v=4&s=40"
     },
     {
       "rank": 194,
-      "username": "antonkomarev",
-      "realname": "Anton Komarev",
-      "profile": "https://github.com/antonkomarev",
-      "commits": 216,
-      "avatar": "https://avatars.githubusercontent.com/u/1849174?u=408c61601f1d70dd70f258df4d1f491bb42652c8&v=4&s=40"
+      "username": "vtolstov",
+      "realname": "Vasiliy Tolstov",
+      "profile": "https://github.com/vtolstov",
+      "commits": 217,
+      "avatar": "https://avatars.githubusercontent.com/u/481307?v=4&s=40"
     },
     {
       "rank": 195,
-      "username": "ikorepanov",
-      "realname": "Ilia Korepanov",
-      "profile": "https://github.com/ikorepanov",
-      "commits": 216,
-      "avatar": "https://avatars.githubusercontent.com/u/108400524?u=5d13fc75807918b5d8752b7b8216736d1ea2365e&v=4&s=40"
-    },
-    {
-      "rank": 196,
       "username": "nonitut",
       "realname": "Nona",
       "profile": "https://github.com/nonitut",
-      "commits": 214,
+      "commits": 215,
       "avatar": "https://avatars.githubusercontent.com/u/87380138?u=d58b5d00a771b6e76da2e96a682f9af27a3ef05e&v=4&s=40"
+    },
+    {
+      "rank": 196,
+      "username": "ikorepanov",
+      "realname": "Ilia Korepanov",
+      "profile": "https://github.com/ikorepanov",
+      "commits": 215,
+      "avatar": "https://avatars.githubusercontent.com/u/108400524?u=5d13fc75807918b5d8752b7b8216736d1ea2365e&v=4&s=40"
     },
     {
       "rank": 197,
@@ -1574,6 +1574,14 @@
     },
     {
       "rank": 198,
+      "username": "shegeley",
+      "realname": "Grigory Shepelev",
+      "profile": "https://github.com/shegeley",
+      "commits": 213,
+      "avatar": "https://avatars.githubusercontent.com/u/8594472?u=81b26cde613d9fb9e35414f31cb238d0d8b087e0&v=4&s=40"
+    },
+    {
+      "rank": 199,
       "username": "eddyem",
       "realname": "Edward V. Emelianov",
       "profile": "https://github.com/eddyem",
@@ -1581,15 +1589,15 @@
       "avatar": "https://avatars.githubusercontent.com/u/210546?u=5d8f3f179e9a8f2bd2e2cf6e82e100822ce06c8e&v=4&s=40"
     },
     {
-      "rank": 199,
-      "username": "Olegt0rr",
-      "realname": "Oleg A.",
-      "profile": "https://github.com/Olegt0rr",
+      "rank": 200,
+      "username": "arelove",
+      "realname": "Ar3love",
+      "profile": "https://github.com/arelove",
       "commits": 209,
-      "avatar": "https://avatars.githubusercontent.com/u/25399456?u=3e87b5239a2f4600975ba13be73054f8567c6060&v=4&s=40"
+      "avatar": "https://avatars.githubusercontent.com/u/47655009?u=25bc3131bc537b64acefc33c2c8c2fa317ef6437&v=4&s=40"
     },
     {
-      "rank": 200,
+      "rank": 201,
       "username": "Melevir",
       "realname": "Ilya Lebedev",
       "profile": "https://github.com/Melevir",
@@ -1597,7 +1605,7 @@
       "avatar": "https://avatars.githubusercontent.com/u/1488499?v=4&s=40"
     },
     {
-      "rank": 201,
+      "rank": 202,
       "username": "adw0rd",
       "realname": "Mikhail Andreev",
       "profile": "https://github.com/adw0rd",
@@ -1605,7 +1613,23 @@
       "avatar": "https://avatars.githubusercontent.com/u/546889?u=fc3a21cf375c0fc420dfec64e73ecd1b625c7618&v=4&s=40"
     },
     {
-      "rank": 202,
+      "rank": 203,
+      "username": "flexagoon",
+      "realname": "Pavel Zolotarevskiy",
+      "profile": "https://github.com/flexagoon",
+      "commits": 205,
+      "avatar": "https://avatars.githubusercontent.com/u/66178592?u=91c5ee8c5fd75f8c902241fc47c8fc28475bf221&v=4&s=40"
+    },
+    {
+      "rank": 204,
+      "username": "juwain",
+      "realname": "Vitaly Zyuzin",
+      "profile": "https://github.com/juwain",
+      "commits": 205,
+      "avatar": "https://avatars.githubusercontent.com/u/928081?u=fdc344d42a556460fad9193af4f14ea6a975b159&v=4&s=40"
+    },
+    {
+      "rank": 205,
       "username": "Fafnur",
       "realname": "Aleksandr Serenko",
       "profile": "https://github.com/Fafnur",
@@ -1613,7 +1637,7 @@
       "avatar": "https://avatars.githubusercontent.com/u/3624224?u=4eaa4fdda1cd04782c0acfa13332de6f616cce3a&v=4&s=40"
     },
     {
-      "rank": 203,
+      "rank": 206,
       "username": "cgytrus",
       "realname": "ConfiG",
       "profile": "https://github.com/cgytrus",
@@ -1621,31 +1645,15 @@
       "avatar": "https://avatars.githubusercontent.com/u/30120687?u=0c79068098be4b22a6da7e260da38a321c7cdf96&v=4&s=40"
     },
     {
-      "rank": 204,
-      "username": "MisterZtr",
-      "realname": "Andrey",
-      "profile": "https://github.com/MisterZtr",
-      "commits": 204,
-      "avatar": "https://avatars.githubusercontent.com/u/87061244?u=4f37d191a8feabe138518cf157767f1afdba25f8&v=4&s=40"
-    },
-    {
-      "rank": 205,
-      "username": "flexagoon",
-      "realname": "Pavel Zolotarevskiy",
-      "profile": "https://github.com/flexagoon",
-      "commits": 203,
-      "avatar": "https://avatars.githubusercontent.com/u/66178592?u=91c5ee8c5fd75f8c902241fc47c8fc28475bf221&v=4&s=40"
-    },
-    {
-      "rank": 206,
-      "username": "Xottab-DUTY",
-      "realname": "Sultan Luchezarniy",
-      "profile": "https://github.com/Xottab-DUTY",
-      "commits": 202,
-      "avatar": "https://avatars.githubusercontent.com/u/2989212?u=d5568086f1525fbe2d6568319e0e59234580fc52&v=4&s=40"
-    },
-    {
       "rank": 207,
+      "username": "teacher-cheater",
+      "realname": "Evgeniy Nekipelov",
+      "profile": "https://github.com/teacher-cheater",
+      "commits": 203,
+      "avatar": "https://avatars.githubusercontent.com/u/85887160?u=ca4f2aa182d627c285c743cc36f84c27c10ca970&v=4&s=40"
+    },
+    {
+      "rank": 208,
       "username": "TotallyNotAHaxxer",
       "realname": "Totally_Not_A_Haxxer",
       "profile": "https://github.com/TotallyNotAHaxxer",
@@ -1653,15 +1661,15 @@
       "avatar": "https://avatars.githubusercontent.com/u/87203697?u=bc8a48faa6f7a990ddf13e2412ff43d5356808f0&v=4&s=40"
     },
     {
-      "rank": 208,
-      "username": "shegeley",
-      "realname": "Grigory Shepelev",
-      "profile": "https://github.com/shegeley",
+      "rank": 209,
+      "username": "MisterZtr",
+      "realname": "Andrey",
+      "profile": "https://github.com/MisterZtr",
       "commits": 202,
-      "avatar": "https://avatars.githubusercontent.com/u/8594472?u=81b26cde613d9fb9e35414f31cb238d0d8b087e0&v=4&s=40"
+      "avatar": "https://avatars.githubusercontent.com/u/87061244?u=4f37d191a8feabe138518cf157767f1afdba25f8&v=4&s=40"
     },
     {
-      "rank": 209,
+      "rank": 210,
       "username": "codersgyan",
       "realname": "Rakesh K",
       "profile": "https://github.com/codersgyan",
@@ -1669,7 +1677,7 @@
       "avatar": "https://avatars.githubusercontent.com/u/62266237?u=f2c511a892852df2989e130706a30e31d43e6284&v=4&s=40"
     },
     {
-      "rank": 210,
+      "rank": 211,
       "username": "igorsimdyanov",
       "realname": "Игорь Симдянов",
       "profile": "https://github.com/igorsimdyanov",
@@ -1677,7 +1685,7 @@
       "avatar": "https://avatars.githubusercontent.com/u/2901012?u=437382b53ab8cfe8b081dc3dbde5c029e62ccd32&v=4&s=40"
     },
     {
-      "rank": 211,
+      "rank": 212,
       "username": "aleksandr-kotlyar",
       "realname": "Aleksandr Kotlyar",
       "profile": "https://github.com/aleksandr-kotlyar",
@@ -1685,15 +1693,15 @@
       "avatar": "https://avatars.githubusercontent.com/u/17043964?u=e68f9cc67ad8150cb4eaec602d7925e2c833399b&v=4&s=40"
     },
     {
-      "rank": 212,
-      "username": "s1lentq",
-      "realname": "Dmitry Novikov",
-      "profile": "https://github.com/s1lentq",
-      "commits": 197,
-      "avatar": "https://avatars.githubusercontent.com/u/5860435?u=27024edf31a734f1da98e53cb5db407a7ee721f1&v=4&s=40"
+      "rank": 213,
+      "username": "Xottab-DUTY",
+      "realname": "Sultan Luchezarniy",
+      "profile": "https://github.com/Xottab-DUTY",
+      "commits": 198,
+      "avatar": "https://avatars.githubusercontent.com/u/2989212?u=d5568086f1525fbe2d6568319e0e59234580fc52&v=4&s=40"
     },
     {
-      "rank": 213,
+      "rank": 214,
       "username": "Gerstep",
       "realname": "stepan",
       "profile": "https://github.com/Gerstep",
@@ -1701,39 +1709,7 @@
       "avatar": "https://avatars.githubusercontent.com/u/4238470?u=1f555fe174f6c997d12ea22e77556d227e329f3c&v=4&s=40"
     },
     {
-      "rank": 214,
-      "username": "juwain",
-      "realname": "Vitaly Zyuzin",
-      "profile": "https://github.com/juwain",
-      "commits": 197,
-      "avatar": "https://avatars.githubusercontent.com/u/928081?u=fdc344d42a556460fad9193af4f14ea6a975b159&v=4&s=40"
-    },
-    {
       "rank": 215,
-      "username": "r57zone",
-      "realname": "Кладовая",
-      "profile": "https://github.com/r57zone",
-      "commits": 197,
-      "avatar": "https://avatars.githubusercontent.com/u/9499881?u=0ceef9f59bbea2a75d2da90c00c03b189c0e7cd1&v=4&s=40"
-    },
-    {
-      "rank": 216,
-      "username": "ZakharDay",
-      "realname": "ZakharDay",
-      "profile": "https://github.com/ZakharDay",
-      "commits": 197,
-      "avatar": "https://avatars.githubusercontent.com/u/815596?v=4&s=40"
-    },
-    {
-      "rank": 217,
-      "username": "realkarych",
-      "realname": "Andrey Karchevsky",
-      "profile": "https://github.com/realkarych",
-      "commits": 196,
-      "avatar": "https://avatars.githubusercontent.com/u/62261985?u=0f981e73fb34016fa7ce919db0bb5764d23d20ff&v=4&s=40"
-    },
-    {
-      "rank": 218,
       "username": "js-neo",
       "realname": "JS-Neo",
       "profile": "https://github.com/js-neo",
@@ -1741,7 +1717,7 @@
       "avatar": "https://avatars.githubusercontent.com/u/70598683?u=01053be0c6afb5f6172670322a499b887c9066e3&v=4&s=40"
     },
     {
-      "rank": 219,
+      "rank": 216,
       "username": "kostja",
       "realname": "Konstantin Osipov",
       "profile": "https://github.com/kostja",
@@ -1749,7 +1725,23 @@
       "avatar": "https://avatars.githubusercontent.com/u/482910?u=b76308ed86961c1c146d5d78a86b0d726b6ef0a1&v=4&s=40"
     },
     {
-      "rank": 220,
+      "rank": 217,
+      "username": "s1lentq",
+      "realname": "Dmitry Novikov",
+      "profile": "https://github.com/s1lentq",
+      "commits": 196,
+      "avatar": "https://avatars.githubusercontent.com/u/5860435?u=27024edf31a734f1da98e53cb5db407a7ee721f1&v=4&s=40"
+    },
+    {
+      "rank": 218,
+      "username": "r57zone",
+      "realname": "Кладовая",
+      "profile": "https://github.com/r57zone",
+      "commits": 194,
+      "avatar": "https://avatars.githubusercontent.com/u/9499881?u=0ceef9f59bbea2a75d2da90c00c03b189c0e7cd1&v=4&s=40"
+    },
+    {
+      "rank": 219,
       "username": "iGusev",
       "realname": "Ilya Gusev",
       "profile": "https://github.com/iGusev",
@@ -1757,7 +1749,7 @@
       "avatar": "https://avatars.githubusercontent.com/u/1555767?v=4&s=40"
     },
     {
-      "rank": 221,
+      "rank": 220,
       "username": "thedemoncat",
       "realname": "Ruslan Zhdanov",
       "profile": "https://github.com/thedemoncat",
@@ -1765,23 +1757,7 @@
       "avatar": "https://avatars.githubusercontent.com/u/26283990?u=dde6e69f10ca51c75fcb461baca851bedb3dc55e&v=4&s=40"
     },
     {
-      "rank": 222,
-      "username": "arelove",
-      "realname": "Ar3love",
-      "profile": "https://github.com/arelove",
-      "commits": 189,
-      "avatar": "https://avatars.githubusercontent.com/u/47655009?u=25bc3131bc537b64acefc33c2c8c2fa317ef6437&v=4&s=40"
-    },
-    {
-      "rank": 223,
-      "username": "akardapolov",
-      "realname": "Alexander Kardapolov",
-      "profile": "https://github.com/akardapolov",
-      "commits": 188,
-      "avatar": "https://avatars.githubusercontent.com/u/537977?u=cf5e3cc93cbfba3273f587a6ba2d665877d193f9&v=4&s=40"
-    },
-    {
-      "rank": 224,
+      "rank": 221,
       "username": "SunOner",
       "realname": "SunOne",
       "profile": "https://github.com/SunOner",
@@ -1789,7 +1765,23 @@
       "avatar": "https://avatars.githubusercontent.com/u/44489132?u=f5a0b8b86f14c70120114b705f9b16a6e6aa2a19&v=4&s=40"
     },
     {
-      "rank": 225,
+      "rank": 222,
+      "username": "TheWitcher1991",
+      "realname": "Ashot Svazyan 🐸",
+      "profile": "https://github.com/TheWitcher1991",
+      "commits": 187,
+      "avatar": "https://avatars.githubusercontent.com/u/43704709?u=5112d70091939a7ace8514a6223d527542f82738&v=4&s=40"
+    },
+    {
+      "rank": 223,
+      "username": "akardapolov",
+      "realname": "Alexander Kardapolov",
+      "profile": "https://github.com/akardapolov",
+      "commits": 186,
+      "avatar": "https://avatars.githubusercontent.com/u/537977?u=cf5e3cc93cbfba3273f587a6ba2d665877d193f9&v=4&s=40"
+    },
+    {
+      "rank": 224,
       "username": "ilyakurdyukov",
       "realname": "Ilya Kurdyukov",
       "profile": "https://github.com/ilyakurdyukov",
@@ -1797,31 +1789,55 @@
       "avatar": "https://avatars.githubusercontent.com/u/59548320?u=564a80e0002fba315edc8dd0093cbe228055c802&v=4&s=40"
     },
     {
-      "rank": 226,
-      "username": "mediaexplorer74",
-      "realname": "Media Explorer",
-      "profile": "https://github.com/mediaexplorer74",
-      "commits": 184,
-      "avatar": "https://avatars.githubusercontent.com/u/12032735?u=0ae13fc289f3a235994f10915f07b15298f2c0e5&v=4&s=40"
-    },
-    {
-      "rank": 227,
-      "username": "artamonoff",
-      "realname": "Nikita Artamonov",
-      "profile": "https://github.com/artamonoff",
-      "commits": 182,
-      "avatar": "https://avatars.githubusercontent.com/u/17985663?u=9cdc5c8e283680d6271010eeb4b9551c62eb97e2&v=4&s=40"
-    },
-    {
-      "rank": 228,
+      "rank": 225,
       "username": "MichaelPilyavskiy",
       "realname": "MPL",
       "profile": "https://github.com/MichaelPilyavskiy",
-      "commits": 181,
+      "commits": 185,
       "avatar": "https://avatars.githubusercontent.com/u/12525837?u=7b078642f0c0d9c9dd645ee9dc296bb12685c00c&v=4&s=40"
     },
     {
+      "rank": 226,
+      "username": "artamonoff",
+      "realname": "Nikita Artamonov",
+      "profile": "https://github.com/artamonoff",
+      "commits": 183,
+      "avatar": "https://avatars.githubusercontent.com/u/17985663?u=9cdc5c8e283680d6271010eeb4b9551c62eb97e2&v=4&s=40"
+    },
+    {
+      "rank": 227,
+      "username": "ZakharDay",
+      "realname": "ZakharDay",
+      "profile": "https://github.com/ZakharDay",
+      "commits": 183,
+      "avatar": "https://avatars.githubusercontent.com/u/815596?v=4&s=40"
+    },
+    {
+      "rank": 228,
+      "username": "ovcharenko-di",
+      "realname": "Dima Ovcharenko",
+      "profile": "https://github.com/ovcharenko-di",
+      "commits": 180,
+      "avatar": "https://avatars.githubusercontent.com/u/24920942?u=d9f0edcc84c8f563b85dc29a0aaf1e31ec6a38c0&v=4&s=40"
+    },
+    {
       "rank": 229,
+      "username": "mediaexplorer74",
+      "realname": "Media Explorer",
+      "profile": "https://github.com/mediaexplorer74",
+      "commits": 180,
+      "avatar": "https://avatars.githubusercontent.com/u/12032735?u=0ae13fc289f3a235994f10915f07b15298f2c0e5&v=4&s=40"
+    },
+    {
+      "rank": 230,
+      "username": "Psycrow101",
+      "realname": "Psycrow",
+      "profile": "https://github.com/Psycrow101",
+      "commits": 180,
+      "avatar": "https://avatars.githubusercontent.com/u/31922454?u=31722d26999db16867c782a05ff15770ce42c34b&v=4&s=40"
+    },
+    {
+      "rank": 231,
       "username": "ymatuhin",
       "realname": "Yury Matuhin",
       "profile": "https://github.com/ymatuhin",
@@ -1829,28 +1845,11 @@
       "avatar": "https://avatars.githubusercontent.com/u/3757971?u=92d1d46dbe37449e7bde4a5c955b1ef0f954fbb1&v=4&s=40"
     },
     {
-      "rank": 230,
-      "username": "ovcharenko-di",
-      "realname": "Dima Ovcharenko",
-      "profile": "https://github.com/ovcharenko-di",
-      "commits": 178,
-      "avatar": "https://avatars.githubusercontent.com/u/24920942?u=d9f0edcc84c8f563b85dc29a0aaf1e31ec6a38c0&v=4&s=40"
-    },
-    {
-      "rank": 231,
-      "username": "TheWitcher1991",
-      "realname": "Ashot Svazyan 🐸",
-      "profile": "https://github.com/TheWitcher1991",
-      "commits": 178,
-      "avatar": "https://avatars.githubusercontent.com/u/43704709?u=5112d70091939a7ace8514a6223d527542f82738&v=4&s=40"
-    },
-    {
       "rank": 232,
-      "username": "hikariatama",
-      "realname": "Daniil Gazizullin",
-      "profile": "https://github.com/hikariatama",
-      "commits": 178,
-      "avatar": "https://avatars.githubusercontent.com/u/36935426?u=462386ceba26ea4cc888c2d79bbf37457cc360b3&v=4&s=40"
+      "username": "melonges",
+      "profile": "https://github.com/melonges",
+      "commits": 177,
+      "avatar": "https://avatars.githubusercontent.com/u/70666395?u=e2a478daa123c7a42bc394f6f6cee4297034349f&v=4&s=40"
     },
     {
       "rank": 233,
@@ -1862,51 +1861,50 @@
     },
     {
       "rank": 234,
-      "username": "Psycrow101",
-      "realname": "Psycrow",
-      "profile": "https://github.com/Psycrow101",
-      "commits": 175,
-      "avatar": "https://avatars.githubusercontent.com/u/31922454?u=31722d26999db16867c782a05ff15770ce42c34b&v=4&s=40"
+      "username": "hikariatama",
+      "realname": "Daniil Gazizullin",
+      "profile": "https://github.com/hikariatama",
+      "commits": 174,
+      "avatar": "https://avatars.githubusercontent.com/u/36935426?u=462386ceba26ea4cc888c2d79bbf37457cc360b3&v=4&s=40"
     },
     {
       "rank": 235,
       "username": "3F",
       "realname": "Denis Kuzmin",
       "profile": "https://github.com/3F",
-      "commits": 173,
+      "commits": 172,
       "avatar": "https://avatars.githubusercontent.com/u/3246589?v=4&s=40"
     },
     {
       "rank": 236,
-      "username": "bartwell",
-      "realname": "Artem Bazhanov",
-      "profile": "https://github.com/bartwell",
-      "commits": 173,
-      "avatar": "https://avatars.githubusercontent.com/u/1823669?v=4&s=40"
-    },
-    {
-      "rank": 237,
       "username": "timmson",
       "realname": "Artem Krotov",
       "profile": "https://github.com/timmson",
-      "commits": 170,
+      "commits": 171,
       "avatar": "https://avatars.githubusercontent.com/u/3248561?u=230f9123dd91e8e153539491d5c4ad1fa09ea051&v=4&s=40"
     },
     {
+      "rank": 237,
+      "username": "bartwell",
+      "realname": "Artem Bazhanov",
+      "profile": "https://github.com/bartwell",
+      "commits": 167,
+      "avatar": "https://avatars.githubusercontent.com/u/1823669?v=4&s=40"
+    },
+    {
       "rank": 238,
-      "username": "akpaevj",
-      "realname": "Akpaev Evgeny",
-      "profile": "https://github.com/akpaevj",
-      "commits": 165,
-      "avatar": "https://avatars.githubusercontent.com/u/40080662?u=35b42f3fea8c89124b69960f1d96f53433b347dd&v=4&s=40"
+      "username": "lorien",
+      "profile": "https://github.com/lorien",
+      "commits": 164,
+      "avatar": "https://avatars.githubusercontent.com/u/35171?u=37cb80f8ee6638729cc52f182d46cff3788a0aa7&v=4&s=40"
     },
     {
       "rank": 239,
-      "username": "aleksandrresetnikov",
-      "realname": "SANE5K",
-      "profile": "https://github.com/aleksandrresetnikov",
-      "commits": 165,
-      "avatar": "https://avatars.githubusercontent.com/u/84617085?u=d1622df6c80bcfbaab3ff2f5b6352abff4a69364&v=4&s=40"
+      "username": "bdemeshev",
+      "realname": "Boris Demeshev",
+      "profile": "https://github.com/bdemeshev",
+      "commits": 162,
+      "avatar": "https://avatars.githubusercontent.com/u/1075773?u=c9f67c4b3416456f45ae86dfa0af63179482f90a&v=4&s=40"
     },
     {
       "rank": 240,
@@ -1918,45 +1916,14 @@
     },
     {
       "rank": 241,
-      "username": "OlegCheban",
-      "realname": "Oleg Cheban",
-      "profile": "https://github.com/OlegCheban",
-      "commits": 161,
-      "avatar": "https://avatars.githubusercontent.com/u/51209034?u=4f7dc83db3795e00b8ae7bf53626873046256196&v=4&s=40"
-    },
-    {
-      "rank": 242,
-      "username": "lorien",
-      "profile": "https://github.com/lorien",
-      "commits": 161,
-      "avatar": "https://avatars.githubusercontent.com/u/35171?u=37cb80f8ee6638729cc52f182d46cff3788a0aa7&v=4&s=40"
-    },
-    {
-      "rank": 243,
-      "username": "Airkek",
-      "realname": "Anton Babichev",
-      "profile": "https://github.com/Airkek",
-      "commits": 159,
-      "avatar": "https://avatars.githubusercontent.com/u/45855057?u=7b50be4371a4e6a5ae37f8cba906338e27e1171a&v=4&s=40"
-    },
-    {
-      "rank": 244,
-      "username": "Niklan",
-      "realname": "Nikita Malyshev",
-      "profile": "https://github.com/Niklan",
-      "commits": 157,
-      "avatar": "https://avatars.githubusercontent.com/u/2356744?u=51c4b909696f3ea825d2b8fb1242c107374e456f&v=4&s=40"
-    },
-    {
-      "rank": 245,
       "username": "timurb",
       "realname": "Timur Batyrshin",
       "profile": "https://github.com/timurb",
-      "commits": 157,
+      "commits": 158,
       "avatar": "https://avatars.githubusercontent.com/u/209945?v=4&s=40"
     },
     {
-      "rank": 246,
+      "rank": 242,
       "username": "petrochenkov",
       "realname": "Vadim Petrochenkov",
       "profile": "https://github.com/petrochenkov",
@@ -1964,14 +1931,7 @@
       "avatar": "https://avatars.githubusercontent.com/u/5751617?u=33b44cbfd337b51814048a70b4a0ba677d39a3b8&v=4&s=40"
     },
     {
-      "rank": 247,
-      "username": "melonges",
-      "profile": "https://github.com/melonges",
-      "commits": 156,
-      "avatar": "https://avatars.githubusercontent.com/u/70666395?u=e2a478daa123c7a42bc394f6f6cee4297034349f&v=4&s=40"
-    },
-    {
-      "rank": 248,
+      "rank": 243,
       "username": "sozykin",
       "realname": "Andrey Sozykin",
       "profile": "https://github.com/sozykin",
@@ -1979,44 +1939,84 @@
       "avatar": "https://avatars.githubusercontent.com/u/7496296?u=5085dc6d16b6bdfb575e5a2f401c0f8c773f7a50&v=4&s=40"
     },
     {
-      "rank": 249,
-      "username": "bdemeshev",
-      "realname": "Boris Demeshev",
-      "profile": "https://github.com/bdemeshev",
-      "commits": 152,
-      "avatar": "https://avatars.githubusercontent.com/u/1075773?u=c9f67c4b3416456f45ae86dfa0af63179482f90a&v=4&s=40"
+      "rank": 244,
+      "username": "V3nilla",
+      "realname": "lxstwxrden",
+      "profile": "https://github.com/V3nilla",
+      "commits": 155,
+      "avatar": "https://avatars.githubusercontent.com/u/48512277?u=e30f3c7b3ad00a3258021dc29079e7764ce05412&v=4&s=40"
     },
     {
-      "rank": 250,
-      "username": "kshilin",
-      "realname": "Kirill Shilin",
-      "profile": "https://github.com/kshilin",
-      "commits": 151,
-      "avatar": "https://avatars.githubusercontent.com/u/50742535?u=4c1b3d45b2017ee21ea773ca4811223b8ecf1ad1&v=4&s=40"
+      "rank": 245,
+      "username": "OlegCheban",
+      "realname": "Oleg Cheban",
+      "profile": "https://github.com/OlegCheban",
+      "commits": 154,
+      "avatar": "https://avatars.githubusercontent.com/u/51209034?u=4f7dc83db3795e00b8ae7bf53626873046256196&v=4&s=40"
     },
     {
-      "rank": 251,
+      "rank": 246,
       "username": "igsekor",
       "realname": "Igor Korovchenko",
       "profile": "https://github.com/igsekor",
-      "commits": 150,
+      "commits": 153,
       "avatar": "https://avatars.githubusercontent.com/u/13916521?u=c55489615932915c0f7930429651b0152fad7d2e&v=4&s=40"
+    },
+    {
+      "rank": 247,
+      "username": "Airkek",
+      "realname": "Anton Babichev",
+      "profile": "https://github.com/Airkek",
+      "commits": 152,
+      "avatar": "https://avatars.githubusercontent.com/u/45855057?u=7b50be4371a4e6a5ae37f8cba906338e27e1171a&v=4&s=40"
+    },
+    {
+      "rank": 248,
+      "username": "Dimekadze",
+      "realname": "Dima Bukharin",
+      "profile": "https://github.com/Dimekadze",
+      "commits": 152,
+      "avatar": "https://avatars.githubusercontent.com/u/111676756?u=8e529d8a75366d41d156580394975a660daf72af&v=4&s=40"
+    },
+    {
+      "rank": 249,
+      "username": "kshilin",
+      "realname": "Kirill Shilin",
+      "profile": "https://github.com/kshilin",
+      "commits": 152,
+      "avatar": "https://avatars.githubusercontent.com/u/50742535?u=4c1b3d45b2017ee21ea773ca4811223b8ecf1ad1&v=4&s=40"
+    },
+    {
+      "rank": 250,
+      "username": "akpaevj",
+      "realname": "Akpaev Evgeny",
+      "profile": "https://github.com/akpaevj",
+      "commits": 151,
+      "avatar": "https://avatars.githubusercontent.com/u/40080662?u=35b42f3fea8c89124b69960f1d96f53433b347dd&v=4&s=40"
+    },
+    {
+      "rank": 251,
+      "username": "Niklan",
+      "realname": "Nikita Malyshev",
+      "profile": "https://github.com/Niklan",
+      "commits": 149,
+      "avatar": "https://avatars.githubusercontent.com/u/2356744?u=51c4b909696f3ea825d2b8fb1242c107374e456f&v=4&s=40"
     },
     {
       "rank": 252,
       "username": "Lomasterrrr",
       "realname": "lomaster",
       "profile": "https://github.com/Lomasterrrr",
-      "commits": 149,
+      "commits": 148,
       "avatar": "https://avatars.githubusercontent.com/u/119946584?u=998bd0869e9eb92897607dc0346a562169ca811b&v=4&s=40"
     },
     {
       "rank": 253,
-      "username": "Dimekadze",
-      "realname": "Dima Bukharin",
-      "profile": "https://github.com/Dimekadze",
-      "commits": 148,
-      "avatar": "https://avatars.githubusercontent.com/u/111676756?u=8e529d8a75366d41d156580394975a660daf72af&v=4&s=40"
+      "username": "aleksandrresetnikov",
+      "realname": "SANE5K",
+      "profile": "https://github.com/aleksandrresetnikov",
+      "commits": 146,
+      "avatar": "https://avatars.githubusercontent.com/u/84617085?u=d1622df6c80bcfbaab3ff2f5b6352abff4a69364&v=4&s=40"
     },
     {
       "rank": 254,
@@ -2036,11 +2036,11 @@
     },
     {
       "rank": 256,
-      "username": "nervgh",
-      "realname": "Alexandr Zaytsev",
-      "profile": "https://github.com/nervgh",
+      "username": "khusnetdinov",
+      "realname": "Marat Khusnetdinov",
+      "profile": "https://github.com/khusnetdinov",
       "commits": 142,
-      "avatar": "https://avatars.githubusercontent.com/u/2478262?v=4&s=40"
+      "avatar": "https://avatars.githubusercontent.com/u/3524630?u=83bd1409214ae19059ef6a629cbfecf11bdd184b&v=4&s=40"
     }
   ]
 }
