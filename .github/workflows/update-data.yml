@@ -30,9 +30,35 @@ jobs:
         run: node generate-sitemap.cjs
 
       - name: Commit changes
+        shell: bash
         run: |
           git config user.name "RensithUdara"
           git config user.email "rensithudaragonalagoda@gmail.com"
+
           git add public/data public/sitemap.xml
-          git diff --cached --quiet || git commit -m "Update committers data"
+
+          mapfile -t country_files < <(git diff --cached --name-only -- public/data/committers)
+
+          git reset -- public/data/committers
+          if ! git diff --cached --quiet; then
+            git commit -m "Update generated data"
+          fi
+
+          for file in "${country_files[@]}"; do
+            if [[ ! -e "$file" ]]; then
+              country_name="${file##*/}"
+              country_name="${country_name%.json}"
+              country_name="${country_name//_/ }"
+
+              git add "$file"
+              git commit -m "Update ${country_name} committers data"
+              continue
+            fi
+
+            country_name="$(node -e "const fs = require('fs'); const data = JSON.parse(fs.readFileSync(process.argv[1], 'utf8')); console.log(data.country?.name || process.argv[1].split('/').pop().replace(/\\.json$/, '').replace(/_/g, ' '));" "$file")"
+
+            git add "$file"
+            git commit -m "Update ${country_name} committers data"
+          done
+
           git push
