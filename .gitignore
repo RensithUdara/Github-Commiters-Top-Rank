@@ -27,3 +27,6 @@ dist-ssr
 .env*.local
 .vscode/*
 .env.local
+.env
+.env.*
+.env.production
