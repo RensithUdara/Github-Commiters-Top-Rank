@@ -4,10 +4,10 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "dev": "vite",
+    "dev": "node init && vite",
     "data:update": "node scripts/generate-data.mjs",
     "sitemap": "node generate-sitemap.cjs",
-    "build": "node ./generate-sitemap.cjs && tsc -b && vite build",
+    "build": "node init && node ./generate-sitemap.cjs && tsc -b && vite build",
     "lint": "eslint .",
     "preview": "vite preview"
   },
