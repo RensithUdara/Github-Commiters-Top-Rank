@@ -25,4 +25,7 @@ dist-ssr
 
 .vercel
 .env*.local
-config.bat
+.env
+.env.*
+.env.local
+.env.production
